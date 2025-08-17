@@ -1,0 +1,83 @@
+{
+  "date": "2025-08-17",
+  "summary": {
+    "total_visits": 121,
+    "unique_domains": 16,
+    "browsers_used": [
+      "chrome"
+    ],
+    "search_count": 14,
+    "category_count": 5
+  },
+  "highlights": {
+    "top_domains": [
+      [
+        "github.com",
+        58
+      ],
+      [
+        "www.google.com",
+        14
+      ],
+      [
+        "www.anaconda.com",
+        12
+      ],
+      [
+        "subicura.com",
+        9
+      ],
+      [
+        "www.udemy.com",
+        5
+      ]
+    ],
+    "top_searches": [
+      "github",
+      "github",
+      "깃허브 로컬 레포 올리기",
+      "깃허브 로컬 레포 올리기",
+      "깃허브 로컬 레포 올리기"
+    ],
+    "top_categories": [
+      [
+        "developer",
+        68
+      ],
+      [
+        "other",
+        44
+      ],
+      [
+        "education",
+        5
+      ],
+      [
+        "work",
+        3
+      ],
+      [
+        "shopping",
+        1
+      ]
+    ],
+    "peak_hour": 1
+  },
+  "insights": {
+    "search": [
+      "보통 수준의 검색 활동: 총 14회 검색",
+      "주요 검색 엔진: google (14회)",
+      "검색 피크 시간: 3시 (4회)"
+    ],
+    "category": [
+      "총 121회 방문, 5개 카테고리 활동",
+      "주요 활동 영역: developer (56.2%, 68회)",
+      "특정 카테고리에 집중된 웹사이트 사용"
+    ],
+    "general": [
+      "총 121회 웹사이트 방문",
+      "16개의 고유 도메인 접속",
+      "14개의 검색어 사용"
+    ]
+  }
+}
