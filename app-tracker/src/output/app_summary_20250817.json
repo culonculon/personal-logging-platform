@@ -1,0 +1,220 @@
+{
+  "collection_info": {
+    "timestamp": "2025-08-17T16:49:22.492947",
+    "collector": "AppCollector",
+    "platform": "macOS",
+    "version": "1.0.0"
+  },
+  "summary": {
+    "total_running_apps": 11,
+    "total_processes": 840,
+    "total_history_records": 12,
+    "analysis_timestamp": "2025-08-17T16:49:22.566744"
+  },
+  "category_analysis": {
+    "running_apps": {
+      "category_breakdown": {
+        "system": [
+          {
+            "app_name": "Finder",
+            "bundle_id": "com.apple.finder",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 630
+          },
+          {
+            "app_name": "활성 상태 보기",
+            "bundle_id": "com.apple.ActivityMonitor",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 7518
+          }
+        ],
+        "browser": [
+          {
+            "app_name": "Google Chrome",
+            "bundle_id": "com.google.Chrome",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 7615
+          }
+        ],
+        "communication": [
+          {
+            "app_name": "JANDI",
+            "bundle_id": "com.jandi.osx.JANDI",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 24289
+          },
+          {
+            "app_name": "카카오톡",
+            "bundle_id": "com.kakao.KakaoTalkMac",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 33581
+          }
+        ],
+        "developer": [
+          {
+            "app_name": "Code",
+            "bundle_id": "com.microsoft.VSCode",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 26461
+          },
+          {
+            "app_name": "터미널",
+            "bundle_id": "com.apple.Terminal",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 30284
+          },
+          {
+            "app_name": "GitHub Desktop",
+            "bundle_id": "com.github.GitHubClient",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 31725
+          },
+          {
+            "app_name": "Tabby",
+            "bundle_id": "org.tabby",
+            "is_active": true,
+            "is_frontmost": true,
+            "pid": 34169
+          }
+        ],
+        "productivity": [
+          {
+            "app_name": "Obsidian",
+            "bundle_id": "md.obsidian",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 32697
+          },
+          {
+            "app_name": "Claude",
+            "bundle_id": "com.anthropic.claudefordesktop",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 32796
+          }
+        ]
+      },
+      "category_counts": {
+        "system": 2,
+        "browser": 1,
+        "communication": 2,
+        "developer": 4,
+        "productivity": 2
+      },
+      "total_apps": 11,
+      "active_categories": 5
+    },
+    "usage_patterns": {
+      "category_usage_minutes": {
+        "developer": 60.0
+      },
+      "category_frequency": {
+        "developer": 12
+      },
+      "hourly_patterns": {
+        "16": {
+          "developer": 50.0
+        },
+        "15": {
+          "developer": 10.0
+        }
+      },
+      "top_categories": [
+        [
+          "developer",
+          60.0
+        ]
+      ]
+    },
+    "productivity_score": {
+      "current_productivity_score": 75.5,
+      "historical_productivity_score": 100.0,
+      "overall_score": 87.7,
+      "total_usage_minutes": 60,
+      "productivity_weights": {
+        "developer": 1.0,
+        "productivity": 0.9,
+        "communication": 0.7,
+        "browser": 0.5,
+        "entertainment": 0.1,
+        "gaming": 0.0,
+        "system": 0.3,
+        "other": 0.5
+      }
+    }
+  },
+  "top_apps": {
+    "most_used": [
+      [
+        "활성 상태 보기",
+        3529.53
+      ],
+      [
+        "Google Chrome",
+        3519.36
+      ],
+      [
+        "JANDI",
+        940.21
+      ],
+      [
+        "터미널",
+        820.59
+      ],
+      [
+        "GitHub Desktop",
+        731.73
+      ]
+    ],
+    "currently_running": [
+      {
+        "name": "Finder",
+        "category": "system"
+      },
+      {
+        "name": "활성 상태 보기",
+        "category": "system"
+      },
+      {
+        "name": "Google Chrome",
+        "category": "browser"
+      },
+      {
+        "name": "JANDI",
+        "category": "communication"
+      },
+      {
+        "name": "Code",
+        "category": "developer"
+      },
+      {
+        "name": "터미널",
+        "category": "developer"
+      },
+      {
+        "name": "GitHub Desktop",
+        "category": "developer"
+      },
+      {
+        "name": "Obsidian",
+        "category": "productivity"
+      },
+      {
+        "name": "Claude",
+        "category": "productivity"
+      },
+      {
+        "name": "카카오톡",
+        "category": "communication"
+      }
+    ]
+  }
+}
