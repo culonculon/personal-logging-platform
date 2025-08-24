@@ -1,0 +1,3821 @@
+{
+  "date": "2025-08-17",
+  "timestamp": "2025-08-24T22:13:39.815390",
+  "data_sources": {
+    "browser": true,
+    "app": false
+  },
+  "browser_data": {
+    "type": "browser",
+    "date": "2025-08-17",
+    "summary": {
+      "date": "2025-08-17",
+      "summary": {
+        "total_visits": 121,
+        "unique_domains": 16,
+        "browsers_used": [
+          "chrome"
+        ],
+        "search_count": 14,
+        "category_count": 5
+      },
+      "highlights": {
+        "top_domains": [
+          [
+            "github.com",
+            58
+          ],
+          [
+            "www.google.com",
+            14
+          ],
+          [
+            "www.anaconda.com",
+            12
+          ],
+          [
+            "subicura.com",
+            9
+          ],
+          [
+            "www.udemy.com",
+            5
+          ]
+        ],
+        "top_searches": [
+          "github",
+          "github",
+          "깃허브 로컬 레포 올리기",
+          "깃허브 로컬 레포 올리기",
+          "깃허브 로컬 레포 올리기"
+        ],
+        "top_categories": [
+          [
+            "developer",
+            68
+          ],
+          [
+            "other",
+            44
+          ],
+          [
+            "education",
+            5
+          ],
+          [
+            "work",
+            3
+          ],
+          [
+            "shopping",
+            1
+          ]
+        ],
+        "peak_hour": 1
+      },
+      "insights": {
+        "search": [
+          "보통 수준의 검색 활동: 총 14회 검색",
+          "주요 검색 엔진: google (14회)",
+          "검색 피크 시간: 3시 (4회)"
+        ],
+        "category": [
+          "총 121회 방문, 5개 카테고리 활동",
+          "주요 활동 영역: developer (56.2%, 68회)",
+          "특정 카테고리에 집중된 웹사이트 사용"
+        ],
+        "general": [
+          "총 121회 웹사이트 방문",
+          "16개의 고유 도메인 접속",
+          "14개의 검색어 사용"
+        ]
+      }
+    },
+    "complete": {
+      "metadata": {
+        "collection_date": "2025-08-17",
+        "collection_timestamp": "2025-08-17T16:23:07.511026",
+        "available_browsers": [
+          "chrome",
+          "safari"
+        ],
+        "total_records": 121,
+        "version": "1.0"
+      },
+      "raw_data": {
+        "history_by_browser": {
+          "chrome": [
+            {
+              "url": "https://www.anaconda.com/download-success",
+              "title": "Download Success - post download | Anaconda",
+              "visit_time": "2025-08-17T07:12:08.028902",
+              "duration": 0,
+              "transition": 805306368,
+              "domain": "www.anaconda.com"
+            },
+            {
+              "url": "https://www.anaconda.com/download/success",
+              "title": "Download Success | Anaconda",
+              "visit_time": "2025-08-17T07:12:01.710761",
+              "duration": 6319434,
+              "transition": 805306368,
+              "domain": "www.anaconda.com"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:11:56.198420",
+              "duration": 5513779,
+              "transition": 1610612736,
+              "domain": "www.anaconda.com"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:11:14.832830",
+              "duration": 41366477,
+              "transition": 1358954496,
+              "domain": "www.anaconda.com"
+            },
+            {
+              "url": "https://www.anaconda.com/download/success",
+              "title": "Download Success | Anaconda",
+              "visit_time": "2025-08-17T07:11:13.351242",
+              "duration": 1482573,
+              "transition": 805306368,
+              "domain": "www.anaconda.com"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:11:04.996999",
+              "duration": 8355683,
+              "transition": 1610612736,
+              "domain": "www.anaconda.com"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:11:03.436075",
+              "duration": 1561852,
+              "transition": 1358954496,
+              "domain": "www.anaconda.com"
+            },
+            {
+              "url": "https://auth.anaconda.com/ui/login/98cbfadf-4a9d-4d55-be9c-200653e424ee",
+              "title": "Sign In | Anaconda: Data Science and Python Tools",
+              "visit_time": "2025-08-17T07:11:02.253255",
+              "duration": 1183947,
+              "transition": -1610612736,
+              "domain": "auth.anaconda.com"
+            },
+            {
+              "url": "https://auth.anaconda.com/ui/login?return_to=https://www.anaconda.com/download/success",
+              "title": "Sign In | Anaconda: Data Science and Python Tools",
+              "visit_time": "2025-08-17T07:11:02.253255",
+              "duration": 0,
+              "transition": 268435456,
+              "domain": "auth.anaconda.com"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:10:59.658431",
+              "duration": 2596419,
+              "transition": 1895825408,
+              "domain": "www.anaconda.com"
+            },
+            {
+              "url": "https://auth.anaconda.com/ui/registration/66423fb8-0205-44fb-8e3b-6765fd7f7562",
+              "title": "Sign Up | Anaconda: Data Science and Python Tools",
+              "visit_time": "2025-08-17T07:10:43.713460",
+              "duration": 15946069,
+              "transition": -1610612736,
+              "domain": "auth.anaconda.com"
+            },
+            {
+              "url": "https://auth.anaconda.com/ui/registration?return_to=https://www.anaconda.com/download/success",
+              "title": "Sign Up | Anaconda: Data Science and Python Tools",
+              "visit_time": "2025-08-17T07:10:43.713460",
+              "duration": 0,
+              "transition": 268435456,
+              "domain": "auth.anaconda.com"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:10:34.817824",
+              "duration": 8898194,
+              "transition": 1610612736,
+              "domain": "www.anaconda.com"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:10:22.816417",
+              "duration": 12002311,
+              "transition": 1073741824,
+              "domain": "www.anaconda.com"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:10:18.361861",
+              "duration": 4455524,
+              "transition": -2147483642,
+              "domain": "www.anaconda.com"
+            },
+            {
+              "url": "https://www.anaconda.com/products/distribution",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:10:18.361861",
+              "duration": 0,
+              "transition": 268435462,
+              "domain": "www.anaconda.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:54.551196",
+              "duration": 11584556,
+              "transition": 822083584,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+              "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:53.870133",
+              "duration": 682364,
+              "transition": 822083584,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector/src",
+              "title": "personal-logging-platform/browser-collector/src at main · culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:52.598294",
+              "duration": 1273283,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+              "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:51.306875",
+              "duration": 1294082,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+              "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:51.300035",
+              "duration": 7629,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+              "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:51.259750",
+              "duration": 41036,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+              "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:51.175108",
+              "duration": 85375,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:47.976593",
+              "duration": 3200229,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T06:52:41.570456",
+              "duration": 6409213,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=github&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQs2MDQ4MTAyajBqN6gCCLACAfEFA9pM31ICxr8&sourceid=chrome&ie=UTF-8",
+              "title": "github - Google 검색",
+              "visit_time": "2025-08-17T06:52:39.829439",
+              "duration": 1744285,
+              "transition": 838860805,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T06:20:42.371603",
+              "duration": 985208,
+              "transition": 805306374,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:15:58.439286",
+              "duration": 741531,
+              "transition": 805306374,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://accounts.google.com/o/oauth2/v2/auth?gsiwebsdk=3&client_id=1062961139910-l2m55cb9h51u5cuc9c56eb3fevouidh9.apps.googleusercontent.com&scope=openid%20profile%20email&redirect_uri=storagerelay%3A%2F%2Fhttps%2Fclaude.ai%3Fid%3Dauth720001&prompt=consent&access_type=offline&response_type=code&include_granted_scopes=true&enable_granular_consent=true",
+              "title": "로그인 - Google 계정",
+              "visit_time": "2025-08-17T04:54:11.546396",
+              "duration": 2684684,
+              "transition": 805306368,
+              "domain": "accounts.google.com"
+            },
+            {
+              "url": "https://claude.ai/login?returnTo=%2Fsettings%2Fconnectors",
+              "title": "Claude",
+              "visit_time": "2025-08-17T04:54:08.525677",
+              "duration": 203791342,
+              "transition": 1610612736,
+              "domain": "claude.ai"
+            },
+            {
+              "url": "https://claude.ai/settings/connectors?open_in_browser=1&auth_start=github&origin=claude%3A%2F%2Fclaude.ai%2Fnew%3Fgithub_success%3Dundefined&fromDesktopApp=true",
+              "title": "Claude",
+              "visit_time": "2025-08-17T04:54:07.140488",
+              "duration": 1387769,
+              "transition": 268435462,
+              "domain": "claude.ai"
+            },
+            {
+              "url": "https://github.com/settings/tokens",
+              "title": "Personal Access Tokens (Classic)",
+              "visit_time": "2025-08-17T04:48:48.876309",
+              "duration": 5515658730,
+              "transition": 805306375,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/settings/tokens/new",
+              "title": "New Personal Access Token (Classic)",
+              "visit_time": "2025-08-17T04:48:13.593538",
+              "duration": 35285649,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/settings/tokens/new",
+              "title": "New Personal Access Token (Classic)",
+              "visit_time": "2025-08-17T04:48:13.534883",
+              "duration": 59424,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/settings/tokens",
+              "title": "Personal Access Tokens (Classic)",
+              "visit_time": "2025-08-17T04:47:59.506915",
+              "duration": 14030088,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/settings/tokens",
+              "title": "Personal Access Tokens (Classic)",
+              "visit_time": "2025-08-17T04:47:59.462401",
+              "duration": 45290,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/settings/apps",
+              "title": "GitHub Apps",
+              "visit_time": "2025-08-17T04:47:45.038992",
+              "duration": 14424929,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/settings/profile",
+              "title": "Your profile",
+              "visit_time": "2025-08-17T04:47:41.207370",
+              "duration": 3834098,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/settings/profile",
+              "title": "Your profile",
+              "visit_time": "2025-08-17T04:47:41.098147",
+              "duration": 110052,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/settings",
+              "title": "General",
+              "visit_time": "2025-08-17T04:47:20.226361",
+              "duration": 20873392,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T04:44:27.070785",
+              "duration": 173156569,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T04:44:15.900959",
+              "duration": 11172704,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=github&oq=git&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMhAIARAuGMcBGLEDGNEDGIAEMgwIAhBFGDkYsQMYgAQyDAgDECMYJxiABBiKBTIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjU1MWowajeoAgiwAgHxBej554GPhUKP8QXo-eeBj4VCjw&sourceid=chrome&ie=UTF-8",
+              "title": "github - Google 검색",
+              "visit_time": "2025-08-17T04:44:14.259565",
+              "duration": 1644762,
+              "transition": 838860805,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIKCAUQABiABBiiBNIBCTEyMjM3ajBqN6gCCLACAfEFM9ceIyl6gyY&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 로컬 레포 올리기 - Google 검색",
+              "visit_time": "2025-08-17T04:44:09.959555",
+              "duration": 530210233,
+              "transition": 855638021,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/settings",
+              "title": "General",
+              "visit_time": "2025-08-17T04:37:27.176124",
+              "duration": 4623131,
+              "transition": 805306375,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/settings/set_visibility",
+              "title": "Confirm access",
+              "visit_time": "2025-08-17T04:36:54.748617",
+              "duration": 32430853,
+              "transition": 805306375,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/settings",
+              "title": "General",
+              "visit_time": "2025-08-17T04:36:37.536249",
+              "duration": 17215785,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T03:16:30.711773",
+              "duration": 4806827239,
+              "transition": 805306376,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIKCAUQABiABBiiBNIBCTEyMjM3ajBqN6gCCLACAfEFM9ceIyl6gyY&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 로컬 레포 올리기 - Google 검색",
+              "visit_time": "2025-08-17T03:13:00.635754",
+              "duration": 5468683181,
+              "transition": 855638021,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://yeonyeon.tistory.com/50",
+              "title": "[GIT] 로컬 프로젝트를 GitHub에 올리기",
+              "visit_time": "2025-08-17T03:12:28.912825",
+              "duration": 31724511,
+              "transition": 805306368,
+              "domain": "yeonyeon.tistory.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIKCAUQABiABBiiBNIBCTEyMjM3ajBqN6gCCLACAfEFM9ceIyl6gyY&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 로컬 레포 올리기 - Google 검색",
+              "visit_time": "2025-08-17T03:12:27.689048",
+              "duration": 1225301,
+              "transition": 838860805,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T03:11:47.653116",
+              "duration": 283060918,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T03:11:47.571703",
+              "duration": 82107,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/new",
+              "title": "New repository",
+              "visit_time": "2025-08-17T03:11:17.401641",
+              "duration": 30171168,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/new",
+              "title": "New repository",
+              "visit_time": "2025-08-17T03:11:17.400040",
+              "duration": 2173,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/new",
+              "title": "New repository",
+              "visit_time": "2025-08-17T03:11:17.393954",
+              "duration": 6852,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/new",
+              "title": "New repository",
+              "visit_time": "2025-08-17T03:11:17.273220",
+              "duration": 121493,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/culonculon?tab=repositories",
+              "title": "Your Repositories",
+              "visit_time": "2025-08-17T03:11:07.923174",
+              "duration": 9352009,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T03:11:01.199162",
+              "duration": 6726090,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T03:10:47.610489",
+              "duration": 13590945,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C&oq=%EA%B9%83%ED%97%88%EB%B8%8C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQLhjHARixAxjRAxiABDIGCAIQRRg7MgYIAxBFGDsyBggEEEUYOzIHCAUQABiABDIGCAYQBRhAMgYIBxBFGD3SAQgyOTY2ajBqNKgCCLACAfEFQJcaii-B5BI&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 - Google 검색",
+              "visit_time": "2025-08-17T03:10:46.024236",
+              "duration": 1589747,
+              "transition": 838860805,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://ashton0410.tistory.com/156",
+              "title": "깃허브 repository 만들때 나오는 라이센스 선택 설명",
+              "visit_time": "2025-08-17T03:04:33.197918",
+              "duration": 372829690,
+              "transition": 805306368,
+              "domain": "ashton0410.tistory.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4+%EC%A2%85%EB%A5%98&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4+%EC%A2%85%EB%A5%98&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgoIAhAAGIAEGKIEMgcIAxAAGO8FMgoIBBAAGIAEGKIEMgcIBRAAGO8F0gEINjg0NWowajSoAgiwAgHxBbqOGQoZ47iN&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 라이센스 종류 - Google 검색",
+              "visit_time": "2025-08-17T03:04:30.782308",
+              "duration": 2419240,
+              "transition": 838860805,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://apidog.com/kr/blog/github-mcp-server-kr/",
+              "title": "GitHub MCP 서버 사용 방법",
+              "visit_time": "2025-08-17T02:54:40.263584",
+              "duration": 590521847,
+              "transition": 822083584,
+              "domain": "apidog.com"
+            },
+            {
+              "url": "https://apidog.com/pricing",
+              "title": "Apidog Pricing",
+              "visit_time": "2025-08-17T02:54:23.615923",
+              "duration": 16650057,
+              "transition": 805306368,
+              "domain": "apidog.com"
+            },
+            {
+              "url": "https://apidog.com/kr/blog/github-mcp-server-kr/",
+              "title": "GitHub MCP 서버 사용 방법",
+              "visit_time": "2025-08-17T02:53:50.551870",
+              "duration": 33066082,
+              "transition": 805306368,
+              "domain": "apidog.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+mcp&oq=%EA%B9%83%ED%97%88%EB%B8%8C+mcp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIICAMQABgIGB4yBwgEEAAY7wUyCggFEAAYogQYiQUyCggGEAAYgAQYogQyCggHEAAYgAQYogQyCAgIEAAYBRge0gEINTA5N2owajeoAgiwAgHxBTcMipOzW6pw&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 mcp - Google 검색",
+              "visit_time": "2025-08-17T02:53:48.091889",
+              "duration": 2461147,
+              "transition": 838860805,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/#%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:03:25.265328",
+              "duration": 0,
+              "transition": 822083584,
+              "domain": "subicura.com"
+            },
+            {
+              "url": "https://subicura.com/k8s/prepare/",
+              "title": "개발환경 준비 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:03:22.003224",
+              "duration": 3263562,
+              "transition": 805306368,
+              "domain": "subicura.com"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/#%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:03:19.482277",
+              "duration": 2523481,
+              "transition": 805306368,
+              "domain": "subicura.com"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/#%E1%84%86%E1%85%A1%E1%84%86%E1%85%AE%E1%84%85%E1%85%B5",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:03:00.683092",
+              "duration": 18801876,
+              "transition": 805306368,
+              "domain": "subicura.com"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/#minikube",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:02:54.234830",
+              "duration": 6451245,
+              "transition": 805306368,
+              "domain": "subicura.com"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/#%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:02:42.768756",
+              "duration": 11468777,
+              "transition": 805306368,
+              "domain": "subicura.com"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/#%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:02:42.764134",
+              "duration": 5849,
+              "transition": 805306368,
+              "domain": "subicura.com"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:02:42.418870",
+              "duration": 348433,
+              "transition": 805306368,
+              "domain": "subicura.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=gpt+5&oq=gpt+5&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIGCAEQABgDMgYIAhAAGAMyBggDEAAYAzIGCAQQABgDMgcIBRAAGIAEMgYIBhAAGAMyBggHEAAYAzINCAgQABiDARixAxiABDIGCAkQABgD0gEINjc3MGowajeoAgiwAgHxBbkF1OO8VKnB&sourceid=chrome&ie=UTF-8",
+              "title": "gpt 5 - Google 검색",
+              "visit_time": "2025-08-17T02:02:20.118390",
+              "duration": 19460581,
+              "transition": 855638021,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://namu.wiki/w/GPT-5",
+              "title": "GPT-5 - 나무위키",
+              "visit_time": "2025-08-17T02:00:22.567242",
+              "duration": 117553070,
+              "transition": 805306368,
+              "domain": "namu.wiki"
+            },
+            {
+              "url": "https://www.google.com/search?q=gpt+5&oq=gpt+5&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIGCAEQABgDMgYIAhAAGAMyBggDEAAYAzIGCAQQABgDMgcIBRAAGIAEMgYIBhAAGAMyBggHEAAYAzINCAgQABiDARixAxiABDIGCAkQABgD0gEINjc3MGowajeoAgiwAgHxBbkF1OO8VKnB&sourceid=chrome&ie=UTF-8",
+              "title": "gpt 5 - Google 검색",
+              "visit_time": "2025-08-17T02:00:15.948008",
+              "duration": 6622829,
+              "transition": 838860805,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://subicura.com/k8s/",
+              "title": "쿠버네티스 안내서",
+              "visit_time": "2025-08-17T01:40:15.076274",
+              "duration": 1347345392,
+              "transition": 805306374,
+              "domain": "subicura.com"
+            },
+            {
+              "url": "https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14296108?start=15#overview",
+              "title": "Course: Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy",
+              "visit_time": "2025-08-17T01:39:45.391819",
+              "duration": 0,
+              "transition": 805306368,
+              "domain": "www.udemy.com"
+            },
+            {
+              "url": "https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14296108?start=15",
+              "title": "Course: Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy",
+              "visit_time": "2025-08-17T01:39:45.102009",
+              "duration": 290533,
+              "transition": -1610612736,
+              "domain": "www.udemy.com"
+            },
+            {
+              "url": "https://www.udemy.com/course-dashboard-redirect/?course_id=2301254",
+              "title": "Course: Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy",
+              "visit_time": "2025-08-17T01:39:45.102009",
+              "duration": 0,
+              "transition": 268435456,
+              "domain": "www.udemy.com"
+            },
+            {
+              "url": "https://www.udemy.com/home/my-courses/learning/",
+              "title": "내 학습 | Udemy",
+              "visit_time": "2025-08-17T01:39:40.590067",
+              "duration": 4513432,
+              "transition": 805306368,
+              "domain": "www.udemy.com"
+            },
+            {
+              "url": "https://www.udemy.com/home/my-courses/",
+              "title": "내 학습 | Udemy",
+              "visit_time": "2025-08-17T01:39:39.664713",
+              "duration": 926213,
+              "transition": 838860801,
+              "domain": "www.udemy.com"
+            },
+            {
+              "url": "https://code.visualstudio.com/docs/?dv=darwinarm64",
+              "title": "Documentation for Visual Studio Code",
+              "visit_time": "2025-08-17T01:30:05.824277",
+              "duration": 142499531,
+              "transition": 805306368,
+              "domain": "code.visualstudio.com"
+            },
+            {
+              "url": "https://code.visualstudio.com/Download#",
+              "title": "Download Visual Studio Code - Mac, Linux, Windows",
+              "visit_time": "2025-08-17T01:30:05.758603",
+              "duration": 67867,
+              "transition": 805306368,
+              "domain": "code.visualstudio.com"
+            },
+            {
+              "url": "https://code.visualstudio.com/Download",
+              "title": "Download Visual Studio Code - Mac, Linux, Windows",
+              "visit_time": "2025-08-17T01:29:59.061524",
+              "duration": 6699286,
+              "transition": 805306368,
+              "domain": "code.visualstudio.com"
+            },
+            {
+              "url": "https://code.visualstudio.com/",
+              "title": "Visual Studio Code - Code Editing. Redefined",
+              "visit_time": "2025-08-17T01:29:57.432921",
+              "duration": 1630297,
+              "transition": 805306368,
+              "domain": "code.visualstudio.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=vscode&oq=vscode&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIGCAEQIxgnMgYIAhAjGCcyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIGCAcQBRhA0gEINDU1N2owajeoAgiwAgHxBQK3HtgTgeYb&sourceid=chrome&ie=UTF-8",
+              "title": "vscode - Google 검색",
+              "visit_time": "2025-08-17T01:29:54.632094",
+              "duration": 2802390,
+              "transition": 838860805,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo+user+workflow&skip_account_picker=true&state=e7de1cb3-ba10-49dd-be1c-1164d3823979",
+              "title": "OAuth application authorized",
+              "visit_time": "2025-08-17T01:27:20.871850",
+              "duration": 56389472,
+              "transition": 805306375,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/login/oauth/select_account?client_id=de0e3c7e9973e1c4dd77&scope=repo+user+workflow&state=e7de1cb3-ba10-49dd-be1c-1164d3823979",
+              "title": "Verify Session",
+              "visit_time": "2025-08-17T01:27:19.161798",
+              "duration": 1714981,
+              "transition": -1610612730,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo%20user%20workflow&state=e7de1cb3-ba10-49dd-be1c-1164d3823979",
+              "title": "Verify Session",
+              "visit_time": "2025-08-17T01:27:19.161798",
+              "duration": 0,
+              "transition": 268435462,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://desktop.github.com/download/",
+              "title": "Download GitHub Desktop | GitHub Desktop",
+              "visit_time": "2025-08-17T01:26:55.237722",
+              "duration": 83423644,
+              "transition": -1610612736,
+              "domain": "desktop.github.com"
+            },
+            {
+              "url": "https://desktop.github.com/download",
+              "title": "Download GitHub Desktop | GitHub Desktop",
+              "visit_time": "2025-08-17T01:26:55.237722",
+              "duration": 0,
+              "transition": 268435456,
+              "domain": "desktop.github.com"
+            },
+            {
+              "url": "https://github.com/apps/desktop?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs&locale=ko-KR",
+              "title": "GitHub Desktop | Simple collaboration from your desktop",
+              "visit_time": "2025-08-17T01:26:44.395792",
+              "duration": 10845258,
+              "transition": -1610612736,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/apps/desktop?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs",
+              "title": "GitHub Desktop | Simple collaboration from your desktop",
+              "visit_time": "2025-08-17T01:26:44.395792",
+              "duration": 0,
+              "transition": -2147483648,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs",
+              "title": "GitHub Desktop | Simple collaboration from your desktop",
+              "visit_time": "2025-08-17T01:26:44.395792",
+              "duration": 0,
+              "transition": 268435456,
+              "domain": "desktop.github.com"
+            },
+            {
+              "url": "https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop",
+              "title": "GitHub Desktop 설치 - GitHub Docs",
+              "visit_time": "2025-08-17T01:26:42.488303",
+              "duration": 97071980,
+              "transition": 805306368,
+              "domain": "docs.github.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C&oq=%EA%B9%83%ED%97%88%EB%B8%8C+&gs_lcrp=EgZjaHJvbWUqDAgCEAAYQxiABBiKBTIOCAAQRRgnGDkYgAQYigUyDAgBECMYJxiABBiKBTIMCAIQABhDGIAEGIoFMgcIAxAAGIAEMgcIBBAAGIAEMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIMCAcQABhDGIAEGIoFMgcICBAAGIAEMgwICRAAGEMYgAQYigXSAQg2MTQ5ajBqN6gCCLACAfEFvASefBmqhxo&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 다운로드 - Google 검색",
+              "visit_time": "2025-08-17T01:26:35.671340",
+              "duration": 6818085,
+              "transition": 838860805,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://github.com/settings/profile",
+              "title": "Your profile",
+              "visit_time": "2025-08-17T01:26:03.968005",
+              "duration": 386002767,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/settings/installations",
+              "title": "Installed GitHub Apps",
+              "visit_time": "2025-08-17T01:25:55.545827",
+              "duration": 8424212,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/settings/apps/authorizations",
+              "title": "Authorized GitHub Apps",
+              "visit_time": "2025-08-17T01:25:53.222288",
+              "duration": 2325732,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/settings/installations",
+              "title": "Installed GitHub Apps",
+              "visit_time": "2025-08-17T01:25:51.056769",
+              "duration": 2168066,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/settings/profile",
+              "title": "Your profile",
+              "visit_time": "2025-08-17T01:25:32.294261",
+              "duration": 18765110,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/settings/profile",
+              "title": "Your profile",
+              "visit_time": "2025-08-17T01:25:32.216052",
+              "duration": 78695,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/notifications",
+              "title": "Notifications",
+              "visit_time": "2025-08-17T01:25:26.299027",
+              "duration": 5918814,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/notifications",
+              "title": "Notifications",
+              "visit_time": "2025-08-17T01:25:26.235773",
+              "duration": 63709,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/notifications",
+              "title": "Notifications",
+              "visit_time": "2025-08-17T01:25:06.037694",
+              "duration": 20199197,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T01:24:42.444011",
+              "duration": 23596948,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T01:24:12.517734",
+              "duration": 29928769,
+              "transition": 822083591,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/hhee4455",
+              "title": "hhee4455 (이승준)",
+              "visit_time": "2025-08-17T01:23:29.616517",
+              "duration": 42902769,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T01:23:13.960470",
+              "duration": 15658943,
+              "transition": 805306375,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/sessions/two-factor/sms",
+              "title": "Two-factor authentication · GitHub",
+              "visit_time": "2025-08-17T01:22:29.137470",
+              "duration": 44824954,
+              "transition": 805306375,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/sessions/two-factor/sms/confirm",
+              "title": "Two-factor authentication · GitHub",
+              "visit_time": "2025-08-17T01:22:26.825852",
+              "duration": 2314431,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/sessions/two-factor/webauthn",
+              "title": "Two-factor authentication · GitHub",
+              "visit_time": "2025-08-17T01:22:17.217135",
+              "duration": 9611792,
+              "transition": 805306375,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/login",
+              "title": "Sign in to GitHub · GitHub",
+              "visit_time": "2025-08-17T01:22:10.262804",
+              "duration": 6957332,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T01:22:05.390296",
+              "duration": 4876067,
+              "transition": 805306368,
+              "domain": "github.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=github&oq=github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQLhjHARixAxjRAxiABDIMCAIQIxgnGIAEGIoFMgYIAxBFGDwyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDQxODNqMGo3qAIIsAIB8QUpKczjgoThfg&sourceid=chrome&ie=UTF-8",
+              "title": "github - Google 검색",
+              "visit_time": "2025-08-17T01:22:04.167230",
+              "duration": 1226341,
+              "transition": 838860805,
+              "domain": "www.google.com"
+            },
+            {
+              "url": "https://www.jandi.com/landing/kr/download",
+              "title": "잔디 다운로드 | 업무용 협업툴 잔디(JANDI)",
+              "visit_time": "2025-08-17T01:09:01.010213",
+              "duration": 155522598,
+              "transition": 805306368,
+              "domain": "www.jandi.com"
+            },
+            {
+              "url": "https://www.jandi.com/landing/kr",
+              "title": "협업툴 잔디(JANDI) - AI로 진화한 메신저 기반 업무용 협업툴",
+              "visit_time": "2025-08-17T01:08:58.611805",
+              "duration": 2399921,
+              "transition": 805306368,
+              "domain": "www.jandi.com"
+            },
+            {
+              "url": "https://www.google.com/search?q=jandi&oq=jandi&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMhAIARAuGK8BGMcBGLEDGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIODAzNGowajeoAgiwAgHxBeUM0gOUAu2H&sourceid=chrome&ie=UTF-8",
+              "title": "jandi - Google 검색",
+              "visit_time": "2025-08-17T01:08:57.398718",
+              "duration": 1214646,
+              "transition": 838860805,
+              "domain": "www.google.com"
+            }
+          ],
+          "safari": []
+        },
+        "merged_history": [
+          {
+            "url": "https://www.anaconda.com/download-success",
+            "title": "Download Success - post download | Anaconda",
+            "visit_time": "2025-08-17T07:12:08.028902",
+            "duration": 0,
+            "transition": 805306368,
+            "domain": "www.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.anaconda.com/download/success",
+            "title": "Download Success | Anaconda",
+            "visit_time": "2025-08-17T07:12:01.710761",
+            "duration": 6319434,
+            "transition": 805306368,
+            "domain": "www.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.anaconda.com/download",
+            "title": "Download Anaconda Distribution | Anaconda",
+            "visit_time": "2025-08-17T07:11:56.198420",
+            "duration": 5513779,
+            "transition": 1610612736,
+            "domain": "www.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.anaconda.com/download",
+            "title": "Download Anaconda Distribution | Anaconda",
+            "visit_time": "2025-08-17T07:11:14.832830",
+            "duration": 41366477,
+            "transition": 1358954496,
+            "domain": "www.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.anaconda.com/download/success",
+            "title": "Download Success | Anaconda",
+            "visit_time": "2025-08-17T07:11:13.351242",
+            "duration": 1482573,
+            "transition": 805306368,
+            "domain": "www.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.anaconda.com/download",
+            "title": "Download Anaconda Distribution | Anaconda",
+            "visit_time": "2025-08-17T07:11:04.996999",
+            "duration": 8355683,
+            "transition": 1610612736,
+            "domain": "www.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.anaconda.com/download",
+            "title": "Download Anaconda Distribution | Anaconda",
+            "visit_time": "2025-08-17T07:11:03.436075",
+            "duration": 1561852,
+            "transition": 1358954496,
+            "domain": "www.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://auth.anaconda.com/ui/login/98cbfadf-4a9d-4d55-be9c-200653e424ee",
+            "title": "Sign In | Anaconda: Data Science and Python Tools",
+            "visit_time": "2025-08-17T07:11:02.253255",
+            "duration": 1183947,
+            "transition": -1610612736,
+            "domain": "auth.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://auth.anaconda.com/ui/login?return_to=https://www.anaconda.com/download/success",
+            "title": "Sign In | Anaconda: Data Science and Python Tools",
+            "visit_time": "2025-08-17T07:11:02.253255",
+            "duration": 0,
+            "transition": 268435456,
+            "domain": "auth.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.anaconda.com/download",
+            "title": "Download Anaconda Distribution | Anaconda",
+            "visit_time": "2025-08-17T07:10:59.658431",
+            "duration": 2596419,
+            "transition": 1895825408,
+            "domain": "www.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://auth.anaconda.com/ui/registration/66423fb8-0205-44fb-8e3b-6765fd7f7562",
+            "title": "Sign Up | Anaconda: Data Science and Python Tools",
+            "visit_time": "2025-08-17T07:10:43.713460",
+            "duration": 15946069,
+            "transition": -1610612736,
+            "domain": "auth.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://auth.anaconda.com/ui/registration?return_to=https://www.anaconda.com/download/success",
+            "title": "Sign Up | Anaconda: Data Science and Python Tools",
+            "visit_time": "2025-08-17T07:10:43.713460",
+            "duration": 0,
+            "transition": 268435456,
+            "domain": "auth.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.anaconda.com/download",
+            "title": "Download Anaconda Distribution | Anaconda",
+            "visit_time": "2025-08-17T07:10:34.817824",
+            "duration": 8898194,
+            "transition": 1610612736,
+            "domain": "www.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.anaconda.com/download",
+            "title": "Download Anaconda Distribution | Anaconda",
+            "visit_time": "2025-08-17T07:10:22.816417",
+            "duration": 12002311,
+            "transition": 1073741824,
+            "domain": "www.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.anaconda.com/download",
+            "title": "Download Anaconda Distribution | Anaconda",
+            "visit_time": "2025-08-17T07:10:18.361861",
+            "duration": 4455524,
+            "transition": -2147483642,
+            "domain": "www.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.anaconda.com/products/distribution",
+            "title": "Download Anaconda Distribution | Anaconda",
+            "visit_time": "2025-08-17T07:10:18.361861",
+            "duration": 0,
+            "transition": 268435462,
+            "domain": "www.anaconda.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform",
+            "title": "culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T06:52:54.551196",
+            "duration": 11584556,
+            "transition": 822083584,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+            "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T06:52:53.870133",
+            "duration": 682364,
+            "transition": 822083584,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector/src",
+            "title": "personal-logging-platform/browser-collector/src at main · culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T06:52:52.598294",
+            "duration": 1273283,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+            "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T06:52:51.306875",
+            "duration": 1294082,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+            "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T06:52:51.300035",
+            "duration": 7629,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+            "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T06:52:51.259750",
+            "duration": 41036,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+            "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T06:52:51.175108",
+            "duration": 85375,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform",
+            "title": "culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T06:52:47.976593",
+            "duration": 3200229,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/",
+            "title": "GitHub",
+            "visit_time": "2025-08-17T06:52:41.570456",
+            "duration": 6409213,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=github&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQs2MDQ4MTAyajBqN6gCCLACAfEFA9pM31ICxr8&sourceid=chrome&ie=UTF-8",
+            "title": "github - Google 검색",
+            "visit_time": "2025-08-17T06:52:39.829439",
+            "duration": 1744285,
+            "transition": 838860805,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/",
+            "title": "GitHub",
+            "visit_time": "2025-08-17T06:20:42.371603",
+            "duration": 985208,
+            "transition": 805306374,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform",
+            "title": "culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T06:15:58.439286",
+            "duration": 741531,
+            "transition": 805306374,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://accounts.google.com/o/oauth2/v2/auth?gsiwebsdk=3&client_id=1062961139910-l2m55cb9h51u5cuc9c56eb3fevouidh9.apps.googleusercontent.com&scope=openid%20profile%20email&redirect_uri=storagerelay%3A%2F%2Fhttps%2Fclaude.ai%3Fid%3Dauth720001&prompt=consent&access_type=offline&response_type=code&include_granted_scopes=true&enable_granular_consent=true",
+            "title": "로그인 - Google 계정",
+            "visit_time": "2025-08-17T04:54:11.546396",
+            "duration": 2684684,
+            "transition": 805306368,
+            "domain": "accounts.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://claude.ai/login?returnTo=%2Fsettings%2Fconnectors",
+            "title": "Claude",
+            "visit_time": "2025-08-17T04:54:08.525677",
+            "duration": 203791342,
+            "transition": 1610612736,
+            "domain": "claude.ai",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://claude.ai/settings/connectors?open_in_browser=1&auth_start=github&origin=claude%3A%2F%2Fclaude.ai%2Fnew%3Fgithub_success%3Dundefined&fromDesktopApp=true",
+            "title": "Claude",
+            "visit_time": "2025-08-17T04:54:07.140488",
+            "duration": 1387769,
+            "transition": 268435462,
+            "domain": "claude.ai",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/tokens",
+            "title": "Personal Access Tokens (Classic)",
+            "visit_time": "2025-08-17T04:48:48.876309",
+            "duration": 5515658730,
+            "transition": 805306375,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/tokens/new",
+            "title": "New Personal Access Token (Classic)",
+            "visit_time": "2025-08-17T04:48:13.593538",
+            "duration": 35285649,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/tokens/new",
+            "title": "New Personal Access Token (Classic)",
+            "visit_time": "2025-08-17T04:48:13.534883",
+            "duration": 59424,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/tokens",
+            "title": "Personal Access Tokens (Classic)",
+            "visit_time": "2025-08-17T04:47:59.506915",
+            "duration": 14030088,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/tokens",
+            "title": "Personal Access Tokens (Classic)",
+            "visit_time": "2025-08-17T04:47:59.462401",
+            "duration": 45290,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/apps",
+            "title": "GitHub Apps",
+            "visit_time": "2025-08-17T04:47:45.038992",
+            "duration": 14424929,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/profile",
+            "title": "Your profile",
+            "visit_time": "2025-08-17T04:47:41.207370",
+            "duration": 3834098,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/profile",
+            "title": "Your profile",
+            "visit_time": "2025-08-17T04:47:41.098147",
+            "duration": 110052,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform/settings",
+            "title": "General",
+            "visit_time": "2025-08-17T04:47:20.226361",
+            "duration": 20873392,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform",
+            "title": "culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T04:44:27.070785",
+            "duration": 173156569,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/",
+            "title": "GitHub",
+            "visit_time": "2025-08-17T04:44:15.900959",
+            "duration": 11172704,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=github&oq=git&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMhAIARAuGMcBGLEDGNEDGIAEMgwIAhBFGDkYsQMYgAQyDAgDECMYJxiABBiKBTIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjU1MWowajeoAgiwAgHxBej554GPhUKP8QXo-eeBj4VCjw&sourceid=chrome&ie=UTF-8",
+            "title": "github - Google 검색",
+            "visit_time": "2025-08-17T04:44:14.259565",
+            "duration": 1644762,
+            "transition": 838860805,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIKCAUQABiABBiiBNIBCTEyMjM3ajBqN6gCCLACAfEFM9ceIyl6gyY&sourceid=chrome&ie=UTF-8",
+            "title": "깃허브 로컬 레포 올리기 - Google 검색",
+            "visit_time": "2025-08-17T04:44:09.959555",
+            "duration": 530210233,
+            "transition": 855638021,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform/settings",
+            "title": "General",
+            "visit_time": "2025-08-17T04:37:27.176124",
+            "duration": 4623131,
+            "transition": 805306375,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform/settings/set_visibility",
+            "title": "Confirm access",
+            "visit_time": "2025-08-17T04:36:54.748617",
+            "duration": 32430853,
+            "transition": 805306375,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform/settings",
+            "title": "General",
+            "visit_time": "2025-08-17T04:36:37.536249",
+            "duration": 17215785,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform",
+            "title": "culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T03:16:30.711773",
+            "duration": 4806827239,
+            "transition": 805306376,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIKCAUQABiABBiiBNIBCTEyMjM3ajBqN6gCCLACAfEFM9ceIyl6gyY&sourceid=chrome&ie=UTF-8",
+            "title": "깃허브 로컬 레포 올리기 - Google 검색",
+            "visit_time": "2025-08-17T03:13:00.635754",
+            "duration": 5468683181,
+            "transition": 855638021,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://yeonyeon.tistory.com/50",
+            "title": "[GIT] 로컬 프로젝트를 GitHub에 올리기",
+            "visit_time": "2025-08-17T03:12:28.912825",
+            "duration": 31724511,
+            "transition": 805306368,
+            "domain": "yeonyeon.tistory.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIKCAUQABiABBiiBNIBCTEyMjM3ajBqN6gCCLACAfEFM9ceIyl6gyY&sourceid=chrome&ie=UTF-8",
+            "title": "깃허브 로컬 레포 올리기 - Google 검색",
+            "visit_time": "2025-08-17T03:12:27.689048",
+            "duration": 1225301,
+            "transition": 838860805,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform",
+            "title": "culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T03:11:47.653116",
+            "duration": 283060918,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon/personal-logging-platform",
+            "title": "culonculon/personal-logging-platform",
+            "visit_time": "2025-08-17T03:11:47.571703",
+            "duration": 82107,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/new",
+            "title": "New repository",
+            "visit_time": "2025-08-17T03:11:17.401641",
+            "duration": 30171168,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/new",
+            "title": "New repository",
+            "visit_time": "2025-08-17T03:11:17.400040",
+            "duration": 2173,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/new",
+            "title": "New repository",
+            "visit_time": "2025-08-17T03:11:17.393954",
+            "duration": 6852,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/new",
+            "title": "New repository",
+            "visit_time": "2025-08-17T03:11:17.273220",
+            "duration": 121493,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/culonculon?tab=repositories",
+            "title": "Your Repositories",
+            "visit_time": "2025-08-17T03:11:07.923174",
+            "duration": 9352009,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/",
+            "title": "GitHub",
+            "visit_time": "2025-08-17T03:11:01.199162",
+            "duration": 6726090,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/",
+            "title": "GitHub",
+            "visit_time": "2025-08-17T03:10:47.610489",
+            "duration": 13590945,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C&oq=%EA%B9%83%ED%97%88%EB%B8%8C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQLhjHARixAxjRAxiABDIGCAIQRRg7MgYIAxBFGDsyBggEEEUYOzIHCAUQABiABDIGCAYQBRhAMgYIBxBFGD3SAQgyOTY2ajBqNKgCCLACAfEFQJcaii-B5BI&sourceid=chrome&ie=UTF-8",
+            "title": "깃허브 - Google 검색",
+            "visit_time": "2025-08-17T03:10:46.024236",
+            "duration": 1589747,
+            "transition": 838860805,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://ashton0410.tistory.com/156",
+            "title": "깃허브 repository 만들때 나오는 라이센스 선택 설명",
+            "visit_time": "2025-08-17T03:04:33.197918",
+            "duration": 372829690,
+            "transition": 805306368,
+            "domain": "ashton0410.tistory.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4+%EC%A2%85%EB%A5%98&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4+%EC%A2%85%EB%A5%98&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgoIAhAAGIAEGKIEMgcIAxAAGO8FMgoIBBAAGIAEGKIEMgcIBRAAGO8F0gEINjg0NWowajSoAgiwAgHxBbqOGQoZ47iN&sourceid=chrome&ie=UTF-8",
+            "title": "깃허브 라이센스 종류 - Google 검색",
+            "visit_time": "2025-08-17T03:04:30.782308",
+            "duration": 2419240,
+            "transition": 838860805,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://apidog.com/kr/blog/github-mcp-server-kr/",
+            "title": "GitHub MCP 서버 사용 방법",
+            "visit_time": "2025-08-17T02:54:40.263584",
+            "duration": 590521847,
+            "transition": 822083584,
+            "domain": "apidog.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://apidog.com/pricing",
+            "title": "Apidog Pricing",
+            "visit_time": "2025-08-17T02:54:23.615923",
+            "duration": 16650057,
+            "transition": 805306368,
+            "domain": "apidog.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://apidog.com/kr/blog/github-mcp-server-kr/",
+            "title": "GitHub MCP 서버 사용 방법",
+            "visit_time": "2025-08-17T02:53:50.551870",
+            "duration": 33066082,
+            "transition": 805306368,
+            "domain": "apidog.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+mcp&oq=%EA%B9%83%ED%97%88%EB%B8%8C+mcp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIICAMQABgIGB4yBwgEEAAY7wUyCggFEAAYogQYiQUyCggGEAAYgAQYogQyCggHEAAYgAQYogQyCAgIEAAYBRge0gEINTA5N2owajeoAgiwAgHxBTcMipOzW6pw&sourceid=chrome&ie=UTF-8",
+            "title": "깃허브 mcp - Google 검색",
+            "visit_time": "2025-08-17T02:53:48.091889",
+            "duration": 2461147,
+            "transition": 838860805,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://subicura.com/k8s/guide/#%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3",
+            "title": "시작하기 | 쿠버네티스 안내서",
+            "visit_time": "2025-08-17T02:03:25.265328",
+            "duration": 0,
+            "transition": 822083584,
+            "domain": "subicura.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://subicura.com/k8s/prepare/",
+            "title": "개발환경 준비 | 쿠버네티스 안내서",
+            "visit_time": "2025-08-17T02:03:22.003224",
+            "duration": 3263562,
+            "transition": 805306368,
+            "domain": "subicura.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://subicura.com/k8s/guide/#%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3",
+            "title": "시작하기 | 쿠버네티스 안내서",
+            "visit_time": "2025-08-17T02:03:19.482277",
+            "duration": 2523481,
+            "transition": 805306368,
+            "domain": "subicura.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://subicura.com/k8s/guide/#%E1%84%86%E1%85%A1%E1%84%86%E1%85%AE%E1%84%85%E1%85%B5",
+            "title": "시작하기 | 쿠버네티스 안내서",
+            "visit_time": "2025-08-17T02:03:00.683092",
+            "duration": 18801876,
+            "transition": 805306368,
+            "domain": "subicura.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://subicura.com/k8s/guide/#minikube",
+            "title": "시작하기 | 쿠버네티스 안내서",
+            "visit_time": "2025-08-17T02:02:54.234830",
+            "duration": 6451245,
+            "transition": 805306368,
+            "domain": "subicura.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://subicura.com/k8s/guide/#%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3",
+            "title": "시작하기 | 쿠버네티스 안내서",
+            "visit_time": "2025-08-17T02:02:42.768756",
+            "duration": 11468777,
+            "transition": 805306368,
+            "domain": "subicura.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://subicura.com/k8s/guide/#%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3",
+            "title": "시작하기 | 쿠버네티스 안내서",
+            "visit_time": "2025-08-17T02:02:42.764134",
+            "duration": 5849,
+            "transition": 805306368,
+            "domain": "subicura.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://subicura.com/k8s/guide/",
+            "title": "시작하기 | 쿠버네티스 안내서",
+            "visit_time": "2025-08-17T02:02:42.418870",
+            "duration": 348433,
+            "transition": 805306368,
+            "domain": "subicura.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=gpt+5&oq=gpt+5&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIGCAEQABgDMgYIAhAAGAMyBggDEAAYAzIGCAQQABgDMgcIBRAAGIAEMgYIBhAAGAMyBggHEAAYAzINCAgQABiDARixAxiABDIGCAkQABgD0gEINjc3MGowajeoAgiwAgHxBbkF1OO8VKnB&sourceid=chrome&ie=UTF-8",
+            "title": "gpt 5 - Google 검색",
+            "visit_time": "2025-08-17T02:02:20.118390",
+            "duration": 19460581,
+            "transition": 855638021,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://namu.wiki/w/GPT-5",
+            "title": "GPT-5 - 나무위키",
+            "visit_time": "2025-08-17T02:00:22.567242",
+            "duration": 117553070,
+            "transition": 805306368,
+            "domain": "namu.wiki",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=gpt+5&oq=gpt+5&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIGCAEQABgDMgYIAhAAGAMyBggDEAAYAzIGCAQQABgDMgcIBRAAGIAEMgYIBhAAGAMyBggHEAAYAzINCAgQABiDARixAxiABDIGCAkQABgD0gEINjc3MGowajeoAgiwAgHxBbkF1OO8VKnB&sourceid=chrome&ie=UTF-8",
+            "title": "gpt 5 - Google 검색",
+            "visit_time": "2025-08-17T02:00:15.948008",
+            "duration": 6622829,
+            "transition": 838860805,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://subicura.com/k8s/",
+            "title": "쿠버네티스 안내서",
+            "visit_time": "2025-08-17T01:40:15.076274",
+            "duration": 1347345392,
+            "transition": 805306374,
+            "domain": "subicura.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14296108?start=15#overview",
+            "title": "Course: Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy",
+            "visit_time": "2025-08-17T01:39:45.391819",
+            "duration": 0,
+            "transition": 805306368,
+            "domain": "www.udemy.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14296108?start=15",
+            "title": "Course: Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy",
+            "visit_time": "2025-08-17T01:39:45.102009",
+            "duration": 290533,
+            "transition": -1610612736,
+            "domain": "www.udemy.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.udemy.com/course-dashboard-redirect/?course_id=2301254",
+            "title": "Course: Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy",
+            "visit_time": "2025-08-17T01:39:45.102009",
+            "duration": 0,
+            "transition": 268435456,
+            "domain": "www.udemy.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.udemy.com/home/my-courses/learning/",
+            "title": "내 학습 | Udemy",
+            "visit_time": "2025-08-17T01:39:40.590067",
+            "duration": 4513432,
+            "transition": 805306368,
+            "domain": "www.udemy.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.udemy.com/home/my-courses/",
+            "title": "내 학습 | Udemy",
+            "visit_time": "2025-08-17T01:39:39.664713",
+            "duration": 926213,
+            "transition": 838860801,
+            "domain": "www.udemy.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://code.visualstudio.com/docs/?dv=darwinarm64",
+            "title": "Documentation for Visual Studio Code",
+            "visit_time": "2025-08-17T01:30:05.824277",
+            "duration": 142499531,
+            "transition": 805306368,
+            "domain": "code.visualstudio.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://code.visualstudio.com/Download#",
+            "title": "Download Visual Studio Code - Mac, Linux, Windows",
+            "visit_time": "2025-08-17T01:30:05.758603",
+            "duration": 67867,
+            "transition": 805306368,
+            "domain": "code.visualstudio.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://code.visualstudio.com/Download",
+            "title": "Download Visual Studio Code - Mac, Linux, Windows",
+            "visit_time": "2025-08-17T01:29:59.061524",
+            "duration": 6699286,
+            "transition": 805306368,
+            "domain": "code.visualstudio.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://code.visualstudio.com/",
+            "title": "Visual Studio Code - Code Editing. Redefined",
+            "visit_time": "2025-08-17T01:29:57.432921",
+            "duration": 1630297,
+            "transition": 805306368,
+            "domain": "code.visualstudio.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=vscode&oq=vscode&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIGCAEQIxgnMgYIAhAjGCcyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIGCAcQBRhA0gEINDU1N2owajeoAgiwAgHxBQK3HtgTgeYb&sourceid=chrome&ie=UTF-8",
+            "title": "vscode - Google 검색",
+            "visit_time": "2025-08-17T01:29:54.632094",
+            "duration": 2802390,
+            "transition": 838860805,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo+user+workflow&skip_account_picker=true&state=e7de1cb3-ba10-49dd-be1c-1164d3823979",
+            "title": "OAuth application authorized",
+            "visit_time": "2025-08-17T01:27:20.871850",
+            "duration": 56389472,
+            "transition": 805306375,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/login/oauth/select_account?client_id=de0e3c7e9973e1c4dd77&scope=repo+user+workflow&state=e7de1cb3-ba10-49dd-be1c-1164d3823979",
+            "title": "Verify Session",
+            "visit_time": "2025-08-17T01:27:19.161798",
+            "duration": 1714981,
+            "transition": -1610612730,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo%20user%20workflow&state=e7de1cb3-ba10-49dd-be1c-1164d3823979",
+            "title": "Verify Session",
+            "visit_time": "2025-08-17T01:27:19.161798",
+            "duration": 0,
+            "transition": 268435462,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://desktop.github.com/download/",
+            "title": "Download GitHub Desktop | GitHub Desktop",
+            "visit_time": "2025-08-17T01:26:55.237722",
+            "duration": 83423644,
+            "transition": -1610612736,
+            "domain": "desktop.github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://desktop.github.com/download",
+            "title": "Download GitHub Desktop | GitHub Desktop",
+            "visit_time": "2025-08-17T01:26:55.237722",
+            "duration": 0,
+            "transition": 268435456,
+            "domain": "desktop.github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/apps/desktop?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs&locale=ko-KR",
+            "title": "GitHub Desktop | Simple collaboration from your desktop",
+            "visit_time": "2025-08-17T01:26:44.395792",
+            "duration": 10845258,
+            "transition": -1610612736,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/apps/desktop?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs",
+            "title": "GitHub Desktop | Simple collaboration from your desktop",
+            "visit_time": "2025-08-17T01:26:44.395792",
+            "duration": 0,
+            "transition": -2147483648,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs",
+            "title": "GitHub Desktop | Simple collaboration from your desktop",
+            "visit_time": "2025-08-17T01:26:44.395792",
+            "duration": 0,
+            "transition": 268435456,
+            "domain": "desktop.github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop",
+            "title": "GitHub Desktop 설치 - GitHub Docs",
+            "visit_time": "2025-08-17T01:26:42.488303",
+            "duration": 97071980,
+            "transition": 805306368,
+            "domain": "docs.github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C&oq=%EA%B9%83%ED%97%88%EB%B8%8C+&gs_lcrp=EgZjaHJvbWUqDAgCEAAYQxiABBiKBTIOCAAQRRgnGDkYgAQYigUyDAgBECMYJxiABBiKBTIMCAIQABhDGIAEGIoFMgcIAxAAGIAEMgcIBBAAGIAEMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIMCAcQABhDGIAEGIoFMgcICBAAGIAEMgwICRAAGEMYgAQYigXSAQg2MTQ5ajBqN6gCCLACAfEFvASefBmqhxo&sourceid=chrome&ie=UTF-8",
+            "title": "깃허브 다운로드 - Google 검색",
+            "visit_time": "2025-08-17T01:26:35.671340",
+            "duration": 6818085,
+            "transition": 838860805,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/profile",
+            "title": "Your profile",
+            "visit_time": "2025-08-17T01:26:03.968005",
+            "duration": 386002767,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/installations",
+            "title": "Installed GitHub Apps",
+            "visit_time": "2025-08-17T01:25:55.545827",
+            "duration": 8424212,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/apps/authorizations",
+            "title": "Authorized GitHub Apps",
+            "visit_time": "2025-08-17T01:25:53.222288",
+            "duration": 2325732,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/installations",
+            "title": "Installed GitHub Apps",
+            "visit_time": "2025-08-17T01:25:51.056769",
+            "duration": 2168066,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/profile",
+            "title": "Your profile",
+            "visit_time": "2025-08-17T01:25:32.294261",
+            "duration": 18765110,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/settings/profile",
+            "title": "Your profile",
+            "visit_time": "2025-08-17T01:25:32.216052",
+            "duration": 78695,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/notifications",
+            "title": "Notifications",
+            "visit_time": "2025-08-17T01:25:26.299027",
+            "duration": 5918814,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/notifications",
+            "title": "Notifications",
+            "visit_time": "2025-08-17T01:25:26.235773",
+            "duration": 63709,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/notifications",
+            "title": "Notifications",
+            "visit_time": "2025-08-17T01:25:06.037694",
+            "duration": 20199197,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/",
+            "title": "GitHub",
+            "visit_time": "2025-08-17T01:24:42.444011",
+            "duration": 23596948,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/",
+            "title": "GitHub",
+            "visit_time": "2025-08-17T01:24:12.517734",
+            "duration": 29928769,
+            "transition": 822083591,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/hhee4455",
+            "title": "hhee4455 (이승준)",
+            "visit_time": "2025-08-17T01:23:29.616517",
+            "duration": 42902769,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/",
+            "title": "GitHub",
+            "visit_time": "2025-08-17T01:23:13.960470",
+            "duration": 15658943,
+            "transition": 805306375,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/sessions/two-factor/sms",
+            "title": "Two-factor authentication · GitHub",
+            "visit_time": "2025-08-17T01:22:29.137470",
+            "duration": 44824954,
+            "transition": 805306375,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/sessions/two-factor/sms/confirm",
+            "title": "Two-factor authentication · GitHub",
+            "visit_time": "2025-08-17T01:22:26.825852",
+            "duration": 2314431,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/sessions/two-factor/webauthn",
+            "title": "Two-factor authentication · GitHub",
+            "visit_time": "2025-08-17T01:22:17.217135",
+            "duration": 9611792,
+            "transition": 805306375,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/login",
+            "title": "Sign in to GitHub · GitHub",
+            "visit_time": "2025-08-17T01:22:10.262804",
+            "duration": 6957332,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://github.com/",
+            "title": "GitHub",
+            "visit_time": "2025-08-17T01:22:05.390296",
+            "duration": 4876067,
+            "transition": 805306368,
+            "domain": "github.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=github&oq=github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQLhjHARixAxjRAxiABDIMCAIQIxgnGIAEGIoFMgYIAxBFGDwyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDQxODNqMGo3qAIIsAIB8QUpKczjgoThfg&sourceid=chrome&ie=UTF-8",
+            "title": "github - Google 검색",
+            "visit_time": "2025-08-17T01:22:04.167230",
+            "duration": 1226341,
+            "transition": 838860805,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.jandi.com/landing/kr/download",
+            "title": "잔디 다운로드 | 업무용 협업툴 잔디(JANDI)",
+            "visit_time": "2025-08-17T01:09:01.010213",
+            "duration": 155522598,
+            "transition": 805306368,
+            "domain": "www.jandi.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.jandi.com/landing/kr",
+            "title": "협업툴 잔디(JANDI) - AI로 진화한 메신저 기반 업무용 협업툴",
+            "visit_time": "2025-08-17T01:08:58.611805",
+            "duration": 2399921,
+            "transition": 805306368,
+            "domain": "www.jandi.com",
+            "browser": "chrome"
+          },
+          {
+            "url": "https://www.google.com/search?q=jandi&oq=jandi&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMhAIARAuGK8BGMcBGLEDGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIODAzNGowajeoAgiwAgHxBeUM0gOUAu2H&sourceid=chrome&ie=UTF-8",
+            "title": "jandi - Google 검색",
+            "visit_time": "2025-08-17T01:08:57.398718",
+            "duration": 1214646,
+            "transition": 838860805,
+            "domain": "www.google.com",
+            "browser": "chrome"
+          }
+        ]
+      },
+      "search_analysis": {
+        "queries": [
+          {
+            "engine": "google",
+            "query": "github",
+            "url": "https://www.google.com/search?q=github&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQs2MDQ4MTAyajBqN6gCCLACAfEFA9pM31ICxr8&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T06:52:39.829439",
+            "title": "github - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "github",
+            "url": "https://www.google.com/search?q=github&oq=git&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMhAIARAuGMcBGLEDGNEDGIAEMgwIAhBFGDkYsQMYgAQyDAgDECMYJxiABBiKBTIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjU1MWowajeoAgiwAgHxBej554GPhUKP8QXo-eeBj4VCjw&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T04:44:14.259565",
+            "title": "github - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "깃허브 로컬 레포 올리기",
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIKCAUQABiABBiiBNIBCTEyMjM3ajBqN6gCCLACAfEFM9ceIyl6gyY&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T04:44:09.959555",
+            "title": "깃허브 로컬 레포 올리기 - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "깃허브 로컬 레포 올리기",
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIKCAUQABiABBiiBNIBCTEyMjM3ajBqN6gCCLACAfEFM9ceIyl6gyY&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T03:13:00.635754",
+            "title": "깃허브 로컬 레포 올리기 - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "깃허브 로컬 레포 올리기",
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIKCAUQABiABBiiBNIBCTEyMjM3ajBqN6gCCLACAfEFM9ceIyl6gyY&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T03:12:27.689048",
+            "title": "깃허브 로컬 레포 올리기 - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "깃허브",
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C&oq=%EA%B9%83%ED%97%88%EB%B8%8C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQLhjHARixAxjRAxiABDIGCAIQRRg7MgYIAxBFGDsyBggEEEUYOzIHCAUQABiABDIGCAYQBRhAMgYIBxBFGD3SAQgyOTY2ajBqNKgCCLACAfEFQJcaii-B5BI&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T03:10:46.024236",
+            "title": "깃허브 - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "깃허브 라이센스 종류",
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4+%EC%A2%85%EB%A5%98&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4+%EC%A2%85%EB%A5%98&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgoIAhAAGIAEGKIEMgcIAxAAGO8FMgoIBBAAGIAEGKIEMgcIBRAAGO8F0gEINjg0NWowajSoAgiwAgHxBbqOGQoZ47iN&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T03:04:30.782308",
+            "title": "깃허브 라이센스 종류 - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "깃허브 mcp",
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+mcp&oq=%EA%B9%83%ED%97%88%EB%B8%8C+mcp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIICAMQABgIGB4yBwgEEAAY7wUyCggFEAAYogQYiQUyCggGEAAYgAQYogQyCggHEAAYgAQYogQyCAgIEAAYBRge0gEINTA5N2owajeoAgiwAgHxBTcMipOzW6pw&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T02:53:48.091889",
+            "title": "깃허브 mcp - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "gpt 5",
+            "url": "https://www.google.com/search?q=gpt+5&oq=gpt+5&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIGCAEQABgDMgYIAhAAGAMyBggDEAAYAzIGCAQQABgDMgcIBRAAGIAEMgYIBhAAGAMyBggHEAAYAzINCAgQABiDARixAxiABDIGCAkQABgD0gEINjc3MGowajeoAgiwAgHxBbkF1OO8VKnB&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T02:02:20.118390",
+            "title": "gpt 5 - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "gpt 5",
+            "url": "https://www.google.com/search?q=gpt+5&oq=gpt+5&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIGCAEQABgDMgYIAhAAGAMyBggDEAAYAzIGCAQQABgDMgcIBRAAGIAEMgYIBhAAGAMyBggHEAAYAzINCAgQABiDARixAxiABDIGCAkQABgD0gEINjc3MGowajeoAgiwAgHxBbkF1OO8VKnB&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T02:00:15.948008",
+            "title": "gpt 5 - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "vscode",
+            "url": "https://www.google.com/search?q=vscode&oq=vscode&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIGCAEQIxgnMgYIAhAjGCcyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIGCAcQBRhA0gEINDU1N2owajeoAgiwAgHxBQK3HtgTgeYb&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T01:29:54.632094",
+            "title": "vscode - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "깃허브 다운로드",
+            "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C&oq=%EA%B9%83%ED%97%88%EB%B8%8C+&gs_lcrp=EgZjaHJvbWUqDAgCEAAYQxiABBiKBTIOCAAQRRgnGDkYgAQYigUyDAgBECMYJxiABBiKBTIMCAIQABhDGIAEGIoFMgcIAxAAGIAEMgcIBBAAGIAEMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIMCAcQABhDGIAEGIoFMgcICBAAGIAEMgwICRAAGEMYgAQYigXSAQg2MTQ5ajBqN6gCCLACAfEFvASefBmqhxo&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T01:26:35.671340",
+            "title": "깃허브 다운로드 - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "github",
+            "url": "https://www.google.com/search?q=github&oq=github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQLhjHARixAxjRAxiABDIMCAIQIxgnGIAEGIoFMgYIAxBFGDwyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDQxODNqMGo3qAIIsAIB8QUpKczjgoThfg&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T01:22:04.167230",
+            "title": "github - Google 검색",
+            "browser": "chrome"
+          },
+          {
+            "engine": "google",
+            "query": "jandi",
+            "url": "https://www.google.com/search?q=jandi&oq=jandi&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMhAIARAuGK8BGMcBGLEDGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIODAzNGowajeoAgiwAgHxBeUM0gOUAu2H&sourceid=chrome&ie=UTF-8",
+            "visit_time": "2025-08-17T01:08:57.398718",
+            "title": "jandi - Google 검색",
+            "browser": "chrome"
+          }
+        ],
+        "analysis": {
+          "total_searches": 14,
+          "unique_queries": 9,
+          "engine_distribution": {
+            "google": 14
+          },
+          "top_queries": [
+            [
+              "github",
+              3
+            ],
+            [
+              "깃허브 로컬 레포 올리기",
+              3
+            ],
+            [
+              "gpt 5",
+              2
+            ],
+            [
+              "깃허브",
+              1
+            ],
+            [
+              "깃허브 라이센스 종류",
+              1
+            ],
+            [
+              "깃허브 mcp",
+              1
+            ],
+            [
+              "vscode",
+              1
+            ],
+            [
+              "깃허브 다운로드",
+              1
+            ],
+            [
+              "jandi",
+              1
+            ]
+          ],
+          "hourly_distribution": {
+            "6": 1,
+            "4": 2,
+            "3": 4,
+            "2": 3,
+            "1": 4
+          },
+          "browser_distribution": {
+            "chrome": 14
+          },
+          "average_query_length": 7.6,
+          "search_categories": {
+            "programming": [
+              "github",
+              "github",
+              "vscode",
+              "github"
+            ],
+            "other": [
+              "깃허브 로컬 레포 올리기",
+              "깃허브 로컬 레포 올리기",
+              "깃허브 로컬 레포 올리기",
+              "깃허브",
+              "깃허브 라이센스 종류",
+              "깃허브 mcp",
+              "gpt 5",
+              "gpt 5",
+              "깃허브 다운로드",
+              "jandi"
+            ]
+          },
+          "first_search": "2025-08-17T01:08:57.398718",
+          "last_search": "2025-08-17T06:52:39.829439"
+        },
+        "insights": [
+          "보통 수준의 검색 활동: 총 14회 검색",
+          "주요 검색 엔진: google (14회)",
+          "검색 피크 시간: 3시 (4회)",
+          "주요 관심 분야: other (10개 검색어)",
+          "다양한 주제의 검색"
+        ]
+      },
+      "category_analysis": {
+        "categories": {
+          "social": [],
+          "work": [
+            {
+              "url": "https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo+user+workflow&skip_account_picker=true&state=e7de1cb3-ba10-49dd-be1c-1164d3823979",
+              "title": "OAuth application authorized",
+              "visit_time": "2025-08-17T01:27:20.871850",
+              "duration": 56389472,
+              "transition": 805306375,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/login/oauth/select_account?client_id=de0e3c7e9973e1c4dd77&scope=repo+user+workflow&state=e7de1cb3-ba10-49dd-be1c-1164d3823979",
+              "title": "Verify Session",
+              "visit_time": "2025-08-17T01:27:19.161798",
+              "duration": 1714981,
+              "transition": -1610612730,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo%20user%20workflow&state=e7de1cb3-ba10-49dd-be1c-1164d3823979",
+              "title": "Verify Session",
+              "visit_time": "2025-08-17T01:27:19.161798",
+              "duration": 0,
+              "transition": 268435462,
+              "domain": "github.com",
+              "browser": "chrome"
+            }
+          ],
+          "news": [],
+          "entertainment": [],
+          "shopping": [
+            {
+              "url": "https://www.anaconda.com/products/distribution",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:10:18.361861",
+              "duration": 0,
+              "transition": 268435462,
+              "domain": "www.anaconda.com",
+              "browser": "chrome"
+            }
+          ],
+          "education": [
+            {
+              "url": "https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14296108?start=15#overview",
+              "title": "Course: Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy",
+              "visit_time": "2025-08-17T01:39:45.391819",
+              "duration": 0,
+              "transition": 805306368,
+              "domain": "www.udemy.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14296108?start=15",
+              "title": "Course: Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy",
+              "visit_time": "2025-08-17T01:39:45.102009",
+              "duration": 290533,
+              "transition": -1610612736,
+              "domain": "www.udemy.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.udemy.com/course-dashboard-redirect/?course_id=2301254",
+              "title": "Course: Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy",
+              "visit_time": "2025-08-17T01:39:45.102009",
+              "duration": 0,
+              "transition": 268435456,
+              "domain": "www.udemy.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.udemy.com/home/my-courses/learning/",
+              "title": "내 학습 | Udemy",
+              "visit_time": "2025-08-17T01:39:40.590067",
+              "duration": 4513432,
+              "transition": 805306368,
+              "domain": "www.udemy.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.udemy.com/home/my-courses/",
+              "title": "내 학습 | Udemy",
+              "visit_time": "2025-08-17T01:39:39.664713",
+              "duration": 926213,
+              "transition": 838860801,
+              "domain": "www.udemy.com",
+              "browser": "chrome"
+            }
+          ],
+          "developer": [
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:54.551196",
+              "duration": 11584556,
+              "transition": 822083584,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+              "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:53.870133",
+              "duration": 682364,
+              "transition": 822083584,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector/src",
+              "title": "personal-logging-platform/browser-collector/src at main · culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:52.598294",
+              "duration": 1273283,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+              "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:51.306875",
+              "duration": 1294082,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+              "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:51.300035",
+              "duration": 7629,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+              "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:51.259750",
+              "duration": 41036,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/tree/main/browser-collector",
+              "title": "personal-logging-platform/browser-collector at main · culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:51.175108",
+              "duration": 85375,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:52:47.976593",
+              "duration": 3200229,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T06:52:41.570456",
+              "duration": 6409213,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T06:20:42.371603",
+              "duration": 985208,
+              "transition": 805306374,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T06:15:58.439286",
+              "duration": 741531,
+              "transition": 805306374,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://accounts.google.com/o/oauth2/v2/auth?gsiwebsdk=3&client_id=1062961139910-l2m55cb9h51u5cuc9c56eb3fevouidh9.apps.googleusercontent.com&scope=openid%20profile%20email&redirect_uri=storagerelay%3A%2F%2Fhttps%2Fclaude.ai%3Fid%3Dauth720001&prompt=consent&access_type=offline&response_type=code&include_granted_scopes=true&enable_granular_consent=true",
+              "title": "로그인 - Google 계정",
+              "visit_time": "2025-08-17T04:54:11.546396",
+              "duration": 2684684,
+              "transition": 805306368,
+              "domain": "accounts.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/tokens",
+              "title": "Personal Access Tokens (Classic)",
+              "visit_time": "2025-08-17T04:48:48.876309",
+              "duration": 5515658730,
+              "transition": 805306375,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/tokens/new",
+              "title": "New Personal Access Token (Classic)",
+              "visit_time": "2025-08-17T04:48:13.593538",
+              "duration": 35285649,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/tokens/new",
+              "title": "New Personal Access Token (Classic)",
+              "visit_time": "2025-08-17T04:48:13.534883",
+              "duration": 59424,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/tokens",
+              "title": "Personal Access Tokens (Classic)",
+              "visit_time": "2025-08-17T04:47:59.506915",
+              "duration": 14030088,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/tokens",
+              "title": "Personal Access Tokens (Classic)",
+              "visit_time": "2025-08-17T04:47:59.462401",
+              "duration": 45290,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/apps",
+              "title": "GitHub Apps",
+              "visit_time": "2025-08-17T04:47:45.038992",
+              "duration": 14424929,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/profile",
+              "title": "Your profile",
+              "visit_time": "2025-08-17T04:47:41.207370",
+              "duration": 3834098,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/profile",
+              "title": "Your profile",
+              "visit_time": "2025-08-17T04:47:41.098147",
+              "duration": 110052,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/settings",
+              "title": "General",
+              "visit_time": "2025-08-17T04:47:20.226361",
+              "duration": 20873392,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T04:44:27.070785",
+              "duration": 173156569,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T04:44:15.900959",
+              "duration": 11172704,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/settings",
+              "title": "General",
+              "visit_time": "2025-08-17T04:37:27.176124",
+              "duration": 4623131,
+              "transition": 805306375,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/settings/set_visibility",
+              "title": "Confirm access",
+              "visit_time": "2025-08-17T04:36:54.748617",
+              "duration": 32430853,
+              "transition": 805306375,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform/settings",
+              "title": "General",
+              "visit_time": "2025-08-17T04:36:37.536249",
+              "duration": 17215785,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T03:16:30.711773",
+              "duration": 4806827239,
+              "transition": 805306376,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T03:11:47.653116",
+              "duration": 283060918,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon/personal-logging-platform",
+              "title": "culonculon/personal-logging-platform",
+              "visit_time": "2025-08-17T03:11:47.571703",
+              "duration": 82107,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/new",
+              "title": "New repository",
+              "visit_time": "2025-08-17T03:11:17.401641",
+              "duration": 30171168,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/new",
+              "title": "New repository",
+              "visit_time": "2025-08-17T03:11:17.400040",
+              "duration": 2173,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/new",
+              "title": "New repository",
+              "visit_time": "2025-08-17T03:11:17.393954",
+              "duration": 6852,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/new",
+              "title": "New repository",
+              "visit_time": "2025-08-17T03:11:17.273220",
+              "duration": 121493,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/culonculon?tab=repositories",
+              "title": "Your Repositories",
+              "visit_time": "2025-08-17T03:11:07.923174",
+              "duration": 9352009,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T03:11:01.199162",
+              "duration": 6726090,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T03:10:47.610489",
+              "duration": 13590945,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://apidog.com/kr/blog/github-mcp-server-kr/",
+              "title": "GitHub MCP 서버 사용 방법",
+              "visit_time": "2025-08-17T02:54:40.263584",
+              "duration": 590521847,
+              "transition": 822083584,
+              "domain": "apidog.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://apidog.com/pricing",
+              "title": "Apidog Pricing",
+              "visit_time": "2025-08-17T02:54:23.615923",
+              "duration": 16650057,
+              "transition": 805306368,
+              "domain": "apidog.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://apidog.com/kr/blog/github-mcp-server-kr/",
+              "title": "GitHub MCP 서버 사용 방법",
+              "visit_time": "2025-08-17T02:53:50.551870",
+              "duration": 33066082,
+              "transition": 805306368,
+              "domain": "apidog.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://code.visualstudio.com/docs/?dv=darwinarm64",
+              "title": "Documentation for Visual Studio Code",
+              "visit_time": "2025-08-17T01:30:05.824277",
+              "duration": 142499531,
+              "transition": 805306368,
+              "domain": "code.visualstudio.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://code.visualstudio.com/Download#",
+              "title": "Download Visual Studio Code - Mac, Linux, Windows",
+              "visit_time": "2025-08-17T01:30:05.758603",
+              "duration": 67867,
+              "transition": 805306368,
+              "domain": "code.visualstudio.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://code.visualstudio.com/Download",
+              "title": "Download Visual Studio Code - Mac, Linux, Windows",
+              "visit_time": "2025-08-17T01:29:59.061524",
+              "duration": 6699286,
+              "transition": 805306368,
+              "domain": "code.visualstudio.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://code.visualstudio.com/",
+              "title": "Visual Studio Code - Code Editing. Redefined",
+              "visit_time": "2025-08-17T01:29:57.432921",
+              "duration": 1630297,
+              "transition": 805306368,
+              "domain": "code.visualstudio.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=vscode&oq=vscode&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIGCAEQIxgnMgYIAhAjGCcyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIGCAcQBRhA0gEINDU1N2owajeoAgiwAgHxBQK3HtgTgeYb&sourceid=chrome&ie=UTF-8",
+              "title": "vscode - Google 검색",
+              "visit_time": "2025-08-17T01:29:54.632094",
+              "duration": 2802390,
+              "transition": 838860805,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://desktop.github.com/download/",
+              "title": "Download GitHub Desktop | GitHub Desktop",
+              "visit_time": "2025-08-17T01:26:55.237722",
+              "duration": 83423644,
+              "transition": -1610612736,
+              "domain": "desktop.github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://desktop.github.com/download",
+              "title": "Download GitHub Desktop | GitHub Desktop",
+              "visit_time": "2025-08-17T01:26:55.237722",
+              "duration": 0,
+              "transition": 268435456,
+              "domain": "desktop.github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/apps/desktop?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs&locale=ko-KR",
+              "title": "GitHub Desktop | Simple collaboration from your desktop",
+              "visit_time": "2025-08-17T01:26:44.395792",
+              "duration": 10845258,
+              "transition": -1610612736,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/apps/desktop?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs",
+              "title": "GitHub Desktop | Simple collaboration from your desktop",
+              "visit_time": "2025-08-17T01:26:44.395792",
+              "duration": 0,
+              "transition": -2147483648,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs",
+              "title": "GitHub Desktop | Simple collaboration from your desktop",
+              "visit_time": "2025-08-17T01:26:44.395792",
+              "duration": 0,
+              "transition": 268435456,
+              "domain": "desktop.github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop",
+              "title": "GitHub Desktop 설치 - GitHub Docs",
+              "visit_time": "2025-08-17T01:26:42.488303",
+              "duration": 97071980,
+              "transition": 805306368,
+              "domain": "docs.github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/profile",
+              "title": "Your profile",
+              "visit_time": "2025-08-17T01:26:03.968005",
+              "duration": 386002767,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/installations",
+              "title": "Installed GitHub Apps",
+              "visit_time": "2025-08-17T01:25:55.545827",
+              "duration": 8424212,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/apps/authorizations",
+              "title": "Authorized GitHub Apps",
+              "visit_time": "2025-08-17T01:25:53.222288",
+              "duration": 2325732,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/installations",
+              "title": "Installed GitHub Apps",
+              "visit_time": "2025-08-17T01:25:51.056769",
+              "duration": 2168066,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/profile",
+              "title": "Your profile",
+              "visit_time": "2025-08-17T01:25:32.294261",
+              "duration": 18765110,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/settings/profile",
+              "title": "Your profile",
+              "visit_time": "2025-08-17T01:25:32.216052",
+              "duration": 78695,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/notifications",
+              "title": "Notifications",
+              "visit_time": "2025-08-17T01:25:26.299027",
+              "duration": 5918814,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/notifications",
+              "title": "Notifications",
+              "visit_time": "2025-08-17T01:25:26.235773",
+              "duration": 63709,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/notifications",
+              "title": "Notifications",
+              "visit_time": "2025-08-17T01:25:06.037694",
+              "duration": 20199197,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T01:24:42.444011",
+              "duration": 23596948,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T01:24:12.517734",
+              "duration": 29928769,
+              "transition": 822083591,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/hhee4455",
+              "title": "hhee4455 (이승준)",
+              "visit_time": "2025-08-17T01:23:29.616517",
+              "duration": 42902769,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T01:23:13.960470",
+              "duration": 15658943,
+              "transition": 805306375,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/sessions/two-factor/sms",
+              "title": "Two-factor authentication · GitHub",
+              "visit_time": "2025-08-17T01:22:29.137470",
+              "duration": 44824954,
+              "transition": 805306375,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/sessions/two-factor/sms/confirm",
+              "title": "Two-factor authentication · GitHub",
+              "visit_time": "2025-08-17T01:22:26.825852",
+              "duration": 2314431,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/sessions/two-factor/webauthn",
+              "title": "Two-factor authentication · GitHub",
+              "visit_time": "2025-08-17T01:22:17.217135",
+              "duration": 9611792,
+              "transition": 805306375,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/login",
+              "title": "Sign in to GitHub · GitHub",
+              "visit_time": "2025-08-17T01:22:10.262804",
+              "duration": 6957332,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://github.com/",
+              "title": "GitHub",
+              "visit_time": "2025-08-17T01:22:05.390296",
+              "duration": 4876067,
+              "transition": 805306368,
+              "domain": "github.com",
+              "browser": "chrome"
+            }
+          ],
+          "finance": [],
+          "travel": [],
+          "health": [],
+          "other": [
+            {
+              "url": "https://www.anaconda.com/download-success",
+              "title": "Download Success - post download | Anaconda",
+              "visit_time": "2025-08-17T07:12:08.028902",
+              "duration": 0,
+              "transition": 805306368,
+              "domain": "www.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.anaconda.com/download/success",
+              "title": "Download Success | Anaconda",
+              "visit_time": "2025-08-17T07:12:01.710761",
+              "duration": 6319434,
+              "transition": 805306368,
+              "domain": "www.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:11:56.198420",
+              "duration": 5513779,
+              "transition": 1610612736,
+              "domain": "www.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:11:14.832830",
+              "duration": 41366477,
+              "transition": 1358954496,
+              "domain": "www.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.anaconda.com/download/success",
+              "title": "Download Success | Anaconda",
+              "visit_time": "2025-08-17T07:11:13.351242",
+              "duration": 1482573,
+              "transition": 805306368,
+              "domain": "www.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:11:04.996999",
+              "duration": 8355683,
+              "transition": 1610612736,
+              "domain": "www.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:11:03.436075",
+              "duration": 1561852,
+              "transition": 1358954496,
+              "domain": "www.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://auth.anaconda.com/ui/login/98cbfadf-4a9d-4d55-be9c-200653e424ee",
+              "title": "Sign In | Anaconda: Data Science and Python Tools",
+              "visit_time": "2025-08-17T07:11:02.253255",
+              "duration": 1183947,
+              "transition": -1610612736,
+              "domain": "auth.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://auth.anaconda.com/ui/login?return_to=https://www.anaconda.com/download/success",
+              "title": "Sign In | Anaconda: Data Science and Python Tools",
+              "visit_time": "2025-08-17T07:11:02.253255",
+              "duration": 0,
+              "transition": 268435456,
+              "domain": "auth.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:10:59.658431",
+              "duration": 2596419,
+              "transition": 1895825408,
+              "domain": "www.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://auth.anaconda.com/ui/registration/66423fb8-0205-44fb-8e3b-6765fd7f7562",
+              "title": "Sign Up | Anaconda: Data Science and Python Tools",
+              "visit_time": "2025-08-17T07:10:43.713460",
+              "duration": 15946069,
+              "transition": -1610612736,
+              "domain": "auth.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://auth.anaconda.com/ui/registration?return_to=https://www.anaconda.com/download/success",
+              "title": "Sign Up | Anaconda: Data Science and Python Tools",
+              "visit_time": "2025-08-17T07:10:43.713460",
+              "duration": 0,
+              "transition": 268435456,
+              "domain": "auth.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:10:34.817824",
+              "duration": 8898194,
+              "transition": 1610612736,
+              "domain": "www.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:10:22.816417",
+              "duration": 12002311,
+              "transition": 1073741824,
+              "domain": "www.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.anaconda.com/download",
+              "title": "Download Anaconda Distribution | Anaconda",
+              "visit_time": "2025-08-17T07:10:18.361861",
+              "duration": 4455524,
+              "transition": -2147483642,
+              "domain": "www.anaconda.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=github&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQs2MDQ4MTAyajBqN6gCCLACAfEFA9pM31ICxr8&sourceid=chrome&ie=UTF-8",
+              "title": "github - Google 검색",
+              "visit_time": "2025-08-17T06:52:39.829439",
+              "duration": 1744285,
+              "transition": 838860805,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://claude.ai/login?returnTo=%2Fsettings%2Fconnectors",
+              "title": "Claude",
+              "visit_time": "2025-08-17T04:54:08.525677",
+              "duration": 203791342,
+              "transition": 1610612736,
+              "domain": "claude.ai",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://claude.ai/settings/connectors?open_in_browser=1&auth_start=github&origin=claude%3A%2F%2Fclaude.ai%2Fnew%3Fgithub_success%3Dundefined&fromDesktopApp=true",
+              "title": "Claude",
+              "visit_time": "2025-08-17T04:54:07.140488",
+              "duration": 1387769,
+              "transition": 268435462,
+              "domain": "claude.ai",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=github&oq=git&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMhAIARAuGMcBGLEDGNEDGIAEMgwIAhBFGDkYsQMYgAQyDAgDECMYJxiABBiKBTIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjU1MWowajeoAgiwAgHxBej554GPhUKP8QXo-eeBj4VCjw&sourceid=chrome&ie=UTF-8",
+              "title": "github - Google 검색",
+              "visit_time": "2025-08-17T04:44:14.259565",
+              "duration": 1644762,
+              "transition": 838860805,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIKCAUQABiABBiiBNIBCTEyMjM3ajBqN6gCCLACAfEFM9ceIyl6gyY&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 로컬 레포 올리기 - Google 검색",
+              "visit_time": "2025-08-17T04:44:09.959555",
+              "duration": 530210233,
+              "transition": 855638021,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIKCAUQABiABBiiBNIBCTEyMjM3ajBqN6gCCLACAfEFM9ceIyl6gyY&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 로컬 레포 올리기 - Google 검색",
+              "visit_time": "2025-08-17T03:13:00.635754",
+              "duration": 5468683181,
+              "transition": 855638021,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://yeonyeon.tistory.com/50",
+              "title": "[GIT] 로컬 프로젝트를 GitHub에 올리기",
+              "visit_time": "2025-08-17T03:12:28.912825",
+              "duration": 31724511,
+              "transition": 805306368,
+              "domain": "yeonyeon.tistory.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%A1%9C%EC%BB%AC+%EB%A0%88%ED%8F%AC+%EC%98%AC%EB%A6%AC%EA%B8%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIKCAUQABiABBiiBNIBCTEyMjM3ajBqN6gCCLACAfEFM9ceIyl6gyY&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 로컬 레포 올리기 - Google 검색",
+              "visit_time": "2025-08-17T03:12:27.689048",
+              "duration": 1225301,
+              "transition": 838860805,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C&oq=%EA%B9%83%ED%97%88%EB%B8%8C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQLhjHARixAxjRAxiABDIGCAIQRRg7MgYIAxBFGDsyBggEEEUYOzIHCAUQABiABDIGCAYQBRhAMgYIBxBFGD3SAQgyOTY2ajBqNKgCCLACAfEFQJcaii-B5BI&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 - Google 검색",
+              "visit_time": "2025-08-17T03:10:46.024236",
+              "duration": 1589747,
+              "transition": 838860805,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://ashton0410.tistory.com/156",
+              "title": "깃허브 repository 만들때 나오는 라이센스 선택 설명",
+              "visit_time": "2025-08-17T03:04:33.197918",
+              "duration": 372829690,
+              "transition": 805306368,
+              "domain": "ashton0410.tistory.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4+%EC%A2%85%EB%A5%98&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4+%EC%A2%85%EB%A5%98&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgoIAhAAGIAEGKIEMgcIAxAAGO8FMgoIBBAAGIAEGKIEMgcIBRAAGO8F0gEINjg0NWowajSoAgiwAgHxBbqOGQoZ47iN&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 라이센스 종류 - Google 검색",
+              "visit_time": "2025-08-17T03:04:30.782308",
+              "duration": 2419240,
+              "transition": 838860805,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+mcp&oq=%EA%B9%83%ED%97%88%EB%B8%8C+mcp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIICAMQABgIGB4yBwgEEAAY7wUyCggFEAAYogQYiQUyCggGEAAYgAQYogQyCggHEAAYgAQYogQyCAgIEAAYBRge0gEINTA5N2owajeoAgiwAgHxBTcMipOzW6pw&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 mcp - Google 검색",
+              "visit_time": "2025-08-17T02:53:48.091889",
+              "duration": 2461147,
+              "transition": 838860805,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/#%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:03:25.265328",
+              "duration": 0,
+              "transition": 822083584,
+              "domain": "subicura.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://subicura.com/k8s/prepare/",
+              "title": "개발환경 준비 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:03:22.003224",
+              "duration": 3263562,
+              "transition": 805306368,
+              "domain": "subicura.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/#%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:03:19.482277",
+              "duration": 2523481,
+              "transition": 805306368,
+              "domain": "subicura.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/#%E1%84%86%E1%85%A1%E1%84%86%E1%85%AE%E1%84%85%E1%85%B5",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:03:00.683092",
+              "duration": 18801876,
+              "transition": 805306368,
+              "domain": "subicura.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/#minikube",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:02:54.234830",
+              "duration": 6451245,
+              "transition": 805306368,
+              "domain": "subicura.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/#%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:02:42.768756",
+              "duration": 11468777,
+              "transition": 805306368,
+              "domain": "subicura.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/#%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:02:42.764134",
+              "duration": 5849,
+              "transition": 805306368,
+              "domain": "subicura.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://subicura.com/k8s/guide/",
+              "title": "시작하기 | 쿠버네티스 안내서",
+              "visit_time": "2025-08-17T02:02:42.418870",
+              "duration": 348433,
+              "transition": 805306368,
+              "domain": "subicura.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=gpt+5&oq=gpt+5&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIGCAEQABgDMgYIAhAAGAMyBggDEAAYAzIGCAQQABgDMgcIBRAAGIAEMgYIBhAAGAMyBggHEAAYAzINCAgQABiDARixAxiABDIGCAkQABgD0gEINjc3MGowajeoAgiwAgHxBbkF1OO8VKnB&sourceid=chrome&ie=UTF-8",
+              "title": "gpt 5 - Google 검색",
+              "visit_time": "2025-08-17T02:02:20.118390",
+              "duration": 19460581,
+              "transition": 855638021,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://namu.wiki/w/GPT-5",
+              "title": "GPT-5 - 나무위키",
+              "visit_time": "2025-08-17T02:00:22.567242",
+              "duration": 117553070,
+              "transition": 805306368,
+              "domain": "namu.wiki",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=gpt+5&oq=gpt+5&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIGCAEQABgDMgYIAhAAGAMyBggDEAAYAzIGCAQQABgDMgcIBRAAGIAEMgYIBhAAGAMyBggHEAAYAzINCAgQABiDARixAxiABDIGCAkQABgD0gEINjc3MGowajeoAgiwAgHxBbkF1OO8VKnB&sourceid=chrome&ie=UTF-8",
+              "title": "gpt 5 - Google 검색",
+              "visit_time": "2025-08-17T02:00:15.948008",
+              "duration": 6622829,
+              "transition": 838860805,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://subicura.com/k8s/",
+              "title": "쿠버네티스 안내서",
+              "visit_time": "2025-08-17T01:40:15.076274",
+              "duration": 1347345392,
+              "transition": 805306374,
+              "domain": "subicura.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C&oq=%EA%B9%83%ED%97%88%EB%B8%8C+&gs_lcrp=EgZjaHJvbWUqDAgCEAAYQxiABBiKBTIOCAAQRRgnGDkYgAQYigUyDAgBECMYJxiABBiKBTIMCAIQABhDGIAEGIoFMgcIAxAAGIAEMgcIBBAAGIAEMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIMCAcQABhDGIAEGIoFMgcICBAAGIAEMgwICRAAGEMYgAQYigXSAQg2MTQ5ajBqN6gCCLACAfEFvASefBmqhxo&sourceid=chrome&ie=UTF-8",
+              "title": "깃허브 다운로드 - Google 검색",
+              "visit_time": "2025-08-17T01:26:35.671340",
+              "duration": 6818085,
+              "transition": 838860805,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=github&oq=github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQLhjHARixAxjRAxiABDIMCAIQIxgnGIAEGIoFMgYIAxBFGDwyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDQxODNqMGo3qAIIsAIB8QUpKczjgoThfg&sourceid=chrome&ie=UTF-8",
+              "title": "github - Google 검색",
+              "visit_time": "2025-08-17T01:22:04.167230",
+              "duration": 1226341,
+              "transition": 838860805,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.jandi.com/landing/kr/download",
+              "title": "잔디 다운로드 | 업무용 협업툴 잔디(JANDI)",
+              "visit_time": "2025-08-17T01:09:01.010213",
+              "duration": 155522598,
+              "transition": 805306368,
+              "domain": "www.jandi.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.jandi.com/landing/kr",
+              "title": "협업툴 잔디(JANDI) - AI로 진화한 메신저 기반 업무용 협업툴",
+              "visit_time": "2025-08-17T01:08:58.611805",
+              "duration": 2399921,
+              "transition": 805306368,
+              "domain": "www.jandi.com",
+              "browser": "chrome"
+            },
+            {
+              "url": "https://www.google.com/search?q=jandi&oq=jandi&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMhAIARAuGK8BGMcBGLEDGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIODAzNGowajeoAgiwAgHxBeUM0gOUAu2H&sourceid=chrome&ie=UTF-8",
+              "title": "jandi - Google 검색",
+              "visit_time": "2025-08-17T01:08:57.398718",
+              "duration": 1214646,
+              "transition": 838860805,
+              "domain": "www.google.com",
+              "browser": "chrome"
+            }
+          ]
+        },
+        "analysis": {
+          "category_stats": {
+            "work": {
+              "visit_count": 3,
+              "percentage": 2.5,
+              "unique_domains": 1,
+              "top_domains": [
+                [
+                  "github.com",
+                  3
+                ]
+              ],
+              "hourly_distribution": {
+                "1": 3
+              },
+              "peak_hour": 1,
+              "avg_visits_per_hour": 3.0
+            },
+            "shopping": {
+              "visit_count": 1,
+              "percentage": 0.8,
+              "unique_domains": 1,
+              "top_domains": [
+                [
+                  "www.anaconda.com",
+                  1
+                ]
+              ],
+              "hourly_distribution": {
+                "7": 1
+              },
+              "peak_hour": 7,
+              "avg_visits_per_hour": 1.0
+            },
+            "education": {
+              "visit_count": 5,
+              "percentage": 4.1,
+              "unique_domains": 1,
+              "top_domains": [
+                [
+                  "www.udemy.com",
+                  5
+                ]
+              ],
+              "hourly_distribution": {
+                "1": 5
+              },
+              "peak_hour": 1,
+              "avg_visits_per_hour": 5.0
+            },
+            "developer": {
+              "visit_count": 68,
+              "percentage": 56.2,
+              "unique_domains": 7,
+              "top_domains": [
+                [
+                  "github.com",
+                  55
+                ],
+                [
+                  "code.visualstudio.com",
+                  4
+                ],
+                [
+                  "apidog.com",
+                  3
+                ],
+                [
+                  "desktop.github.com",
+                  3
+                ],
+                [
+                  "accounts.google.com",
+                  1
+                ]
+              ],
+              "hourly_distribution": {
+                "6": 11,
+                "4": 15,
+                "3": 10,
+                "2": 3,
+                "1": 29
+              },
+              "peak_hour": 1,
+              "avg_visits_per_hour": 13.6
+            },
+            "other": {
+              "visit_count": 44,
+              "percentage": 36.4,
+              "unique_domains": 9,
+              "top_domains": [
+                [
+                  "www.google.com",
+                  13
+                ],
+                [
+                  "www.anaconda.com",
+                  11
+                ],
+                [
+                  "subicura.com",
+                  9
+                ],
+                [
+                  "auth.anaconda.com",
+                  4
+                ],
+                [
+                  "claude.ai",
+                  2
+                ]
+              ],
+              "hourly_distribution": {
+                "7": 15,
+                "6": 1,
+                "4": 4,
+                "3": 6,
+                "2": 12,
+                "1": 6
+              },
+              "peak_hour": 7,
+              "avg_visits_per_hour": 7.3
+            }
+          },
+          "total_visits": 121,
+          "active_categories": 5,
+          "top_categories": [
+            [
+              "developer",
+              68
+            ],
+            [
+              "other",
+              44
+            ],
+            [
+              "education",
+              5
+            ],
+            [
+              "work",
+              3
+            ],
+            [
+              "shopping",
+              1
+            ]
+          ],
+          "time_patterns": {
+            "work": {
+              "morning": 0,
+              "afternoon": 0,
+              "evening": 0,
+              "night": 3,
+              "peak_period": "night"
+            },
+            "shopping": {
+              "morning": 1,
+              "afternoon": 0,
+              "evening": 0,
+              "night": 0,
+              "peak_period": "morning"
+            },
+            "education": {
+              "morning": 0,
+              "afternoon": 0,
+              "evening": 0,
+              "night": 5,
+              "peak_period": "night"
+            },
+            "developer": {
+              "morning": 11,
+              "afternoon": 0,
+              "evening": 0,
+              "night": 57,
+              "peak_period": "night"
+            },
+            "other": {
+              "morning": 16,
+              "afternoon": 0,
+              "evening": 0,
+              "night": 28,
+              "peak_period": "night"
+            }
+          }
+        },
+        "insights": [
+          "총 121회 방문, 5개 카테고리 활동",
+          "주요 활동 영역: developer (56.2%, 68회)",
+          "특정 카테고리에 집중된 웹사이트 사용",
+          "오전 주요 활동: shopping (1회)",
+          "밤 주요 활동: developer (57회)",
+          "developer 카테고리 집중 사용 (전체의 56.2%)",
+          "other 카테고리 집중 사용 (전체의 36.4%)"
+        ]
+      },
+      "comprehensive_stats": {
+        "total_visits": 121,
+        "unique_domains": 16,
+        "browser_stats": {
+          "chrome": {
+            "visits": 121,
+            "unique_domains": 16
+          }
+        },
+        "top_domains": [
+          [
+            "github.com",
+            58
+          ],
+          [
+            "www.google.com",
+            14
+          ],
+          [
+            "www.anaconda.com",
+            12
+          ],
+          [
+            "subicura.com",
+            9
+          ],
+          [
+            "www.udemy.com",
+            5
+          ],
+          [
+            "auth.anaconda.com",
+            4
+          ],
+          [
+            "code.visualstudio.com",
+            4
+          ],
+          [
+            "apidog.com",
+            3
+          ],
+          [
+            "desktop.github.com",
+            3
+          ],
+          [
+            "claude.ai",
+            2
+          ]
+        ],
+        "hourly_distribution": {
+          "7": 16,
+          "6": 12,
+          "4": 19,
+          "3": 16,
+          "2": 15,
+          "1": 43
+        },
+        "browser_hourly_distribution": {
+          "chrome": {
+            "7": 16,
+            "6": 12,
+            "4": 19,
+            "3": 16,
+            "2": 15,
+            "1": 43
+          }
+        },
+        "first_visit": "2025-08-17T01:08:57.398718",
+        "last_visit": "2025-08-17T07:12:08.028902",
+        "available_browsers": [
+          "chrome",
+          "safari"
+        ]
+      }
+    },
+    "source_files": {
+      "summary": "/Users/admin/Documents/GitHub/personal-logging-platform/browser-collector/output/browser_summary_20250817.json",
+      "complete": "/Users/admin/Documents/GitHub/personal-logging-platform/browser-collector/output/browser_complete_20250817_162307.json"
+    }
+  },
+  "app_data": null,
+  "analysis": {
+    "activity_overview": {
+      "total_browser_visits": 121,
+      "total_app_sessions": 0,
+      "data_richness": "medium"
+    },
+    "productivity_insights": {},
+    "time_patterns": {
+      "browser_peak_hour": 1,
+      "activity_distribution": "브라우저 활동 피크: 1시"
+    },
+    "focus_analysis": {},
+    "category_breakdown": {
+      "browser_categories": [
+        [
+          "developer",
+          68
+        ],
+        [
+          "other",
+          44
+        ],
+        [
+          "education",
+          5
+        ],
+        [
+          "work",
+          3
+        ],
+        [
+          "shopping",
+          1
+        ]
+      ],
+      "top_domains": [
+        [
+          "github.com",
+          58
+        ],
+        [
+          "www.google.com",
+          14
+        ],
+        [
+          "www.anaconda.com",
+          12
+        ],
+        [
+          "subicura.com",
+          9
+        ],
+        [
+          "www.udemy.com",
+          5
+        ]
+      ]
+    },
+    "recommendations": [
+      "새벽 시간대 활동이 많습니다. 충분한 수면을 위해 취침 시간을 앞당기는 것을 고려해보세요."
+    ]
+  }
+}
