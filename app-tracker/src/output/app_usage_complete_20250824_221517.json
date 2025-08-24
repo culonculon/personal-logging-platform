@@ -1,0 +1,6641 @@
+{
+  "collection_info": {
+    "timestamp": "2025-08-24T22:15:17.266166",
+    "collector": "AppCollector",
+    "platform": "macOS",
+    "version": "1.0.0"
+  },
+  "running_apps": [
+    {
+      "bundle_id": "com.google.Chrome",
+      "app_name": "Google Chrome",
+      "pid": 1250,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 00:32:14 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/Applications/Google Chrome.app"
+    },
+    {
+      "bundle_id": "com.spotify.client",
+      "app_name": "Spotify",
+      "pid": 1253,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 00:32:14 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/Applications/Spotify.app"
+    },
+    {
+      "bundle_id": "com.anthropic.claudefordesktop",
+      "app_name": "Claude",
+      "pid": 1255,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 00:32:14 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/Applications/Claude.app"
+    },
+    {
+      "bundle_id": "com.apple.ActivityMonitor",
+      "app_name": "활성 상태 보기",
+      "pid": 1256,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 00:32:14 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/System/Applications/Utilities/Activity Monitor.app"
+    },
+    {
+      "bundle_id": "com.github.GitHubClient",
+      "app_name": "GitHub Desktop",
+      "pid": 1257,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 00:32:14 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/Applications/GitHub Desktop.app"
+    },
+    {
+      "bundle_id": "com.apple.Terminal",
+      "app_name": "터미널",
+      "pid": 1258,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 00:32:14 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/System/Applications/Utilities/Terminal.app"
+    },
+    {
+      "bundle_id": "com.apple.finder",
+      "app_name": "Finder",
+      "pid": 1261,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": null,
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/System/Library/CoreServices/Finder.app"
+    },
+    {
+      "bundle_id": "com.apple.mail",
+      "app_name": "Mail",
+      "pid": 1952,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 00:32:23 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/System/Applications/Mail.app"
+    },
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "pid": 2468,
+      "is_active": true,
+      "is_frontmost": true,
+      "launch_date": "2025-08-24 00:33:27 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/private/var/folders/46/7dv6wbfs6v9385bhq45dt8kc0000gn/T/AppTranslocation/CF3E3015-AE52-4EFA-ABA2-B9409A7E1DD4/d/Tabby.app"
+    },
+    {
+      "bundle_id": "md.obsidian",
+      "app_name": "Obsidian",
+      "pid": 2489,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 00:33:28 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/private/var/folders/46/7dv6wbfs6v9385bhq45dt8kc0000gn/T/AppTranslocation/53AF8E59-E83F-4AD7-8E28-4B2A028AAB86/d/Obsidian.app"
+    },
+    {
+      "bundle_id": "com.jandi.osx.JANDI",
+      "app_name": "JANDI",
+      "pid": 2517,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 00:33:30 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/private/var/folders/46/7dv6wbfs6v9385bhq45dt8kc0000gn/T/AppTranslocation/BA5E8B2D-4271-4CAC-B1C3-C5D301F9CCBB/d/JANDI.app"
+    },
+    {
+      "bundle_id": "com.hnc.Discord",
+      "app_name": "Discord",
+      "pid": 2606,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 00:33:48 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/Applications/Discord.app"
+    },
+    {
+      "bundle_id": "notion.id",
+      "app_name": "Notion",
+      "pid": 4262,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 06:34:26 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/private/var/folders/46/7dv6wbfs6v9385bhq45dt8kc0000gn/T/AppTranslocation/AAFE549D-F457-46FF-A104-AC83F9578A7D/d/Notion.app"
+    },
+    {
+      "bundle_id": "com.apple.Notes",
+      "app_name": "메모",
+      "pid": 4296,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 06:36:19 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/System/Applications/Notes.app"
+    },
+    {
+      "bundle_id": "com.kakao.KakaoTalkMac",
+      "app_name": "카카오톡",
+      "pid": 7872,
+      "is_active": false,
+      "is_frontmost": false,
+      "launch_date": "2025-08-24 12:53:12 +0000",
+      "timestamp": "2025-08-24T22:15:17.266199",
+      "app_path": "/Applications/KakaoTalk.app"
+    }
+  ],
+  "process_usage": [
+    {
+      "pid": 1,
+      "name": "launchd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:30:24.494105",
+      "timestamp": "2025-08-24T22:15:17.278998"
+    },
+    {
+      "pid": 499,
+      "name": "logd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.091365",
+      "timestamp": "2025-08-24T22:15:17.279068"
+    },
+    {
+      "pid": 500,
+      "name": "smd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.103799",
+      "timestamp": "2025-08-24T22:15:17.279132"
+    },
+    {
+      "pid": 501,
+      "name": "UserEventAgent",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.115520",
+      "timestamp": "2025-08-24T22:15:17.279194"
+    },
+    {
+      "pid": 503,
+      "name": "fseventsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.129897",
+      "timestamp": "2025-08-24T22:15:17.279260"
+    },
+    {
+      "pid": 504,
+      "name": "mediaremoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.130022",
+      "timestamp": "2025-08-24T22:15:17.279319"
+    },
+    {
+      "pid": 507,
+      "name": "systemstats",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.130417",
+      "timestamp": "2025-08-24T22:15:17.279378"
+    },
+    {
+      "pid": 509,
+      "name": "accessoryupdater",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.130697",
+      "timestamp": "2025-08-24T22:15:17.279462"
+    },
+    {
+      "pid": 510,
+      "name": "configd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.130854",
+      "timestamp": "2025-08-24T22:15:17.279518"
+    },
+    {
+      "pid": 511,
+      "name": "endpointsecurity",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.131012",
+      "timestamp": "2025-08-24T22:15:17.279589"
+    },
+    {
+      "pid": 512,
+      "name": "powerd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.131144",
+      "timestamp": "2025-08-24T22:15:17.279648"
+    },
+    {
+      "pid": 513,
+      "name": "IOMFB_bics_daemo",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.131292",
+      "timestamp": "2025-08-24T22:15:17.279714"
+    },
+    {
+      "pid": 515,
+      "name": "amfid",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.131621",
+      "timestamp": "2025-08-24T22:15:17.279767"
+    },
+    {
+      "pid": 517,
+      "name": "remoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.131885",
+      "timestamp": "2025-08-24T22:15:17.279819"
+    },
+    {
+      "pid": 519,
+      "name": "keybagd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.132184",
+      "timestamp": "2025-08-24T22:15:17.279870"
+    },
+    {
+      "pid": 520,
+      "name": "softwareupdated",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.132312",
+      "timestamp": "2025-08-24T22:15:17.279935"
+    },
+    {
+      "pid": 521,
+      "name": "corespeechd_syst",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.132496",
+      "timestamp": "2025-08-24T22:15:17.279996"
+    },
+    {
+      "pid": 523,
+      "name": "watchdogd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.132780",
+      "timestamp": "2025-08-24T22:15:17.280060"
+    },
+    {
+      "pid": 527,
+      "name": "mds",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.133291",
+      "timestamp": "2025-08-24T22:15:17.280112"
+    },
+    {
+      "pid": 528,
+      "name": "iconservicesd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.133422",
+      "timestamp": "2025-08-24T22:15:17.280166"
+    },
+    {
+      "pid": 530,
+      "name": "diskarbitrationd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.133667",
+      "timestamp": "2025-08-24T22:15:17.280287"
+    },
+    {
+      "pid": 531,
+      "name": "Installer Progre",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.133785",
+      "timestamp": "2025-08-24T22:15:17.280349"
+    },
+    {
+      "pid": 533,
+      "name": "coreduetd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.134045",
+      "timestamp": "2025-08-24T22:15:17.280408"
+    },
+    {
+      "pid": 534,
+      "name": "syslogd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.134171",
+      "timestamp": "2025-08-24T22:15:17.280466"
+    },
+    {
+      "pid": 537,
+      "name": "thermalmonitord",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.134509",
+      "timestamp": "2025-08-24T22:15:17.280528"
+    },
+    {
+      "pid": 538,
+      "name": "opendirectoryd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.134631",
+      "timestamp": "2025-08-24T22:15:17.280587"
+    },
+    {
+      "pid": 540,
+      "name": "apsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.134879",
+      "timestamp": "2025-08-24T22:15:17.280645"
+    },
+    {
+      "pid": 541,
+      "name": "launchservicesd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.134991",
+      "timestamp": "2025-08-24T22:15:17.280713"
+    },
+    {
+      "pid": 542,
+      "name": "timed",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.135108",
+      "timestamp": "2025-08-24T22:15:17.280772"
+    },
+    {
+      "pid": 543,
+      "name": "usbmuxd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.135325",
+      "timestamp": "2025-08-24T22:15:17.280824"
+    },
+    {
+      "pid": 544,
+      "name": "securityd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.135485",
+      "timestamp": "2025-08-24T22:15:17.280887"
+    },
+    {
+      "pid": 547,
+      "name": "nesessionmanager",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.135861",
+      "timestamp": "2025-08-24T22:15:17.280955"
+    },
+    {
+      "pid": 549,
+      "name": "autofsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.136189",
+      "timestamp": "2025-08-24T22:15:17.281013"
+    },
+    {
+      "pid": 550,
+      "name": "dasd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.136328",
+      "timestamp": "2025-08-24T22:15:17.281068"
+    },
+    {
+      "pid": 552,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.136580",
+      "timestamp": "2025-08-24T22:15:17.281121"
+    },
+    {
+      "pid": 553,
+      "name": "AppleCredentialM",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.136698",
+      "timestamp": "2025-08-24T22:15:17.281188"
+    },
+    {
+      "pid": 555,
+      "name": "dirhelper",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.136969",
+      "timestamp": "2025-08-24T22:15:17.281247"
+    },
+    {
+      "pid": 556,
+      "name": "logind",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.137116",
+      "timestamp": "2025-08-24T22:15:17.281298"
+    },
+    {
+      "pid": 557,
+      "name": "revisiond",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.137241",
+      "timestamp": "2025-08-24T22:15:17.281351"
+    },
+    {
+      "pid": 558,
+      "name": "KernelEventAgent",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.137358",
+      "timestamp": "2025-08-24T22:15:17.281411"
+    },
+    {
+      "pid": 559,
+      "name": "usermanagerd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.137504",
+      "timestamp": "2025-08-24T22:15:17.281471"
+    },
+    {
+      "pid": 561,
+      "name": "bluetoothd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.137836",
+      "timestamp": "2025-08-24T22:15:17.281525"
+    },
+    {
+      "pid": 562,
+      "name": "notifyd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.137959",
+      "timestamp": "2025-08-24T22:15:17.281578"
+    },
+    {
+      "pid": 563,
+      "name": "sandboxd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.138086",
+      "timestamp": "2025-08-24T22:15:17.281636"
+    },
+    {
+      "pid": 564,
+      "name": "corebrightnessd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.138217",
+      "timestamp": "2025-08-24T22:15:17.281703"
+    },
+    {
+      "pid": 565,
+      "name": "AirPlayXPCHelper",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.138360",
+      "timestamp": "2025-08-24T22:15:17.281763"
+    },
+    {
+      "pid": 566,
+      "name": "com.apple.cmio.r",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.138504",
+      "timestamp": "2025-08-24T22:15:17.281820"
+    },
+    {
+      "pid": 567,
+      "name": "aslmanager",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.213605",
+      "timestamp": "2025-08-24T22:15:17.281872"
+    },
+    {
+      "pid": 568,
+      "name": "logd_helper",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.222957",
+      "timestamp": "2025-08-24T22:15:17.281923"
+    },
+    {
+      "pid": 570,
+      "name": "tccd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.369883",
+      "timestamp": "2025-08-24T22:15:17.281974"
+    },
+    {
+      "pid": 571,
+      "name": "cfprefsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.390504",
+      "timestamp": "2025-08-24T22:15:17.282025"
+    },
+    {
+      "pid": 573,
+      "name": "analyticsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.411536",
+      "timestamp": "2025-08-24T22:15:17.282076"
+    },
+    {
+      "pid": 576,
+      "name": "contextstored",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.452122",
+      "timestamp": "2025-08-24T22:15:17.282127"
+    },
+    {
+      "pid": 577,
+      "name": "runningboardd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.460109",
+      "timestamp": "2025-08-24T22:15:17.282178"
+    },
+    {
+      "pid": 578,
+      "name": "coreservicesd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.465281",
+      "timestamp": "2025-08-24T22:15:17.282237"
+    },
+    {
+      "pid": 579,
+      "name": "powerexperienced",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.481520",
+      "timestamp": "2025-08-24T22:15:17.282301"
+    },
+    {
+      "pid": 580,
+      "name": "lsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.483057",
+      "timestamp": "2025-08-24T22:15:17.282361"
+    },
+    {
+      "pid": 581,
+      "name": "airportd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.527832",
+      "timestamp": "2025-08-24T22:15:17.282422"
+    },
+    {
+      "pid": 582,
+      "name": "liquiddetectiond",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.536652",
+      "timestamp": "2025-08-24T22:15:17.282494"
+    },
+    {
+      "pid": 584,
+      "name": "backupd-helper",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.541783",
+      "timestamp": "2025-08-24T22:15:17.282553"
+    },
+    {
+      "pid": 585,
+      "name": "apfsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.543437",
+      "timestamp": "2025-08-24T22:15:17.282612"
+    },
+    {
+      "pid": 586,
+      "name": "nehelper",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.543703",
+      "timestamp": "2025-08-24T22:15:17.282674"
+    },
+    {
+      "pid": 587,
+      "name": "PowerUIAgent",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.544247",
+      "timestamp": "2025-08-24T22:15:17.282726"
+    },
+    {
+      "pid": 588,
+      "name": "nsurlsessiond",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.545825",
+      "timestamp": "2025-08-24T22:15:17.282777"
+    },
+    {
+      "pid": 589,
+      "name": "coreaudiod",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.552736",
+      "timestamp": "2025-08-24T22:15:17.282827"
+    },
+    {
+      "pid": 590,
+      "name": "systemstatusd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.571002",
+      "timestamp": "2025-08-24T22:15:17.282878"
+    },
+    {
+      "pid": 591,
+      "name": "usbd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.581426",
+      "timestamp": "2025-08-24T22:15:17.282929"
+    },
+    {
+      "pid": 592,
+      "name": "biometrickitd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.584962",
+      "timestamp": "2025-08-24T22:15:17.282980"
+    },
+    {
+      "pid": 593,
+      "name": "trustd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.589034",
+      "timestamp": "2025-08-24T22:15:17.283032"
+    },
+    {
+      "pid": 594,
+      "name": "cryptexd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.599845",
+      "timestamp": "2025-08-24T22:15:17.283082"
+    },
+    {
+      "pid": 595,
+      "name": "mobileassetd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.605916",
+      "timestamp": "2025-08-24T22:15:17.283134"
+    },
+    {
+      "pid": 597,
+      "name": "containermanager",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.612876",
+      "timestamp": "2025-08-24T22:15:17.283192"
+    },
+    {
+      "pid": 599,
+      "name": "eligibilityd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.624802",
+      "timestamp": "2025-08-24T22:15:17.283243"
+    },
+    {
+      "pid": 601,
+      "name": "hidd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.632183",
+      "timestamp": "2025-08-24T22:15:17.283295"
+    },
+    {
+      "pid": 602,
+      "name": "csnameddatad",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.632790",
+      "timestamp": "2025-08-24T22:15:17.283346"
+    },
+    {
+      "pid": 603,
+      "name": "secinitd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.644180",
+      "timestamp": "2025-08-24T22:15:17.283398"
+    },
+    {
+      "pid": 604,
+      "name": "trustdFileHelper",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.652583",
+      "timestamp": "2025-08-24T22:15:17.283455"
+    },
+    {
+      "pid": 605,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.654735",
+      "timestamp": "2025-08-24T22:15:17.283507"
+    },
+    {
+      "pid": 612,
+      "name": "authd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.550097",
+      "timestamp": "2025-08-24T22:15:17.283558"
+    },
+    {
+      "pid": 613,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.551878",
+      "timestamp": "2025-08-24T22:15:17.283609"
+    },
+    {
+      "pid": 615,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.565099",
+      "timestamp": "2025-08-24T22:15:17.283660"
+    },
+    {
+      "pid": 617,
+      "name": "biomed",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.604798",
+      "timestamp": "2025-08-24T22:15:17.283712"
+    },
+    {
+      "pid": 618,
+      "name": "symptomsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.622433",
+      "timestamp": "2025-08-24T22:15:17.283763"
+    },
+    {
+      "pid": 622,
+      "name": "socketfilterfw",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.716541",
+      "timestamp": "2025-08-24T22:15:17.283816"
+    },
+    {
+      "pid": 623,
+      "name": "mDNSResponder",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.720747",
+      "timestamp": "2025-08-24T22:15:17.283870"
+    },
+    {
+      "pid": 624,
+      "name": "sysextd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.753705",
+      "timestamp": "2025-08-24T22:15:17.283920"
+    },
+    {
+      "pid": 625,
+      "name": "mDNSResponderHel",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.779594",
+      "timestamp": "2025-08-24T22:15:17.283978"
+    },
+    {
+      "pid": 627,
+      "name": "com.apple.CodeSi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.827593",
+      "timestamp": "2025-08-24T22:15:17.284036"
+    },
+    {
+      "pid": 628,
+      "name": "colorsync.displa",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.868074",
+      "timestamp": "2025-08-24T22:15:17.284095"
+    },
+    {
+      "pid": 629,
+      "name": "com.apple.ColorS",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.881170",
+      "timestamp": "2025-08-24T22:15:17.284152"
+    },
+    {
+      "pid": 630,
+      "name": "colorsyncd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.893150",
+      "timestamp": "2025-08-24T22:15:17.284203"
+    },
+    {
+      "pid": 637,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:29.993649",
+      "timestamp": "2025-08-24T22:15:17.284254"
+    },
+    {
+      "pid": 638,
+      "name": "PerfPowerTelemet",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.046509",
+      "timestamp": "2025-08-24T22:15:17.284349"
+    },
+    {
+      "pid": 639,
+      "name": "modelcatalogd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.079057",
+      "timestamp": "2025-08-24T22:15:17.284402"
+    },
+    {
+      "pid": 640,
+      "name": "XProtectPluginSe",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.089452",
+      "timestamp": "2025-08-24T22:15:17.284470"
+    },
+    {
+      "pid": 641,
+      "name": "backgroundtaskma",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.101525",
+      "timestamp": "2025-08-24T22:15:17.284527"
+    },
+    {
+      "pid": 642,
+      "name": "osanalyticshelpe",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.246786",
+      "timestamp": "2025-08-24T22:15:17.284585"
+    },
+    {
+      "pid": 646,
+      "name": "securityd_system",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.309155",
+      "timestamp": "2025-08-24T22:15:17.284643"
+    },
+    {
+      "pid": 648,
+      "name": "com.apple.audio.",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.366733",
+      "timestamp": "2025-08-24T22:15:17.284700"
+    },
+    {
+      "pid": 649,
+      "name": "storagekitd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.368636",
+      "timestamp": "2025-08-24T22:15:17.284750"
+    },
+    {
+      "pid": 650,
+      "name": "AudioComponentRe",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.404574",
+      "timestamp": "2025-08-24T22:15:17.284810"
+    },
+    {
+      "pid": 651,
+      "name": "syspolicyd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.430050",
+      "timestamp": "2025-08-24T22:15:17.284861"
+    },
+    {
+      "pid": 652,
+      "name": "WirelessRadioMan",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.442451",
+      "timestamp": "2025-08-24T22:15:17.284920"
+    },
+    {
+      "pid": 653,
+      "name": "com.apple.audio.",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.458205",
+      "timestamp": "2025-08-24T22:15:17.284979"
+    },
+    {
+      "pid": 654,
+      "name": "findmybeaconingd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.472985",
+      "timestamp": "2025-08-24T22:15:17.285036"
+    },
+    {
+      "pid": 657,
+      "name": "tzlinkd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.485170",
+      "timestamp": "2025-08-24T22:15:17.285087"
+    },
+    {
+      "pid": 658,
+      "name": "cameracaptured",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.488860",
+      "timestamp": "2025-08-24T22:15:17.285139"
+    },
+    {
+      "pid": 659,
+      "name": "audioclocksyncd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.493540",
+      "timestamp": "2025-08-24T22:15:17.285199"
+    },
+    {
+      "pid": 660,
+      "name": "UVCAssistant",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.517023",
+      "timestamp": "2025-08-24T22:15:17.285250"
+    },
+    {
+      "pid": 661,
+      "name": "appleh16camerad",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.553316",
+      "timestamp": "2025-08-24T22:15:17.285309"
+    },
+    {
+      "pid": 663,
+      "name": "modelmanagerd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.584710",
+      "timestamp": "2025-08-24T22:15:17.285360"
+    },
+    {
+      "pid": 665,
+      "name": "AppleDeviceQuery",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.615742",
+      "timestamp": "2025-08-24T22:15:17.285422"
+    },
+    {
+      "pid": 666,
+      "name": "backupd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.617448",
+      "timestamp": "2025-08-24T22:15:17.285473"
+    },
+    {
+      "pid": 667,
+      "name": "suhelperd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.698870",
+      "timestamp": "2025-08-24T22:15:17.285523"
+    },
+    {
+      "pid": 668,
+      "name": "com.apple.geod",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.706690",
+      "timestamp": "2025-08-24T22:15:17.285574"
+    },
+    {
+      "pid": 669,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.719050",
+      "timestamp": "2025-08-24T22:15:17.285624"
+    },
+    {
+      "pid": 670,
+      "name": "com.apple.geod",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.735477",
+      "timestamp": "2025-08-24T22:15:17.285675"
+    },
+    {
+      "pid": 673,
+      "name": "com.apple.Driver",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.819324",
+      "timestamp": "2025-08-24T22:15:17.285733"
+    },
+    {
+      "pid": 674,
+      "name": "secinitd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.822712",
+      "timestamp": "2025-08-24T22:15:17.285783"
+    },
+    {
+      "pid": 675,
+      "name": "secinitd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.824316",
+      "timestamp": "2025-08-24T22:15:17.285833"
+    },
+    {
+      "pid": 676,
+      "name": "com.apple.Driver",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.832923",
+      "timestamp": "2025-08-24T22:15:17.285892"
+    },
+    {
+      "pid": 677,
+      "name": "com.apple.AppleU",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.840370",
+      "timestamp": "2025-08-24T22:15:17.285951"
+    },
+    {
+      "pid": 678,
+      "name": "cfprefsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.867047",
+      "timestamp": "2025-08-24T22:15:17.286005"
+    },
+    {
+      "pid": 679,
+      "name": "cfprefsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.868563",
+      "timestamp": "2025-08-24T22:15:17.286057"
+    },
+    {
+      "pid": 684,
+      "name": "trustd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.907137",
+      "timestamp": "2025-08-24T22:15:17.286108"
+    },
+    {
+      "pid": 685,
+      "name": "trustd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.908826",
+      "timestamp": "2025-08-24T22:15:17.286158"
+    },
+    {
+      "pid": 686,
+      "name": "softwareupdated",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.910405",
+      "timestamp": "2025-08-24T22:15:17.286216"
+    },
+    {
+      "pid": 688,
+      "name": "aneuserd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.969661",
+      "timestamp": "2025-08-24T22:15:17.286268"
+    },
+    {
+      "pid": 689,
+      "name": "aned",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.971515",
+      "timestamp": "2025-08-24T22:15:17.286318"
+    },
+    {
+      "pid": 690,
+      "name": "containermanager",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.975184",
+      "timestamp": "2025-08-24T22:15:17.286377"
+    },
+    {
+      "pid": 691,
+      "name": "containermanager",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:30.976861",
+      "timestamp": "2025-08-24T22:15:17.286432"
+    },
+    {
+      "pid": 692,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:31.089701",
+      "timestamp": "2025-08-24T22:15:17.286489"
+    },
+    {
+      "pid": 693,
+      "name": "rtcreportingd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:31.171043",
+      "timestamp": "2025-08-24T22:15:17.286539"
+    },
+    {
+      "pid": 694,
+      "name": "symptomsd-diag",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:31.210632",
+      "timestamp": "2025-08-24T22:15:17.286604"
+    },
+    {
+      "pid": 698,
+      "name": "CloudTelemetrySe",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:31.379984",
+      "timestamp": "2025-08-24T22:15:17.286662"
+    },
+    {
+      "pid": 699,
+      "name": "XProtectBridgeSe",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:31.414881",
+      "timestamp": "2025-08-24T22:15:17.286722"
+    },
+    {
+      "pid": 700,
+      "name": "com.apple.Mobile",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:31.422397",
+      "timestamp": "2025-08-24T22:15:17.286781"
+    },
+    {
+      "pid": 702,
+      "name": "writeconfig",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:31.441829",
+      "timestamp": "2025-08-24T22:15:17.286833"
+    },
+    {
+      "pid": 704,
+      "name": "sysmond",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:31.712532",
+      "timestamp": "2025-08-24T22:15:17.286893"
+    },
+    {
+      "pid": 706,
+      "name": "systemstats",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:31.899542",
+      "timestamp": "2025-08-24T22:15:17.286943"
+    },
+    {
+      "pid": 708,
+      "name": "UARPUpdaterServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:32.589137",
+      "timestamp": "2025-08-24T22:15:17.287010"
+    },
+    {
+      "pid": 709,
+      "name": "UARPUpdaterServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:32.590373",
+      "timestamp": "2025-08-24T22:15:17.287068"
+    },
+    {
+      "pid": 710,
+      "name": "UARPUpdaterServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:32.592922",
+      "timestamp": "2025-08-24T22:15:17.287129"
+    },
+    {
+      "pid": 711,
+      "name": "UARPUpdaterServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:32.596501",
+      "timestamp": "2025-08-24T22:15:17.287188"
+    },
+    {
+      "pid": 712,
+      "name": "UARPUpdaterServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:32.599276",
+      "timestamp": "2025-08-24T22:15:17.287246"
+    },
+    {
+      "pid": 713,
+      "name": "UARPUpdaterServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:32.601067",
+      "timestamp": "2025-08-24T22:15:17.287303"
+    },
+    {
+      "pid": 714,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:32.604987",
+      "timestamp": "2025-08-24T22:15:17.287354"
+    },
+    {
+      "pid": 715,
+      "name": "searchpartyd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:32.644358",
+      "timestamp": "2025-08-24T22:15:17.287405"
+    },
+    {
+      "pid": 716,
+      "name": "ThunderboltAcces",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:32.741247",
+      "timestamp": "2025-08-24T22:15:17.287463"
+    },
+    {
+      "pid": 717,
+      "name": "wifip2pd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:33.267204",
+      "timestamp": "2025-08-24T22:15:17.287514"
+    },
+    {
+      "pid": 718,
+      "name": "WiFiCloudAssetsX",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:33.290962",
+      "timestamp": "2025-08-24T22:15:17.287571"
+    },
+    {
+      "pid": 721,
+      "name": "wifianalyticsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:33.903021",
+      "timestamp": "2025-08-24T22:15:17.287622"
+    },
+    {
+      "pid": 725,
+      "name": "ReportCrash",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:34.265631",
+      "timestamp": "2025-08-24T22:15:17.287672"
+    },
+    {
+      "pid": 726,
+      "name": "countryd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:34.278277",
+      "timestamp": "2025-08-24T22:15:17.287723"
+    },
+    {
+      "pid": 727,
+      "name": "coresymbolicatio",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:34.316506",
+      "timestamp": "2025-08-24T22:15:17.287786"
+    },
+    {
+      "pid": 729,
+      "name": "locationd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:35.819849",
+      "timestamp": "2025-08-24T22:15:17.287844"
+    },
+    {
+      "pid": 730,
+      "name": "appleeventsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:38.625286",
+      "timestamp": "2025-08-24T22:15:17.287900"
+    },
+    {
+      "pid": 738,
+      "name": "bootinstalld",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:38.815583",
+      "timestamp": "2025-08-24T22:15:17.287954"
+    },
+    {
+      "pid": 771,
+      "name": "PlugInLibrarySer",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:38.861141",
+      "timestamp": "2025-08-24T22:15:17.288013"
+    },
+    {
+      "pid": 792,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:38.882257",
+      "timestamp": "2025-08-24T22:15:17.288064"
+    },
+    {
+      "pid": 835,
+      "name": "mds_stores",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:39.133108",
+      "timestamp": "2025-08-24T22:15:17.288116"
+    },
+    {
+      "pid": 836,
+      "name": "diagnosticservic",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:39.197080",
+      "timestamp": "2025-08-24T22:15:17.288174"
+    },
+    {
+      "pid": 837,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:39.373165",
+      "timestamp": "2025-08-24T22:15:17.288227"
+    },
+    {
+      "pid": 839,
+      "name": "iconservicesagen",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:39.696157",
+      "timestamp": "2025-08-24T22:15:17.288292"
+    },
+    {
+      "pid": 840,
+      "name": "distnoted",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.034809112548828125,
+      "create_time": "2025-08-24T09:31:40.056418",
+      "timestamp": "2025-08-24T22:15:17.288423"
+    },
+    {
+      "pid": 841,
+      "name": "trustd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:40.129967",
+      "timestamp": "2025-08-24T22:15:17.288479"
+    },
+    {
+      "pid": 842,
+      "name": "mdworker",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:40.251406",
+      "timestamp": "2025-08-24T22:15:17.288532"
+    },
+    {
+      "pid": 849,
+      "name": "cfprefsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.036907196044921875,
+      "create_time": "2025-08-24T09:31:40.351112",
+      "timestamp": "2025-08-24T22:15:17.288589"
+    },
+    {
+      "pid": 859,
+      "name": "systemsoundserve",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:40.474238",
+      "timestamp": "2025-08-24T22:15:17.288663"
+    },
+    {
+      "pid": 860,
+      "name": "lsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10423660278320312,
+      "create_time": "2025-08-24T09:31:40.561598",
+      "timestamp": "2025-08-24T22:15:17.288718"
+    },
+    {
+      "pid": 861,
+      "name": "csnameddatad",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01430511474609375,
+      "create_time": "2025-08-24T09:31:40.671342",
+      "timestamp": "2025-08-24T22:15:17.288776"
+    },
+    {
+      "pid": 862,
+      "name": "spindump",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:40.793133",
+      "timestamp": "2025-08-24T22:15:17.288831"
+    },
+    {
+      "pid": 863,
+      "name": "SubmitDiagInfo",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:40.824406",
+      "timestamp": "2025-08-24T22:15:17.288884"
+    },
+    {
+      "pid": 865,
+      "name": "trustd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08592605590820312,
+      "create_time": "2025-08-24T09:31:40.874803",
+      "timestamp": "2025-08-24T22:15:17.288939"
+    },
+    {
+      "pid": 866,
+      "name": "system_installd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:40.948268",
+      "timestamp": "2025-08-24T22:15:17.289005"
+    },
+    {
+      "pid": 877,
+      "name": "oahd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:41.217828",
+      "timestamp": "2025-08-24T22:15:17.289061"
+    },
+    {
+      "pid": 879,
+      "name": "applekeystored",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:41.333180",
+      "timestamp": "2025-08-24T22:15:17.289113"
+    },
+    {
+      "pid": 887,
+      "name": "ecosystemanalyti",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:41.648663",
+      "timestamp": "2025-08-24T22:15:17.289172"
+    },
+    {
+      "pid": 905,
+      "name": "coreauthd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:42.469123",
+      "timestamp": "2025-08-24T22:15:17.289224"
+    },
+    {
+      "pid": 908,
+      "name": "secd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.1331329345703125,
+      "create_time": "2025-08-24T09:31:42.532984",
+      "timestamp": "2025-08-24T22:15:17.289278"
+    },
+    {
+      "pid": 910,
+      "name": "loginwindow",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.2970695495605469,
+      "create_time": "2025-08-24T09:31:42.595765",
+      "timestamp": "2025-08-24T22:15:17.289333"
+    },
+    {
+      "pid": 914,
+      "name": "WindowServer",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:42.655684",
+      "timestamp": "2025-08-24T22:15:17.289394"
+    },
+    {
+      "pid": 918,
+      "name": "IOUserBluetoothS",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:42.771939",
+      "timestamp": "2025-08-24T22:15:17.289455"
+    },
+    {
+      "pid": 939,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:43.711381",
+      "timestamp": "2025-08-24T22:15:17.289511"
+    },
+    {
+      "pid": 940,
+      "name": "ctkahp",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:43.722653",
+      "timestamp": "2025-08-24T22:15:17.289563"
+    },
+    {
+      "pid": 945,
+      "name": "ctkd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:43.823146",
+      "timestamp": "2025-08-24T22:15:17.289614"
+    },
+    {
+      "pid": 951,
+      "name": "MTLCompilerServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:44.164364",
+      "timestamp": "2025-08-24T22:15:17.289673"
+    },
+    {
+      "pid": 962,
+      "name": "PlugInLibrarySer",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:44.976057",
+      "timestamp": "2025-08-24T22:15:17.289732"
+    },
+    {
+      "pid": 967,
+      "name": "audioanalyticsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:45.385139",
+      "timestamp": "2025-08-24T22:15:17.289790"
+    },
+    {
+      "pid": 975,
+      "name": "appinstalld",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:46.351739",
+      "timestamp": "2025-08-24T22:15:17.289844"
+    },
+    {
+      "pid": 976,
+      "name": "com.apple.Mobile",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:46.414880",
+      "timestamp": "2025-08-24T22:15:17.289908"
+    },
+    {
+      "pid": 977,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:46.429552",
+      "timestamp": "2025-08-24T22:15:17.289961"
+    },
+    {
+      "pid": 978,
+      "name": "online-auth-agen",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:31:46.548896",
+      "timestamp": "2025-08-24T22:15:17.290023"
+    },
+    {
+      "pid": 1046,
+      "name": "mdworker",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.03108978271484375,
+      "create_time": "2025-08-24T09:31:52.922954",
+      "timestamp": "2025-08-24T22:15:17.290074"
+    },
+    {
+      "pid": 1047,
+      "name": "mdbulkimport",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09298324584960938,
+      "create_time": "2025-08-24T09:31:54.437547",
+      "timestamp": "2025-08-24T22:15:17.290127"
+    },
+    {
+      "pid": 1048,
+      "name": "pkd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08249282836914062,
+      "create_time": "2025-08-24T09:31:54.517034",
+      "timestamp": "2025-08-24T22:15:17.290177"
+    },
+    {
+      "pid": 1049,
+      "name": "PlugInLibraryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0102996826171875,
+      "create_time": "2025-08-24T09:31:59.562631",
+      "timestamp": "2025-08-24T22:15:17.290270"
+    },
+    {
+      "pid": 1050,
+      "name": "containermanagerd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0476837158203125,
+      "create_time": "2025-08-24T09:32:00.627858",
+      "timestamp": "2025-08-24T22:15:17.290339"
+    },
+    {
+      "pid": 1052,
+      "name": "GSSCred",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:04.763494",
+      "timestamp": "2025-08-24T22:15:17.290392"
+    },
+    {
+      "pid": 1057,
+      "name": "corekdld",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:05.501724",
+      "timestamp": "2025-08-24T22:15:17.290450"
+    },
+    {
+      "pid": 1058,
+      "name": "TrustedPeersHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.056552886962890625,
+      "create_time": "2025-08-24T09:32:05.514548",
+      "timestamp": "2025-08-24T22:15:17.290517"
+    },
+    {
+      "pid": 1059,
+      "name": "UserEventAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.1049041748046875,
+      "create_time": "2025-08-24T09:32:05.552159",
+      "timestamp": "2025-08-24T22:15:17.290572"
+    },
+    {
+      "pid": 1060,
+      "name": "gamecontrollerd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:05.556300",
+      "timestamp": "2025-08-24T22:15:17.290670"
+    },
+    {
+      "pid": 1061,
+      "name": "seld",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:05.564060",
+      "timestamp": "2025-08-24T22:15:17.290725"
+    },
+    {
+      "pid": 1063,
+      "name": "CoreServicesUIAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.2564430236816406,
+      "create_time": "2025-08-24T09:32:05.599639",
+      "timestamp": "2025-08-24T22:15:17.290791"
+    },
+    {
+      "pid": 1064,
+      "name": "universalaccessd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08869171142578125,
+      "create_time": "2025-08-24T09:32:05.600395",
+      "timestamp": "2025-08-24T22:15:17.290855"
+    },
+    {
+      "pid": 1066,
+      "name": "pboard",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.061321258544921875,
+      "create_time": "2025-08-24T09:32:05.643504",
+      "timestamp": "2025-08-24T22:15:17.290905"
+    },
+    {
+      "pid": 1067,
+      "name": "MTLCompilerServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:05.653563",
+      "timestamp": "2025-08-24T22:15:17.290966"
+    },
+    {
+      "pid": 1068,
+      "name": "MTLCompilerServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:05.654104",
+      "timestamp": "2025-08-24T22:15:17.291025"
+    },
+    {
+      "pid": 1069,
+      "name": "AXVisualSupportAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.20036697387695312,
+      "create_time": "2025-08-24T09:32:05.722221",
+      "timestamp": "2025-08-24T22:15:17.291098"
+    },
+    {
+      "pid": 1070,
+      "name": "com.apple.sbd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07734298706054688,
+      "create_time": "2025-08-24T09:32:05.726163",
+      "timestamp": "2025-08-24T22:15:17.291150"
+    },
+    {
+      "pid": 1071,
+      "name": "neagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07658004760742188,
+      "create_time": "2025-08-24T09:32:05.727604",
+      "timestamp": "2025-08-24T22:15:17.291202"
+    },
+    {
+      "pid": 1072,
+      "name": "CommCenter",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09126663208007812,
+      "create_time": "2025-08-24T09:32:05.738564",
+      "timestamp": "2025-08-24T22:15:17.291259"
+    },
+    {
+      "pid": 1073,
+      "name": "APFSUserAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02727508544921875,
+      "create_time": "2025-08-24T09:32:05.752046",
+      "timestamp": "2025-08-24T22:15:17.291308"
+    },
+    {
+      "pid": 1074,
+      "name": "nsurlsessiond",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.13561248779296875,
+      "create_time": "2025-08-24T09:32:05.754078",
+      "timestamp": "2025-08-24T22:15:17.291360"
+    },
+    {
+      "pid": 1075,
+      "name": "lockoutagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.03681182861328125,
+      "create_time": "2025-08-24T09:32:05.755764",
+      "timestamp": "2025-08-24T22:15:17.291412"
+    },
+    {
+      "pid": 1076,
+      "name": "rapportd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.14257431030273438,
+      "create_time": "2025-08-24T09:32:05.757165",
+      "timestamp": "2025-08-24T22:15:17.291463"
+    },
+    {
+      "pid": 1078,
+      "name": "ContextStoreAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.159454345703125,
+      "create_time": "2025-08-24T09:32:05.763072",
+      "timestamp": "2025-08-24T22:15:17.291532"
+    },
+    {
+      "pid": 1079,
+      "name": "usernotificationsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10480880737304688,
+      "create_time": "2025-08-24T09:32:05.784880",
+      "timestamp": "2025-08-24T22:15:17.291672"
+    },
+    {
+      "pid": 1080,
+      "name": "routined",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.16803741455078125,
+      "create_time": "2025-08-24T09:32:05.788972",
+      "timestamp": "2025-08-24T22:15:17.291739"
+    },
+    {
+      "pid": 1081,
+      "name": "usernoted",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.15802383422851562,
+      "create_time": "2025-08-24T09:32:05.789989",
+      "timestamp": "2025-08-24T22:15:17.291799"
+    },
+    {
+      "pid": 1082,
+      "name": "TextInputSwitcher",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.12121200561523438,
+      "create_time": "2025-08-24T09:32:05.796370",
+      "timestamp": "2025-08-24T22:15:17.291871"
+    },
+    {
+      "pid": 1083,
+      "name": "dmd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.05931854248046875,
+      "create_time": "2025-08-24T09:32:05.801133",
+      "timestamp": "2025-08-24T22:15:17.291922"
+    },
+    {
+      "pid": 1084,
+      "name": "WindowManager",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.18548965454101562,
+      "create_time": "2025-08-24T09:32:05.803553",
+      "timestamp": "2025-08-24T22:15:17.291973"
+    },
+    {
+      "pid": 1085,
+      "name": "secinitd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.045490264892578125,
+      "create_time": "2025-08-24T09:32:05.807148",
+      "timestamp": "2025-08-24T22:15:17.292022"
+    },
+    {
+      "pid": 1086,
+      "name": "ScreenTimeAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10614395141601562,
+      "create_time": "2025-08-24T09:32:05.813568",
+      "timestamp": "2025-08-24T22:15:17.292090"
+    },
+    {
+      "pid": 1087,
+      "name": "talagentd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09937286376953125,
+      "create_time": "2025-08-24T09:32:05.840605",
+      "timestamp": "2025-08-24T22:15:17.292141"
+    },
+    {
+      "pid": 1088,
+      "name": "diagnosticspushd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.029850006103515625,
+      "create_time": "2025-08-24T09:32:05.845092",
+      "timestamp": "2025-08-24T22:15:17.292206"
+    },
+    {
+      "pid": 1089,
+      "name": "generativeexperiencesd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.21610260009765625,
+      "create_time": "2025-08-24T09:32:05.847252",
+      "timestamp": "2025-08-24T22:15:17.292270"
+    },
+    {
+      "pid": 1090,
+      "name": "corespeechd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.1529693603515625,
+      "create_time": "2025-08-24T09:32:05.849436",
+      "timestamp": "2025-08-24T22:15:17.292322"
+    },
+    {
+      "pid": 1091,
+      "name": "mediaanalysisd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.623321533203125,
+      "create_time": "2025-08-24T09:32:05.852283",
+      "timestamp": "2025-08-24T22:15:17.292371"
+    },
+    {
+      "pid": 1092,
+      "name": "imklaunchagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0675201416015625,
+      "create_time": "2025-08-24T09:32:05.860079",
+      "timestamp": "2025-08-24T22:15:17.292420"
+    },
+    {
+      "pid": 1093,
+      "name": "sharedfilelistd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06504058837890625,
+      "create_time": "2025-08-24T09:32:05.914075",
+      "timestamp": "2025-08-24T22:15:17.292491"
+    },
+    {
+      "pid": 1094,
+      "name": "BiomeAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10986328125,
+      "create_time": "2025-08-24T09:32:05.964419",
+      "timestamp": "2025-08-24T22:15:17.292548"
+    },
+    {
+      "pid": 1095,
+      "name": "com.apple.hiservices-xpcservice",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.023937225341796875,
+      "create_time": "2025-08-24T09:32:05.974854",
+      "timestamp": "2025-08-24T22:15:17.292612"
+    },
+    {
+      "pid": 1096,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:05.993860",
+      "timestamp": "2025-08-24T22:15:17.292677"
+    },
+    {
+      "pid": 1097,
+      "name": "ManagedSettingsAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.030517578125,
+      "create_time": "2025-08-24T09:32:06.006831",
+      "timestamp": "2025-08-24T22:15:17.292743"
+    },
+    {
+      "pid": 1098,
+      "name": "siriactionsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.115203857421875,
+      "create_time": "2025-08-24T09:32:06.056109",
+      "timestamp": "2025-08-24T22:15:17.292822"
+    },
+    {
+      "pid": 1099,
+      "name": "PAH_Extension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11444091796875,
+      "create_time": "2025-08-24T09:32:06.059964",
+      "timestamp": "2025-08-24T22:15:17.292918"
+    },
+    {
+      "pid": 1100,
+      "name": "EmojiFunctionRowIM_Extension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09222030639648438,
+      "create_time": "2025-08-24T09:32:06.073736",
+      "timestamp": "2025-08-24T22:15:17.293033"
+    },
+    {
+      "pid": 1101,
+      "name": "fontd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0659942626953125,
+      "create_time": "2025-08-24T09:32:06.080944",
+      "timestamp": "2025-08-24T22:15:17.293091"
+    },
+    {
+      "pid": 1102,
+      "name": "CoreLocationAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.17223358154296875,
+      "create_time": "2025-08-24T09:32:06.082177",
+      "timestamp": "2025-08-24T22:15:17.293170"
+    },
+    {
+      "pid": 1103,
+      "name": "bird",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.1804351806640625,
+      "create_time": "2025-08-24T09:32:06.186066",
+      "timestamp": "2025-08-24T22:15:17.293225"
+    },
+    {
+      "pid": 1104,
+      "name": "fontworker",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.04978179931640625,
+      "create_time": "2025-08-24T09:32:06.197685",
+      "timestamp": "2025-08-24T22:15:17.293435"
+    },
+    {
+      "pid": 1105,
+      "name": "callservicesd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.13427734375,
+      "create_time": "2025-08-24T09:32:06.224104",
+      "timestamp": "2025-08-24T22:15:17.293500"
+    },
+    {
+      "pid": 1106,
+      "name": "syncdefaultsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08687973022460938,
+      "create_time": "2025-08-24T09:32:06.284578",
+      "timestamp": "2025-08-24T22:15:17.293552"
+    },
+    {
+      "pid": 1107,
+      "name": "accountsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.3973960876464844,
+      "create_time": "2025-08-24T09:32:06.290116",
+      "timestamp": "2025-08-24T22:15:17.293606"
+    },
+    {
+      "pid": 1108,
+      "name": "WiFiAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.19168853759765625,
+      "create_time": "2025-08-24T09:32:06.295495",
+      "timestamp": "2025-08-24T22:15:17.293659"
+    },
+    {
+      "pid": 1109,
+      "name": "knowledge-agent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.17004013061523438,
+      "create_time": "2025-08-24T09:32:06.296896",
+      "timestamp": "2025-08-24T22:15:17.293728"
+    },
+    {
+      "pid": 1110,
+      "name": "identityservicesd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.205230712890625,
+      "create_time": "2025-08-24T09:32:06.308698",
+      "timestamp": "2025-08-24T22:15:17.293795"
+    },
+    {
+      "pid": 1111,
+      "name": "awdd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:06.373260",
+      "timestamp": "2025-08-24T22:15:17.293851"
+    },
+    {
+      "pid": 1112,
+      "name": "triald",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10423660278320312,
+      "create_time": "2025-08-24T09:32:06.404574",
+      "timestamp": "2025-08-24T22:15:17.293902"
+    },
+    {
+      "pid": 1113,
+      "name": "ndoagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.03528594970703125,
+      "create_time": "2025-08-24T09:32:06.406576",
+      "timestamp": "2025-08-24T22:15:17.293952"
+    },
+    {
+      "pid": 1114,
+      "name": "icloudmailagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10900497436523438,
+      "create_time": "2025-08-24T09:32:06.410044",
+      "timestamp": "2025-08-24T22:15:17.294032"
+    },
+    {
+      "pid": 1117,
+      "name": "transparencyd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11348724365234375,
+      "create_time": "2025-08-24T09:32:06.503548",
+      "timestamp": "2025-08-24T22:15:17.294085"
+    },
+    {
+      "pid": 1118,
+      "name": "migrationhelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01354217529296875,
+      "create_time": "2025-08-24T09:32:06.512331",
+      "timestamp": "2025-08-24T22:15:17.294167"
+    },
+    {
+      "pid": 1120,
+      "name": "homed",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.18405914306640625,
+      "create_time": "2025-08-24T09:32:06.514390",
+      "timestamp": "2025-08-24T22:15:17.294220"
+    },
+    {
+      "pid": 1121,
+      "name": "ctkd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06647109985351562,
+      "create_time": "2025-08-24T09:32:06.516644",
+      "timestamp": "2025-08-24T22:15:17.294275"
+    },
+    {
+      "pid": 1122,
+      "name": "cloudd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.20761489868164062,
+      "create_time": "2025-08-24T09:32:06.518407",
+      "timestamp": "2025-08-24T22:15:17.294326"
+    },
+    {
+      "pid": 1125,
+      "name": "coreauthd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06771087646484375,
+      "create_time": "2025-08-24T09:32:06.563375",
+      "timestamp": "2025-08-24T22:15:17.294376"
+    },
+    {
+      "pid": 1126,
+      "name": "sharingd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.17681121826171875,
+      "create_time": "2025-08-24T09:32:06.592769",
+      "timestamp": "2025-08-24T22:15:17.294425"
+    },
+    {
+      "pid": 1128,
+      "name": "followupd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02593994140625,
+      "create_time": "2025-08-24T09:32:06.648445",
+      "timestamp": "2025-08-24T22:15:17.294473"
+    },
+    {
+      "pid": 1129,
+      "name": "photolibraryd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.18768310546875,
+      "create_time": "2025-08-24T09:32:06.708948",
+      "timestamp": "2025-08-24T22:15:17.294521"
+    },
+    {
+      "pid": 1130,
+      "name": "siriknowledged",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.14476776123046875,
+      "create_time": "2025-08-24T09:32:06.710069",
+      "timestamp": "2025-08-24T22:15:17.294570"
+    },
+    {
+      "pid": 1131,
+      "name": "UsageTrackingAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08478164672851562,
+      "create_time": "2025-08-24T09:32:06.710632",
+      "timestamp": "2025-08-24T22:15:17.294635"
+    },
+    {
+      "pid": 1132,
+      "name": "linkd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.1300811767578125,
+      "create_time": "2025-08-24T09:32:06.711185",
+      "timestamp": "2025-08-24T22:15:17.294685"
+    },
+    {
+      "pid": 1133,
+      "name": "siriinferenced",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.24700164794921875,
+      "create_time": "2025-08-24T09:32:06.712414",
+      "timestamp": "2025-08-24T22:15:17.294735"
+    },
+    {
+      "pid": 1134,
+      "name": "com.apple.DictionaryServiceHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0164031982421875,
+      "create_time": "2025-08-24T09:32:06.723163",
+      "timestamp": "2025-08-24T22:15:17.294799"
+    },
+    {
+      "pid": 1135,
+      "name": "FamilyControlsAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02613067626953125,
+      "create_time": "2025-08-24T09:32:06.797576",
+      "timestamp": "2025-08-24T22:15:17.294865"
+    },
+    {
+      "pid": 1136,
+      "name": "fileproviderd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.23746490478515625,
+      "create_time": "2025-08-24T09:32:06.825549",
+      "timestamp": "2025-08-24T22:15:17.294917"
+    },
+    {
+      "pid": 1137,
+      "name": "familycircled",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.12826919555664062,
+      "create_time": "2025-08-24T09:32:06.838604",
+      "timestamp": "2025-08-24T22:15:17.294969"
+    },
+    {
+      "pid": 1138,
+      "name": "tccd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08668899536132812,
+      "create_time": "2025-08-24T09:32:06.865998",
+      "timestamp": "2025-08-24T22:15:17.295022"
+    },
+    {
+      "pid": 1139,
+      "name": "donotdisturbd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11491775512695312,
+      "create_time": "2025-08-24T09:32:07.013331",
+      "timestamp": "2025-08-24T22:15:17.295072"
+    },
+    {
+      "pid": 1140,
+      "name": "deleted",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0637054443359375,
+      "create_time": "2025-08-24T09:32:07.027943",
+      "timestamp": "2025-08-24T22:15:17.295122"
+    },
+    {
+      "pid": 1141,
+      "name": "replicatord",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.12378692626953125,
+      "create_time": "2025-08-24T09:32:07.040166",
+      "timestamp": "2025-08-24T22:15:17.295171"
+    },
+    {
+      "pid": 1143,
+      "name": "NotificationCenter",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.38890838623046875,
+      "create_time": "2025-08-24T09:32:07.081972",
+      "timestamp": "2025-08-24T22:15:17.295239"
+    },
+    {
+      "pid": 1144,
+      "name": "corespotlightd",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.3677597045898438,
+      "create_time": "2025-08-24T09:32:07.084804",
+      "timestamp": "2025-08-24T22:15:17.295289"
+    },
+    {
+      "pid": 1145,
+      "name": "appleaccountd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.091552734375,
+      "create_time": "2025-08-24T09:32:07.162722",
+      "timestamp": "2025-08-24T22:15:17.295339"
+    },
+    {
+      "pid": 1147,
+      "name": "AppSSOAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.17795562744140625,
+      "create_time": "2025-08-24T09:32:07.204945",
+      "timestamp": "2025-08-24T22:15:17.295388"
+    },
+    {
+      "pid": 1148,
+      "name": "filecoordination",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:07.221270",
+      "timestamp": "2025-08-24T22:15:17.295455"
+    },
+    {
+      "pid": 1150,
+      "name": "AppSSODaemon",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:07.312269",
+      "timestamp": "2025-08-24T22:15:17.295510"
+    },
+    {
+      "pid": 1151,
+      "name": "findmylocateagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09717941284179688,
+      "create_time": "2025-08-24T09:32:07.347368",
+      "timestamp": "2025-08-24T22:15:17.295576"
+    },
+    {
+      "pid": 1152,
+      "name": "ScopedBookmarkAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.042057037353515625,
+      "create_time": "2025-08-24T09:32:07.387265",
+      "timestamp": "2025-08-24T22:15:17.295640"
+    },
+    {
+      "pid": 1153,
+      "name": "chronod",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.15888214111328125,
+      "create_time": "2025-08-24T09:32:07.448029",
+      "timestamp": "2025-08-24T22:15:17.295691"
+    },
+    {
+      "pid": 1154,
+      "name": "StatusKitAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10318756103515625,
+      "create_time": "2025-08-24T09:32:07.469350",
+      "timestamp": "2025-08-24T22:15:17.295743"
+    },
+    {
+      "pid": 1156,
+      "name": "ContainerMetadataExtractor",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.066375732421875,
+      "create_time": "2025-08-24T09:32:07.687532",
+      "timestamp": "2025-08-24T22:15:17.295808"
+    },
+    {
+      "pid": 1157,
+      "name": "ViewBridgeAuxiliary",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08268356323242188,
+      "create_time": "2025-08-24T09:32:07.842152",
+      "timestamp": "2025-08-24T22:15:17.295874"
+    },
+    {
+      "pid": 1158,
+      "name": "iconservicesagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.1708984375,
+      "create_time": "2025-08-24T09:32:07.867915",
+      "timestamp": "2025-08-24T22:15:17.295938"
+    },
+    {
+      "pid": 1159,
+      "name": "suggestd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.5026817321777344,
+      "create_time": "2025-08-24T09:32:07.906148",
+      "timestamp": "2025-08-24T22:15:17.295986"
+    },
+    {
+      "pid": 1160,
+      "name": "idleassetsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:07.961401",
+      "timestamp": "2025-08-24T22:15:17.296039"
+    },
+    {
+      "pid": 1161,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01735687255859375,
+      "create_time": "2025-08-24T09:32:07.998245",
+      "timestamp": "2025-08-24T22:15:17.296104"
+    },
+    {
+      "pid": 1162,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.020122528076171875,
+      "create_time": "2025-08-24T09:32:08.000036",
+      "timestamp": "2025-08-24T22:15:17.296172"
+    },
+    {
+      "pid": 1163,
+      "name": "Keychain Circle Notification",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09517669677734375,
+      "create_time": "2025-08-24T09:32:08.078381",
+      "timestamp": "2025-08-24T22:15:17.296237"
+    },
+    {
+      "pid": 1164,
+      "name": "ProtectedCloudKeySyncing",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.05054473876953125,
+      "create_time": "2025-08-24T09:32:08.080601",
+      "timestamp": "2025-08-24T22:15:17.296305"
+    },
+    {
+      "pid": 1165,
+      "name": "cdpd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.054645538330078125,
+      "create_time": "2025-08-24T09:32:08.082613",
+      "timestamp": "2025-08-24T22:15:17.296355"
+    },
+    {
+      "pid": 1169,
+      "name": "cloudd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:08.194063",
+      "timestamp": "2025-08-24T22:15:17.296408"
+    },
+    {
+      "pid": 1170,
+      "name": "seserviced",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.059413909912109375,
+      "create_time": "2025-08-24T09:32:08.228078",
+      "timestamp": "2025-08-24T22:15:17.296458"
+    },
+    {
+      "pid": 1172,
+      "name": "CloudTelemetryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10633468627929688,
+      "create_time": "2025-08-24T09:32:08.286590",
+      "timestamp": "2025-08-24T22:15:17.296543"
+    },
+    {
+      "pid": 1173,
+      "name": "localspeechrecognition",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09775161743164062,
+      "create_time": "2025-08-24T09:32:08.289533",
+      "timestamp": "2025-08-24T22:15:17.296604"
+    },
+    {
+      "pid": 1174,
+      "name": "com.apple.geod",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0728607177734375,
+      "create_time": "2025-08-24T09:32:08.292548",
+      "timestamp": "2025-08-24T22:15:17.296653"
+    },
+    {
+      "pid": 1176,
+      "name": "com.apple.CloudPhotosConfiguration",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07123947143554688,
+      "create_time": "2025-08-24T09:32:08.447363",
+      "timestamp": "2025-08-24T22:15:17.296714"
+    },
+    {
+      "pid": 1177,
+      "name": "akd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.21572113037109375,
+      "create_time": "2025-08-24T09:32:08.449857",
+      "timestamp": "2025-08-24T22:15:17.296762"
+    },
+    {
+      "pid": 1178,
+      "name": "iCloudNotificationAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09517669677734375,
+      "create_time": "2025-08-24T09:32:08.454200",
+      "timestamp": "2025-08-24T22:15:17.296860"
+    },
+    {
+      "pid": 1179,
+      "name": "mobileactivation",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:08.579717",
+      "timestamp": "2025-08-24T22:15:17.296922"
+    },
+    {
+      "pid": 1180,
+      "name": "adid",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:08.584961",
+      "timestamp": "2025-08-24T22:15:17.296978"
+    },
+    {
+      "pid": 1181,
+      "name": "PlugInLibraryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01010894775390625,
+      "create_time": "2025-08-24T09:32:08.616031",
+      "timestamp": "2025-08-24T22:15:17.297041"
+    },
+    {
+      "pid": 1182,
+      "name": "localizationswitcherd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0335693359375,
+      "create_time": "2025-08-24T09:32:08.687433",
+      "timestamp": "2025-08-24T22:15:17.297102"
+    },
+    {
+      "pid": 1183,
+      "name": "extensionkitservice",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06723403930664062,
+      "create_time": "2025-08-24T09:32:08.754740",
+      "timestamp": "2025-08-24T22:15:17.297166"
+    },
+    {
+      "pid": 1185,
+      "name": "WeatherWidget",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.3636360168457031,
+      "create_time": "2025-08-24T09:32:08.787422",
+      "timestamp": "2025-08-24T22:15:17.297216"
+    },
+    {
+      "pid": 1186,
+      "name": "passd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.102996826171875,
+      "create_time": "2025-08-24T09:32:08.791606",
+      "timestamp": "2025-08-24T22:15:17.297267"
+    },
+    {
+      "pid": 1187,
+      "name": "WorldClockWidget",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.17919540405273438,
+      "create_time": "2025-08-24T09:32:08.817321",
+      "timestamp": "2025-08-24T22:15:17.297330"
+    },
+    {
+      "pid": 1188,
+      "name": "CalendarWidgetExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08716583251953125,
+      "create_time": "2025-08-24T09:32:08.844824",
+      "timestamp": "2025-08-24T22:15:17.297392"
+    },
+    {
+      "pid": 1189,
+      "name": "BatteriesAvocadoWidgetExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.20904541015625,
+      "create_time": "2025-08-24T09:32:08.876924",
+      "timestamp": "2025-08-24T22:15:17.297457"
+    },
+    {
+      "pid": 1190,
+      "name": "nfcd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:08.893020",
+      "timestamp": "2025-08-24T22:15:17.297512"
+    },
+    {
+      "pid": 1191,
+      "name": "ScreenTimeWidgetExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.2543449401855469,
+      "create_time": "2025-08-24T09:32:08.920381",
+      "timestamp": "2025-08-24T22:15:17.297579"
+    },
+    {
+      "pid": 1193,
+      "name": "photoanalysisd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.24728775024414062,
+      "create_time": "2025-08-24T09:32:09.059570",
+      "timestamp": "2025-08-24T22:15:17.297628"
+    },
+    {
+      "pid": 1194,
+      "name": "cloudphotod",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08993148803710938,
+      "create_time": "2025-08-24T09:32:09.278387",
+      "timestamp": "2025-08-24T22:15:17.297680"
+    },
+    {
+      "pid": 1195,
+      "name": "NFStorageServer",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:09.480262",
+      "timestamp": "2025-08-24T22:15:17.297740"
+    },
+    {
+      "pid": 1196,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:09.497106",
+      "timestamp": "2025-08-24T22:15:17.297792"
+    },
+    {
+      "pid": 1197,
+      "name": "progressd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0576019287109375,
+      "create_time": "2025-08-24T09:32:09.525624",
+      "timestamp": "2025-08-24T22:15:17.297840"
+    },
+    {
+      "pid": 1198,
+      "name": "UIKitSystem",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.13265609741210938,
+      "create_time": "2025-08-24T09:32:09.618942",
+      "timestamp": "2025-08-24T22:15:17.297889"
+    },
+    {
+      "pid": 1199,
+      "name": "assistantd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.307464599609375,
+      "create_time": "2025-08-24T09:32:09.745516",
+      "timestamp": "2025-08-24T22:15:17.298161"
+    },
+    {
+      "pid": 1200,
+      "name": "networkserviceproxy",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.13933181762695312,
+      "create_time": "2025-08-24T09:32:09.755158",
+      "timestamp": "2025-08-24T22:15:17.298227"
+    },
+    {
+      "pid": 1201,
+      "name": "swcd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06103515625,
+      "create_time": "2025-08-24T09:32:09.764306",
+      "timestamp": "2025-08-24T22:15:17.298276"
+    },
+    {
+      "pid": 1202,
+      "name": "duetexpertd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.24595260620117188,
+      "create_time": "2025-08-24T09:32:09.765975",
+      "timestamp": "2025-08-24T22:15:17.298325"
+    },
+    {
+      "pid": 1203,
+      "name": "amsondevicestoraged",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09307861328125,
+      "create_time": "2025-08-24T09:32:09.767636",
+      "timestamp": "2025-08-24T22:15:17.298387"
+    },
+    {
+      "pid": 1204,
+      "name": "mobiletimerd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.046539306640625,
+      "create_time": "2025-08-24T09:32:09.776453",
+      "timestamp": "2025-08-24T22:15:17.298437"
+    },
+    {
+      "pid": 1205,
+      "name": "MTLAssetUpgraderD",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.036716461181640625,
+      "create_time": "2025-08-24T09:32:09.788975",
+      "timestamp": "2025-08-24T22:15:17.298500"
+    },
+    {
+      "pid": 1206,
+      "name": "MENotificationAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02384185791015625,
+      "create_time": "2025-08-24T09:32:09.800341",
+      "timestamp": "2025-08-24T22:15:17.298561"
+    },
+    {
+      "pid": 1207,
+      "name": "BackgroundTaskManagementAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08754730224609375,
+      "create_time": "2025-08-24T09:32:09.802178",
+      "timestamp": "2025-08-24T22:15:17.298624"
+    },
+    {
+      "pid": 1208,
+      "name": "ContinuityCaptureAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08249282836914062,
+      "create_time": "2025-08-24T09:32:10.038281",
+      "timestamp": "2025-08-24T22:15:17.298689"
+    },
+    {
+      "pid": 1209,
+      "name": "assistant_cdmd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11434555053710938,
+      "create_time": "2025-08-24T09:32:10.486705",
+      "timestamp": "2025-08-24T22:15:17.298739"
+    },
+    {
+      "pid": 1210,
+      "name": "nearbyd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:10.502472",
+      "timestamp": "2025-08-24T22:15:17.298793"
+    },
+    {
+      "pid": 1211,
+      "name": "sirittsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.058650970458984375,
+      "create_time": "2025-08-24T09:32:10.526870",
+      "timestamp": "2025-08-24T22:15:17.298842"
+    },
+    {
+      "pid": 1213,
+      "name": "axassetsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06761550903320312,
+      "create_time": "2025-08-24T09:32:10.755099",
+      "timestamp": "2025-08-24T22:15:17.298890"
+    },
+    {
+      "pid": 1214,
+      "name": "pbs",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.032711029052734375,
+      "create_time": "2025-08-24T09:32:10.757590",
+      "timestamp": "2025-08-24T22:15:17.298941"
+    },
+    {
+      "pid": 1215,
+      "name": "maild",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09307861328125,
+      "create_time": "2025-08-24T09:32:10.781557",
+      "timestamp": "2025-08-24T22:15:17.299002"
+    },
+    {
+      "pid": 1217,
+      "name": "swtransparencyd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07200241088867188,
+      "create_time": "2025-08-24T09:32:11.139107",
+      "timestamp": "2025-08-24T22:15:17.299065"
+    },
+    {
+      "pid": 1218,
+      "name": "CMFSyncAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.05016326904296875,
+      "create_time": "2025-08-24T09:32:11.592769",
+      "timestamp": "2025-08-24T22:15:17.299113"
+    },
+    {
+      "pid": 1220,
+      "name": "com.apple.siri.embeddedspeech",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.056362152099609375,
+      "create_time": "2025-08-24T09:32:11.957488",
+      "timestamp": "2025-08-24T22:15:17.299184"
+    },
+    {
+      "pid": 1222,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:12.216325",
+      "timestamp": "2025-08-24T22:15:17.299251"
+    },
+    {
+      "pid": 1223,
+      "name": "fairplayd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:12.312213",
+      "timestamp": "2025-08-24T22:15:17.299302"
+    },
+    {
+      "pid": 1224,
+      "name": "financed",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06666183471679688,
+      "create_time": "2025-08-24T09:32:12.396377",
+      "timestamp": "2025-08-24T22:15:17.299351"
+    },
+    {
+      "pid": 1226,
+      "name": "gamecontrolleragentd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.029277801513671875,
+      "create_time": "2025-08-24T09:32:12.529178",
+      "timestamp": "2025-08-24T22:15:17.299414"
+    },
+    {
+      "pid": 1227,
+      "name": "ControlCenter",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.4658699035644531,
+      "create_time": "2025-08-24T09:32:12.531619",
+      "timestamp": "2025-08-24T22:15:17.299463"
+    },
+    {
+      "pid": 1228,
+      "name": "com.apple.hiserv",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:12.686940",
+      "timestamp": "2025-08-24T22:15:17.299522"
+    },
+    {
+      "pid": 1229,
+      "name": "sociallayerd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0579833984375,
+      "create_time": "2025-08-24T09:32:12.694589",
+      "timestamp": "2025-08-24T22:15:17.299570"
+    },
+    {
+      "pid": 1230,
+      "name": "calaccessd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.12693405151367188,
+      "create_time": "2025-08-24T09:32:12.697473",
+      "timestamp": "2025-08-24T22:15:17.299617"
+    },
+    {
+      "pid": 1231,
+      "name": "intelligentroutingd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07619857788085938,
+      "create_time": "2025-08-24T09:32:12.768539",
+      "timestamp": "2025-08-24T22:15:17.299680"
+    },
+    {
+      "pid": 1232,
+      "name": "audioaccessoryd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.14705657958984375,
+      "create_time": "2025-08-24T09:32:12.770751",
+      "timestamp": "2025-08-24T22:15:17.299741"
+    },
+    {
+      "pid": 1233,
+      "name": "replayd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08373260498046875,
+      "create_time": "2025-08-24T09:32:12.812755",
+      "timestamp": "2025-08-24T22:15:17.299790"
+    },
+    {
+      "pid": 1234,
+      "name": "AudioComponentRegistrar",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0438690185546875,
+      "create_time": "2025-08-24T09:32:12.825905",
+      "timestamp": "2025-08-24T22:15:17.299853"
+    },
+    {
+      "pid": 1235,
+      "name": "CarbonComponentScannerXPC",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.001239776611328125,
+      "create_time": "2025-08-24T09:32:12.908828",
+      "timestamp": "2025-08-24T22:15:17.299916"
+    },
+    {
+      "pid": 1237,
+      "name": "ContextService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.05645751953125,
+      "create_time": "2025-08-24T09:32:13.014517",
+      "timestamp": "2025-08-24T22:15:17.299969"
+    },
+    {
+      "pid": 1238,
+      "name": "milod",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.079345703125,
+      "create_time": "2025-08-24T09:32:13.064378",
+      "timestamp": "2025-08-24T22:15:17.300016"
+    },
+    {
+      "pid": 1239,
+      "name": "WiFiCloudAssetsXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01354217529296875,
+      "create_time": "2025-08-24T09:32:13.086458",
+      "timestamp": "2025-08-24T22:15:17.300080"
+    },
+    {
+      "pid": 1240,
+      "name": "WallpaperAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.12350082397460938,
+      "create_time": "2025-08-24T09:32:13.161922",
+      "timestamp": "2025-08-24T22:15:17.300128"
+    },
+    {
+      "pid": 1241,
+      "name": "wallpaperexportd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:13.489599",
+      "timestamp": "2025-08-24T22:15:17.300188"
+    },
+    {
+      "pid": 1243,
+      "name": "findmydeviced",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:13.924224",
+      "timestamp": "2025-08-24T22:15:17.300240"
+    },
+    {
+      "pid": 1244,
+      "name": "findmydevice-user-agent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.050640106201171875,
+      "create_time": "2025-08-24T09:32:13.971938",
+      "timestamp": "2025-08-24T22:15:17.300302"
+    },
+    {
+      "pid": 1246,
+      "name": "amsaccountsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10118484497070312,
+      "create_time": "2025-08-24T09:32:14.052352",
+      "timestamp": "2025-08-24T22:15:17.300354"
+    },
+    {
+      "pid": 1247,
+      "name": "SetStoreUpdateService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.048542022705078125,
+      "create_time": "2025-08-24T09:32:14.058604",
+      "timestamp": "2025-08-24T22:15:17.300415"
+    },
+    {
+      "pid": 1248,
+      "name": "amsengagementd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11682510375976562,
+      "create_time": "2025-08-24T09:32:14.060637",
+      "timestamp": "2025-08-24T22:15:17.300463"
+    },
+    {
+      "pid": 1249,
+      "name": "CloudTelemetryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10805130004882812,
+      "create_time": "2025-08-24T09:32:14.189831",
+      "timestamp": "2025-08-24T22:15:17.300527"
+    },
+    {
+      "pid": 1250,
+      "name": "Google Chrome",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.6865730285644531,
+      "create_time": "2025-08-24T09:32:14.266910",
+      "timestamp": "2025-08-24T22:15:17.300587"
+    },
+    {
+      "pid": 1253,
+      "name": "Spotify",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.3365745544433594,
+      "create_time": "2025-08-24T09:32:14.445053",
+      "timestamp": "2025-08-24T22:15:17.300660"
+    },
+    {
+      "pid": 1254,
+      "name": "SiriSuggestionsBookkeepingService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.19159317016601562,
+      "create_time": "2025-08-24T09:32:14.496819",
+      "timestamp": "2025-08-24T22:15:17.300721"
+    },
+    {
+      "pid": 1255,
+      "name": "Claude",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.0320663452148438,
+      "create_time": "2025-08-24T09:32:14.518083",
+      "timestamp": "2025-08-24T22:15:17.300781"
+    },
+    {
+      "pid": 1256,
+      "name": "Activity Monitor",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.4589080810546875,
+      "create_time": "2025-08-24T09:32:14.559502",
+      "timestamp": "2025-08-24T22:15:17.300842"
+    },
+    {
+      "pid": 1257,
+      "name": "GitHub Desktop",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.5395889282226562,
+      "create_time": "2025-08-24T09:32:14.580217",
+      "timestamp": "2025-08-24T22:15:17.300898"
+    },
+    {
+      "pid": 1258,
+      "name": "Terminal",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.5130767822265625,
+      "create_time": "2025-08-24T09:32:14.615256",
+      "timestamp": "2025-08-24T22:15:17.300948"
+    },
+    {
+      "pid": 1259,
+      "name": "Dock",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.238800048828125,
+      "create_time": "2025-08-24T09:32:14.635503",
+      "timestamp": "2025-08-24T22:15:17.300996"
+    },
+    {
+      "pid": 1260,
+      "name": "SystemUIServer",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.18682479858398438,
+      "create_time": "2025-08-24T09:32:14.648106",
+      "timestamp": "2025-08-24T22:15:17.301045"
+    },
+    {
+      "pid": 1261,
+      "name": "Finder",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.5681037902832031,
+      "create_time": "2025-08-24T09:32:14.660377",
+      "timestamp": "2025-08-24T22:15:17.301099"
+    },
+    {
+      "pid": 1264,
+      "name": "extensionkitservice",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.027942657470703125,
+      "create_time": "2025-08-24T09:32:14.787403",
+      "timestamp": "2025-08-24T22:15:17.301160"
+    },
+    {
+      "pid": 1265,
+      "name": "QuickLookUIService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11529922485351562,
+      "create_time": "2025-08-24T09:32:14.811030",
+      "timestamp": "2025-08-24T22:15:17.301220"
+    },
+    {
+      "pid": 1266,
+      "name": "com.apple.quicklook.ThumbnailsAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.14429092407226562,
+      "create_time": "2025-08-24T09:32:14.813844",
+      "timestamp": "2025-08-24T22:15:17.301281"
+    },
+    {
+      "pid": 1267,
+      "name": "WallpaperVideoExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0850677490234375,
+      "create_time": "2025-08-24T09:32:14.835559",
+      "timestamp": "2025-08-24T22:15:17.301344"
+    },
+    {
+      "pid": 1268,
+      "name": "automountd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:14.912247",
+      "timestamp": "2025-08-24T22:15:17.301395"
+    },
+    {
+      "pid": 1269,
+      "name": "AMPDeviceDiscoveryAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0270843505859375,
+      "create_time": "2025-08-24T09:32:14.940994",
+      "timestamp": "2025-08-24T22:15:17.301458"
+    },
+    {
+      "pid": 1272,
+      "name": "VTDecoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.03490447998046875,
+      "create_time": "2025-08-24T09:32:15.283540",
+      "timestamp": "2025-08-24T22:15:17.301519"
+    },
+    {
+      "pid": 1273,
+      "name": "extensionkitservice",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.044155120849609375,
+      "create_time": "2025-08-24T09:32:15.308965",
+      "timestamp": "2025-08-24T22:15:17.301580"
+    },
+    {
+      "pid": 1274,
+      "name": "com.apple.CloudDocs.iCloudDriveFileProvider",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10175704956054688,
+      "create_time": "2025-08-24T09:32:15.349350",
+      "timestamp": "2025-08-24T22:15:17.301641"
+    },
+    {
+      "pid": 1275,
+      "name": "deviceinterfaced",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:15.457744",
+      "timestamp": "2025-08-24T22:15:17.301701"
+    },
+    {
+      "pid": 1276,
+      "name": "ANECompilerServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:15.647217",
+      "timestamp": "2025-08-24T22:15:17.301758"
+    },
+    {
+      "pid": 1278,
+      "name": "useractivityd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08144378662109375,
+      "create_time": "2025-08-24T09:32:15.751588",
+      "timestamp": "2025-08-24T22:15:17.301864"
+    },
+    {
+      "pid": 1279,
+      "name": "com.apple.dock.extra",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.2536773681640625,
+      "create_time": "2025-08-24T09:32:15.786721",
+      "timestamp": "2025-08-24T22:15:17.301926"
+    },
+    {
+      "pid": 1280,
+      "name": "PlugInLibraryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01010894775390625,
+      "create_time": "2025-08-24T09:32:15.827846",
+      "timestamp": "2025-08-24T22:15:17.301991"
+    },
+    {
+      "pid": 1282,
+      "name": "Spotlight",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.1361122131347656,
+      "create_time": "2025-08-24T09:32:15.941452",
+      "timestamp": "2025-08-24T22:15:17.302039"
+    },
+    {
+      "pid": 1283,
+      "name": "gamepolicyd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:16.188440",
+      "timestamp": "2025-08-24T22:15:17.302090"
+    },
+    {
+      "pid": 1284,
+      "name": "parsecd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.12531280517578125,
+      "create_time": "2025-08-24T09:32:16.239602",
+      "timestamp": "2025-08-24T22:15:17.302138"
+    },
+    {
+      "pid": 1285,
+      "name": "commerce",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07953643798828125,
+      "create_time": "2025-08-24T09:32:16.264796",
+      "timestamp": "2025-08-24T22:15:17.302186"
+    },
+    {
+      "pid": 1286,
+      "name": "ReportCrash",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.012302398681640625,
+      "create_time": "2025-08-24T09:32:16.282421",
+      "timestamp": "2025-08-24T22:15:17.302234"
+    },
+    {
+      "pid": 1287,
+      "name": "CallHistoryPluginHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06361007690429688,
+      "create_time": "2025-08-24T09:32:16.298833",
+      "timestamp": "2025-08-24T22:15:17.302296"
+    },
+    {
+      "pid": 1288,
+      "name": "ModelCatalogAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.053882598876953125,
+      "create_time": "2025-08-24T09:32:16.467294",
+      "timestamp": "2025-08-24T22:15:17.302357"
+    },
+    {
+      "pid": 1289,
+      "name": "itunescloudd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11444091796875,
+      "create_time": "2025-08-24T09:32:17.063628",
+      "timestamp": "2025-08-24T22:15:17.302406"
+    },
+    {
+      "pid": 1291,
+      "name": "spindump_agent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01544952392578125,
+      "create_time": "2025-08-24T09:32:18.194417",
+      "timestamp": "2025-08-24T22:15:17.302454"
+    },
+    {
+      "pid": 1292,
+      "name": "colorsync.useragent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0186920166015625,
+      "create_time": "2025-08-24T09:32:19.039331",
+      "timestamp": "2025-08-24T22:15:17.302516"
+    },
+    {
+      "pid": 1293,
+      "name": "com.apple.ColorSyncXPCAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0102996826171875,
+      "create_time": "2025-08-24T09:32:19.072436",
+      "timestamp": "2025-08-24T22:15:17.302580"
+    },
+    {
+      "pid": 1295,
+      "name": "chrome_crashpad_handler",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0133514404296875,
+      "create_time": "2025-08-24T09:32:19.280684",
+      "timestamp": "2025-08-24T22:15:17.302647"
+    },
+    {
+      "pid": 1296,
+      "name": "AssetCacheManage",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:19.366647",
+      "timestamp": "2025-08-24T22:15:17.302738"
+    },
+    {
+      "pid": 1297,
+      "name": "Claude Helper (GPU)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.450897216796875,
+      "create_time": "2025-08-24T09:32:19.389459",
+      "timestamp": "2025-08-24T22:15:17.302808"
+    },
+    {
+      "pid": 1299,
+      "name": "Claude Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.25234222412109375,
+      "create_time": "2025-08-24T09:32:19.490672",
+      "timestamp": "2025-08-24T22:15:17.302862"
+    },
+    {
+      "pid": 1303,
+      "name": "Spotify Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06732940673828125,
+      "create_time": "2025-08-24T09:32:20.120486",
+      "timestamp": "2025-08-24T22:15:17.302910"
+    },
+    {
+      "pid": 1304,
+      "name": "Claude Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.3344535827636719,
+      "create_time": "2025-08-24T09:32:20.179120",
+      "timestamp": "2025-08-24T22:15:17.302980"
+    },
+    {
+      "pid": 1306,
+      "name": "Claude Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.25196075439453125,
+      "create_time": "2025-08-24T09:32:20.186588",
+      "timestamp": "2025-08-24T22:15:17.303046"
+    },
+    {
+      "pid": 1310,
+      "name": "captiveagent",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:20.560945",
+      "timestamp": "2025-08-24T22:15:17.303098"
+    },
+    {
+      "pid": 1315,
+      "name": "Spotify Helper (GPU)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.44841766357421875,
+      "create_time": "2025-08-24T09:32:20.724985",
+      "timestamp": "2025-08-24T22:15:17.303166"
+    },
+    {
+      "pid": 1316,
+      "name": "Spotify Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.23660659790039062,
+      "create_time": "2025-08-24T09:32:20.804289",
+      "timestamp": "2025-08-24T22:15:17.303219"
+    },
+    {
+      "pid": 1317,
+      "name": "Spotify Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.13713836669921875,
+      "create_time": "2025-08-24T09:32:21.027344",
+      "timestamp": "2025-08-24T22:15:17.303272"
+    },
+    {
+      "pid": 1323,
+      "name": "GitHub Desktop Helper (GPU)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.2979278564453125,
+      "create_time": "2025-08-24T09:32:21.264690",
+      "timestamp": "2025-08-24T22:15:17.303338"
+    },
+    {
+      "pid": 1325,
+      "name": "GitHub Desktop Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.14705657958984375,
+      "create_time": "2025-08-24T09:32:21.296265",
+      "timestamp": "2025-08-24T22:15:17.303403"
+    },
+    {
+      "pid": 1340,
+      "name": "GitHub Desktop Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.8988380432128906,
+      "create_time": "2025-08-24T09:32:21.713316",
+      "timestamp": "2025-08-24T22:15:17.303474"
+    },
+    {
+      "pid": 1500,
+      "name": "chrome_crashpad_handler",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.011920928955078125,
+      "create_time": "2025-08-24T09:32:22.493593",
+      "timestamp": "2025-08-24T22:15:17.303536"
+    },
+    {
+      "pid": 1528,
+      "name": "ANECompilerServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:22.579340",
+      "timestamp": "2025-08-24T22:15:17.303597"
+    },
+    {
+      "pid": 1810,
+      "name": "FindMyDeviceShar",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:23.082264",
+      "timestamp": "2025-08-24T22:15:17.303655"
+    },
+    {
+      "pid": 1816,
+      "name": "webprivacyd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06237030029296875,
+      "create_time": "2025-08-24T09:32:23.090322",
+      "timestamp": "2025-08-24T22:15:17.303704"
+    },
+    {
+      "pid": 1838,
+      "name": "Google Chrome Helper (GPU)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.5873680114746094,
+      "create_time": "2025-08-24T09:32:23.148860",
+      "timestamp": "2025-08-24T22:15:17.303773"
+    },
+    {
+      "pid": 1847,
+      "name": "Google Chrome Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.44689178466796875,
+      "create_time": "2025-08-24T09:32:23.184711",
+      "timestamp": "2025-08-24T22:15:17.303839"
+    },
+    {
+      "pid": 1904,
+      "name": "Google Chrome Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.20046234130859375,
+      "create_time": "2025-08-24T09:32:23.316814",
+      "timestamp": "2025-08-24T22:15:17.303904"
+    },
+    {
+      "pid": 1932,
+      "name": "heard",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.17347335815429688,
+      "create_time": "2025-08-24T09:32:23.452259",
+      "timestamp": "2025-08-24T22:15:17.303959"
+    },
+    {
+      "pid": 1937,
+      "name": "Siri",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.13275146484375,
+      "create_time": "2025-08-24T09:32:23.459030",
+      "timestamp": "2025-08-24T22:15:17.304009"
+    },
+    {
+      "pid": 1938,
+      "name": "icdd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01983642578125,
+      "create_time": "2025-08-24T09:32:23.460677",
+      "timestamp": "2025-08-24T22:15:17.304057"
+    },
+    {
+      "pid": 1939,
+      "name": "askpermissiond",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06275177001953125,
+      "create_time": "2025-08-24T09:32:23.462393",
+      "timestamp": "2025-08-24T22:15:17.304105"
+    },
+    {
+      "pid": 1941,
+      "name": "AirPlayUIAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09174346923828125,
+      "create_time": "2025-08-24T09:32:23.465645",
+      "timestamp": "2025-08-24T22:15:17.304154"
+    },
+    {
+      "pid": 1944,
+      "name": "imagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.15192031860351562,
+      "create_time": "2025-08-24T09:32:23.470542",
+      "timestamp": "2025-08-24T22:15:17.304203"
+    },
+    {
+      "pid": 1945,
+      "name": "diagnostics_agent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08296966552734375,
+      "create_time": "2025-08-24T09:32:23.472095",
+      "timestamp": "2025-08-24T22:15:17.304265"
+    },
+    {
+      "pid": 1946,
+      "name": "TextInputMenuAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.24366378784179688,
+      "create_time": "2025-08-24T09:32:23.473800",
+      "timestamp": "2025-08-24T22:15:17.304327"
+    },
+    {
+      "pid": 1949,
+      "name": "ctkahp",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.021266937255859375,
+      "create_time": "2025-08-24T09:32:23.480365",
+      "timestamp": "2025-08-24T22:15:17.304375"
+    },
+    {
+      "pid": 1952,
+      "name": "Mail",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.0310173034667969,
+      "create_time": "2025-08-24T09:32:23.496303",
+      "timestamp": "2025-08-24T22:15:17.304425"
+    },
+    {
+      "pid": 1961,
+      "name": "contentlinkingd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06284713745117188,
+      "create_time": "2025-08-24T09:32:23.750236",
+      "timestamp": "2025-08-24T22:15:17.304487"
+    },
+    {
+      "pid": 1987,
+      "name": "XprotectService",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:23.891597",
+      "timestamp": "2025-08-24T22:15:17.304553"
+    },
+    {
+      "pid": 2027,
+      "name": "CVMServer",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:23.986912",
+      "timestamp": "2025-08-24T22:15:17.304608"
+    },
+    {
+      "pid": 2076,
+      "name": "OneDrive",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.5174636840820312,
+      "create_time": "2025-08-24T09:32:24.418902",
+      "timestamp": "2025-08-24T22:15:17.304662"
+    },
+    {
+      "pid": 2080,
+      "name": "IMDPersistenceAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11987686157226562,
+      "create_time": "2025-08-24T09:32:24.558128",
+      "timestamp": "2025-08-24T22:15:17.304723"
+    },
+    {
+      "pid": 2081,
+      "name": "SafariLaunchAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.03452301025390625,
+      "create_time": "2025-08-24T09:32:24.606361",
+      "timestamp": "2025-08-24T22:15:17.304785"
+    },
+    {
+      "pid": 2092,
+      "name": "com.apple.accessibility.mediaaccessibilityd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.013637542724609375,
+      "create_time": "2025-08-24T09:32:24.861076",
+      "timestamp": "2025-08-24T22:15:17.304846"
+    },
+    {
+      "pid": 2140,
+      "name": "com.apple.WebKit.Networking",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.050258636474609375,
+      "create_time": "2025-08-24T09:32:25.129205",
+      "timestamp": "2025-08-24T22:15:17.304910"
+    },
+    {
+      "pid": 2142,
+      "name": "Spotify Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 2.4410247802734375,
+      "create_time": "2025-08-24T09:32:25.601921",
+      "timestamp": "2025-08-24T22:15:17.304980"
+    },
+    {
+      "pid": 2146,
+      "name": "com.apple.WebKit.GPU",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.13103485107421875,
+      "create_time": "2025-08-24T09:32:28.193823",
+      "timestamp": "2025-08-24T22:15:17.305045"
+    },
+    {
+      "pid": 2147,
+      "name": "lockdownmoded",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.04291534423828125,
+      "create_time": "2025-08-24T09:32:28.270452",
+      "timestamp": "2025-08-24T22:15:17.305094"
+    },
+    {
+      "pid": 2148,
+      "name": "recentsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06351470947265625,
+      "create_time": "2025-08-24T09:32:28.315554",
+      "timestamp": "2025-08-24T22:15:17.305143"
+    },
+    {
+      "pid": 2150,
+      "name": "com.apple.audio.SandboxHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014019012451171875,
+      "create_time": "2025-08-24T09:32:28.405863",
+      "timestamp": "2025-08-24T22:15:17.305206"
+    },
+    {
+      "pid": 2151,
+      "name": "com.apple.WebKit.Networking",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.056171417236328125,
+      "create_time": "2025-08-24T09:32:28.449377",
+      "timestamp": "2025-08-24T22:15:17.305268"
+    },
+    {
+      "pid": 2153,
+      "name": "intelligenceplatformd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0659942626953125,
+      "create_time": "2025-08-24T09:32:28.690148",
+      "timestamp": "2025-08-24T22:15:17.305329"
+    },
+    {
+      "pid": 2154,
+      "name": "com.apple.Safari.SafeBrowsing.Service",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.046634674072265625,
+      "create_time": "2025-08-24T09:32:28.833016",
+      "timestamp": "2025-08-24T22:15:17.305389"
+    },
+    {
+      "pid": 2155,
+      "name": "reversetemplated",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.2867698669433594,
+      "create_time": "2025-08-24T09:32:28.871346",
+      "timestamp": "2025-08-24T22:15:17.305452"
+    },
+    {
+      "pid": 2156,
+      "name": "storekitagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11615753173828125,
+      "create_time": "2025-08-24T09:32:29.018960",
+      "timestamp": "2025-08-24T22:15:17.305501"
+    },
+    {
+      "pid": 2158,
+      "name": "textunderstandingd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02994537353515625,
+      "create_time": "2025-08-24T09:32:29.600184",
+      "timestamp": "2025-08-24T22:15:17.305569"
+    },
+    {
+      "pid": 2164,
+      "name": "deleted_helper",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:30.027375",
+      "timestamp": "2025-08-24T22:15:17.305636"
+    },
+    {
+      "pid": 2166,
+      "name": "mapssyncd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06341934204101562,
+      "create_time": "2025-08-24T09:32:30.217273",
+      "timestamp": "2025-08-24T22:15:17.305684"
+    },
+    {
+      "pid": 2167,
+      "name": "akd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:30.254656",
+      "timestamp": "2025-08-24T22:15:17.305736"
+    },
+    {
+      "pid": 2168,
+      "name": "installd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:30.509028",
+      "timestamp": "2025-08-24T22:15:17.305787"
+    },
+    {
+      "pid": 2169,
+      "name": "appstoreagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11119842529296875,
+      "create_time": "2025-08-24T09:32:30.518061",
+      "timestamp": "2025-08-24T22:15:17.305839"
+    },
+    {
+      "pid": 2170,
+      "name": "geodMachServiceBridge",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014972686767578125,
+      "create_time": "2025-08-24T09:32:30.520081",
+      "timestamp": "2025-08-24T22:15:17.305908"
+    },
+    {
+      "pid": 2171,
+      "name": "AssetCache",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:30.521911",
+      "timestamp": "2025-08-24T22:15:17.305962"
+    },
+    {
+      "pid": 2172,
+      "name": "AssetCacheTether",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:30.609196",
+      "timestamp": "2025-08-24T22:15:17.306020"
+    },
+    {
+      "pid": 2182,
+      "name": "installcoordinat",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:30.732423",
+      "timestamp": "2025-08-24T22:15:17.306086"
+    },
+    {
+      "pid": 2183,
+      "name": "com.apple.AppSto",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:30.823313",
+      "timestamp": "2025-08-24T22:15:17.306142"
+    },
+    {
+      "pid": 2189,
+      "name": "StocksKitService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06504058837890625,
+      "create_time": "2025-08-24T09:32:32.640692",
+      "timestamp": "2025-08-24T22:15:17.306202"
+    },
+    {
+      "pid": 2190,
+      "name": "com.apple.audio.ComponentTagHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0125885009765625,
+      "create_time": "2025-08-24T09:32:32.731163",
+      "timestamp": "2025-08-24T22:15:17.306262"
+    },
+    {
+      "pid": 2191,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.14142990112304688,
+      "create_time": "2025-08-24T09:32:34.297139",
+      "timestamp": "2025-08-24T22:15:17.306321"
+    },
+    {
+      "pid": 2194,
+      "name": "XProtectPluginService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02613067626953125,
+      "create_time": "2025-08-24T09:32:34.522601",
+      "timestamp": "2025-08-24T22:15:17.306388"
+    },
+    {
+      "pid": 2196,
+      "name": "wifivelocityd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:34.600639",
+      "timestamp": "2025-08-24T22:15:17.306458"
+    },
+    {
+      "pid": 2198,
+      "name": "csimporter",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.03871917724609375,
+      "create_time": "2025-08-24T09:32:38.296578",
+      "timestamp": "2025-08-24T22:15:17.306507"
+    },
+    {
+      "pid": 2199,
+      "name": "SiriAUSP",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.05035400390625,
+      "create_time": "2025-08-24T09:32:38.474732",
+      "timestamp": "2025-08-24T22:15:17.306555"
+    },
+    {
+      "pid": 2201,
+      "name": "triald_system",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:40.864477",
+      "timestamp": "2025-08-24T22:15:17.306605"
+    },
+    {
+      "pid": 2217,
+      "name": "MauiAUSP",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.05893707275390625,
+      "create_time": "2025-08-24T09:32:42.242611",
+      "timestamp": "2025-08-24T22:15:17.306653"
+    },
+    {
+      "pid": 2218,
+      "name": "AppPredictionIntentsHelperService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10309219360351562,
+      "create_time": "2025-08-24T09:32:42.731220",
+      "timestamp": "2025-08-24T22:15:17.306731"
+    },
+    {
+      "pid": 2219,
+      "name": "WardaSynthesizer_x86_64",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0010251998901367188,
+      "create_time": "2025-08-24T09:32:43.002371",
+      "timestamp": "2025-08-24T22:15:17.306814"
+    },
+    {
+      "pid": 2221,
+      "name": "com.apple.audio.SandboxHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014019012451171875,
+      "create_time": "2025-08-24T09:32:43.061944",
+      "timestamp": "2025-08-24T22:15:17.306888"
+    },
+    {
+      "pid": 2222,
+      "name": "com.apple.audio.SandboxHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014019012451171875,
+      "create_time": "2025-08-24T09:32:43.101731",
+      "timestamp": "2025-08-24T22:15:17.306954"
+    },
+    {
+      "pid": 2224,
+      "name": "AUCrashHandlerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01659393310546875,
+      "create_time": "2025-08-24T09:32:43.379136",
+      "timestamp": "2025-08-24T22:15:17.307024"
+    },
+    {
+      "pid": 2225,
+      "name": "KonaSynthesizer",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.048065185546875,
+      "create_time": "2025-08-24T09:32:43.461415",
+      "timestamp": "2025-08-24T22:15:17.307103"
+    },
+    {
+      "pid": 2226,
+      "name": "extensionkitservice",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.028133392333984375,
+      "create_time": "2025-08-24T09:32:43.991242",
+      "timestamp": "2025-08-24T22:15:17.307173"
+    },
+    {
+      "pid": 2227,
+      "name": "CalendarIntentsExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.055694580078125,
+      "create_time": "2025-08-24T09:32:44.023887",
+      "timestamp": "2025-08-24T22:15:17.307236"
+    },
+    {
+      "pid": 2228,
+      "name": "SafariLinkExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.053501129150390625,
+      "create_time": "2025-08-24T09:32:44.302918",
+      "timestamp": "2025-08-24T22:15:17.307299"
+    },
+    {
+      "pid": 2229,
+      "name": "WardaSynthesizer_arm64",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.043582916259765625,
+      "create_time": "2025-08-24T09:32:44.567809",
+      "timestamp": "2025-08-24T22:15:17.307359"
+    },
+    {
+      "pid": 2230,
+      "name": "MessagesActionExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.103759765625,
+      "create_time": "2025-08-24T09:32:44.581865",
+      "timestamp": "2025-08-24T22:15:17.307419"
+    },
+    {
+      "pid": 2231,
+      "name": "MacinTalkAUSP",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06341934204101562,
+      "create_time": "2025-08-24T09:32:44.900383",
+      "timestamp": "2025-08-24T22:15:17.307469"
+    },
+    {
+      "pid": 2232,
+      "name": "voicebankingd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06427764892578125,
+      "create_time": "2025-08-24T09:32:44.944085",
+      "timestamp": "2025-08-24T22:15:17.307516"
+    },
+    {
+      "pid": 2233,
+      "name": "SoftwareUpdateNotificationManager",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.16603469848632812,
+      "create_time": "2025-08-24T09:32:45.302230",
+      "timestamp": "2025-08-24T22:15:17.307575"
+    },
+    {
+      "pid": 2234,
+      "name": "FindMyMacd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:45.303551",
+      "timestamp": "2025-08-24T22:15:17.307634"
+    },
+    {
+      "pid": 2235,
+      "name": "com.apple.SiriTTSService.TrialProxy",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0244140625,
+      "create_time": "2025-08-24T09:32:46.192467",
+      "timestamp": "2025-08-24T22:15:17.307695"
+    },
+    {
+      "pid": 2236,
+      "name": "com.apple.audio.SandboxHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014019012451171875,
+      "create_time": "2025-08-24T09:32:46.204258",
+      "timestamp": "2025-08-24T22:15:17.307755"
+    },
+    {
+      "pid": 2237,
+      "name": "com.apple.audio.SandboxHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014019012451171875,
+      "create_time": "2025-08-24T09:32:46.207838",
+      "timestamp": "2025-08-24T22:15:17.307816"
+    },
+    {
+      "pid": 2238,
+      "name": "com.apple.audio.SandboxHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014019012451171875,
+      "create_time": "2025-08-24T09:32:46.210826",
+      "timestamp": "2025-08-24T22:15:17.307876"
+    },
+    {
+      "pid": 2239,
+      "name": "com.apple.audio.SandboxHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014019012451171875,
+      "create_time": "2025-08-24T09:32:46.229501",
+      "timestamp": "2025-08-24T22:15:17.307937"
+    },
+    {
+      "pid": 2240,
+      "name": "com.apple.SiriTTSService.TrialProxy",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0244140625,
+      "create_time": "2025-08-24T09:32:46.842650",
+      "timestamp": "2025-08-24T22:15:17.308014"
+    },
+    {
+      "pid": 2241,
+      "name": "CrashReporterSup",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:46.911719",
+      "timestamp": "2025-08-24T22:15:17.308075"
+    },
+    {
+      "pid": 2271,
+      "name": "com.apple.tonelibraryd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01544952392578125,
+      "create_time": "2025-08-24T09:32:57.167109",
+      "timestamp": "2025-08-24T22:15:17.308154"
+    },
+    {
+      "pid": 2272,
+      "name": "com.apple.audio.",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:57.418909",
+      "timestamp": "2025-08-24T22:15:17.308240"
+    },
+    {
+      "pid": 2273,
+      "name": "com.apple.FaceTime.FTConversationService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.045680999755859375,
+      "create_time": "2025-08-24T09:32:57.431439",
+      "timestamp": "2025-08-24T22:15:17.308332"
+    },
+    {
+      "pid": 2275,
+      "name": "audiomxd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:57.553592",
+      "timestamp": "2025-08-24T22:15:17.308401"
+    },
+    {
+      "pid": 2276,
+      "name": "CallHistorySyncHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06465911865234375,
+      "create_time": "2025-08-24T09:32:57.740641",
+      "timestamp": "2025-08-24T22:15:17.308470"
+    },
+    {
+      "pid": 2277,
+      "name": "bluetoothuserd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08077621459960938,
+      "create_time": "2025-08-24T09:32:57.744966",
+      "timestamp": "2025-08-24T22:15:17.308521"
+    },
+    {
+      "pid": 2278,
+      "name": "mediaremoteagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02002716064453125,
+      "create_time": "2025-08-24T09:32:58.016398",
+      "timestamp": "2025-08-24T22:15:17.308585"
+    },
+    {
+      "pid": 2279,
+      "name": "avconferenced",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10318756103515625,
+      "create_time": "2025-08-24T09:32:58.081039",
+      "timestamp": "2025-08-24T22:15:17.308636"
+    },
+    {
+      "pid": 2280,
+      "name": "SidecarRelay",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.046443939208984375,
+      "create_time": "2025-08-24T09:32:58.439349",
+      "timestamp": "2025-08-24T22:15:17.308705"
+    },
+    {
+      "pid": 2281,
+      "name": "UniversalControl",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.14858245849609375,
+      "create_time": "2025-08-24T09:32:58.442843",
+      "timestamp": "2025-08-24T22:15:17.308770"
+    },
+    {
+      "pid": 2282,
+      "name": "BTLEServerAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.025081634521484375,
+      "create_time": "2025-08-24T09:32:58.599148",
+      "timestamp": "2025-08-24T22:15:17.308833"
+    },
+    {
+      "pid": 2284,
+      "name": "searchpartyuseragent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.13971328735351562,
+      "create_time": "2025-08-24T09:32:59.100824",
+      "timestamp": "2025-08-24T22:15:17.308934"
+    },
+    {
+      "pid": 2286,
+      "name": "AssetCacheLocatorService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0518798828125,
+      "create_time": "2025-08-24T09:32:59.823646",
+      "timestamp": "2025-08-24T22:15:17.308999"
+    },
+    {
+      "pid": 2287,
+      "name": "CloudTelemetrySe",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:32:59.987040",
+      "timestamp": "2025-08-24T22:15:17.309063"
+    },
+    {
+      "pid": 2288,
+      "name": "businessservicesd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.055027008056640625,
+      "create_time": "2025-08-24T09:33:00.218910",
+      "timestamp": "2025-08-24T22:15:17.309128"
+    },
+    {
+      "pid": 2290,
+      "name": "com.apple.SiriTTSService.TrialProxy",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02460479736328125,
+      "create_time": "2025-08-24T09:33:00.995021",
+      "timestamp": "2025-08-24T22:15:17.309193"
+    },
+    {
+      "pid": 2291,
+      "name": "MessagesBlastDoorService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.00209808349609375,
+      "create_time": "2025-08-24T09:33:01.272121",
+      "timestamp": "2025-08-24T22:15:17.309256"
+    },
+    {
+      "pid": 2295,
+      "name": "BTLEServer",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:02.009122",
+      "timestamp": "2025-08-24T22:15:17.309314"
+    },
+    {
+      "pid": 2296,
+      "name": "VTEncoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.057315826416015625,
+      "create_time": "2025-08-24T09:33:02.030078",
+      "timestamp": "2025-08-24T22:15:17.309388"
+    },
+    {
+      "pid": 2297,
+      "name": "dataaccessd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.1506805419921875,
+      "create_time": "2025-08-24T09:33:02.208901",
+      "timestamp": "2025-08-24T22:15:17.309511"
+    },
+    {
+      "pid": 2298,
+      "name": "accessoryd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:02.247660",
+      "timestamp": "2025-08-24T22:15:17.309614"
+    },
+    {
+      "pid": 2299,
+      "name": "AssetCacheLocato",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:02.598853",
+      "timestamp": "2025-08-24T22:15:17.309724"
+    },
+    {
+      "pid": 2300,
+      "name": "promotedcontentd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07572174072265625,
+      "create_time": "2025-08-24T09:33:02.697835",
+      "timestamp": "2025-08-24T22:15:17.309818"
+    },
+    {
+      "pid": 2301,
+      "name": "fairplaydeviceid",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:02.835395",
+      "timestamp": "2025-08-24T22:15:17.309888"
+    },
+    {
+      "pid": 2304,
+      "name": "appplaceholdersyncd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.046062469482421875,
+      "create_time": "2025-08-24T09:33:04.021311",
+      "timestamp": "2025-08-24T22:15:17.309961"
+    },
+    {
+      "pid": 2305,
+      "name": "com.apple.geod",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:04.109583",
+      "timestamp": "2025-08-24T22:15:17.310019"
+    },
+    {
+      "pid": 2316,
+      "name": "containermanager",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:04.421638",
+      "timestamp": "2025-08-24T22:15:17.310085"
+    },
+    {
+      "pid": 2317,
+      "name": "com.apple.SiriTTSService.TrialProxy",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02460479736328125,
+      "create_time": "2025-08-24T09:33:04.575088",
+      "timestamp": "2025-08-24T22:15:17.310155"
+    },
+    {
+      "pid": 2329,
+      "name": "VTEncoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06284713745117188,
+      "create_time": "2025-08-24T09:33:05.786653",
+      "timestamp": "2025-08-24T22:15:17.310223"
+    },
+    {
+      "pid": 2332,
+      "name": "VTDecoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02918243408203125,
+      "create_time": "2025-08-24T09:33:06.199063",
+      "timestamp": "2025-08-24T22:15:17.310299"
+    },
+    {
+      "pid": 2334,
+      "name": "com.apple.Stream",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:06.770409",
+      "timestamp": "2025-08-24T22:15:17.310364"
+    },
+    {
+      "pid": 2338,
+      "name": "keychainsharingmessagingd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0362396240234375,
+      "create_time": "2025-08-24T09:33:07.468561",
+      "timestamp": "2025-08-24T22:15:17.310446"
+    },
+    {
+      "pid": 2339,
+      "name": "contactsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.1194000244140625,
+      "create_time": "2025-08-24T09:33:08.335253",
+      "timestamp": "2025-08-24T22:15:17.310519"
+    },
+    {
+      "pid": 2340,
+      "name": "CategoriesService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06961822509765625,
+      "create_time": "2025-08-24T09:33:08.694140",
+      "timestamp": "2025-08-24T22:15:17.310620"
+    },
+    {
+      "pid": 2341,
+      "name": "tipsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10633468627929688,
+      "create_time": "2025-08-24T09:33:08.816265",
+      "timestamp": "2025-08-24T22:15:17.310676"
+    },
+    {
+      "pid": 2349,
+      "name": "Google Chrome Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.199127197265625,
+      "create_time": "2025-08-24T09:33:10.703195",
+      "timestamp": "2025-08-24T22:15:17.310767"
+    },
+    {
+      "pid": 2351,
+      "name": "com.apple.audio.SandboxHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014019012451171875,
+      "create_time": "2025-08-24T09:33:10.923504",
+      "timestamp": "2025-08-24T22:15:17.310844"
+    },
+    {
+      "pid": 2352,
+      "name": "com.apple.StreamingUnzipService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01888275146484375,
+      "create_time": "2025-08-24T09:33:11.183939",
+      "timestamp": "2025-08-24T22:15:17.310917"
+    },
+    {
+      "pid": 2363,
+      "name": "ciphermld",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07886886596679688,
+      "create_time": "2025-08-24T09:33:14.540246",
+      "timestamp": "2025-08-24T22:15:17.310969"
+    },
+    {
+      "pid": 2373,
+      "name": "spotlightknowledged",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09145736694335938,
+      "create_time": "2025-08-24T09:33:15.102772",
+      "timestamp": "2025-08-24T22:15:17.311046"
+    },
+    {
+      "pid": 2382,
+      "name": "com.apple.WebKit.WebContent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.057697296142578125,
+      "create_time": "2025-08-24T09:33:16.435303",
+      "timestamp": "2025-08-24T22:15:17.311120"
+    },
+    {
+      "pid": 2386,
+      "name": "com.apple.mail.SpotlightIndexExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08563995361328125,
+      "create_time": "2025-08-24T09:33:17.702645",
+      "timestamp": "2025-08-24T22:15:17.311195"
+    },
+    {
+      "pid": 2395,
+      "name": "TGOnDeviceInfere",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:19.358586",
+      "timestamp": "2025-08-24T22:15:17.311264"
+    },
+    {
+      "pid": 2396,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:19.389231",
+      "timestamp": "2025-08-24T22:15:17.311320"
+    },
+    {
+      "pid": 2404,
+      "name": "TGOnDeviceInfere",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:23.019172",
+      "timestamp": "2025-08-24T22:15:17.311382"
+    },
+    {
+      "pid": 2408,
+      "name": "hdiejectd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:23.569105",
+      "timestamp": "2025-08-24T22:15:17.311438"
+    },
+    {
+      "pid": 2410,
+      "name": "diskimages-helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09489059448242188,
+      "create_time": "2025-08-24T09:33:23.619895",
+      "timestamp": "2025-08-24T22:15:17.311512"
+    },
+    {
+      "pid": 2453,
+      "name": "diskimages-helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07829666137695312,
+      "create_time": "2025-08-24T09:33:26.714345",
+      "timestamp": "2025-08-24T22:15:17.311584"
+    },
+    {
+      "pid": 2465,
+      "name": "SiriNCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.359344482421875,
+      "create_time": "2025-08-24T09:33:27.367964",
+      "timestamp": "2025-08-24T22:15:17.311645"
+    },
+    {
+      "pid": 2466,
+      "name": "PlugInLibraryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.010204315185546875,
+      "create_time": "2025-08-24T09:33:27.391297",
+      "timestamp": "2025-08-24T22:15:17.311713"
+    },
+    {
+      "pid": 2467,
+      "name": "PlugInLibraryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.010204315185546875,
+      "create_time": "2025-08-24T09:33:27.415525",
+      "timestamp": "2025-08-24T22:15:17.311783"
+    },
+    {
+      "pid": 2468,
+      "name": "Tabby",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.7351875305175781,
+      "create_time": "2025-08-24T09:33:27.471050",
+      "timestamp": "2025-08-24T22:15:17.311849"
+    },
+    {
+      "pid": 2469,
+      "name": "PlugInLibraryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.010204315185546875,
+      "create_time": "2025-08-24T09:33:27.519947",
+      "timestamp": "2025-08-24T22:15:17.311918"
+    },
+    {
+      "pid": 2470,
+      "name": "PlugInLibrarySer",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:27.523755",
+      "timestamp": "2025-08-24T22:15:17.311984"
+    },
+    {
+      "pid": 2471,
+      "name": "XprotectService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.043964385986328125,
+      "create_time": "2025-08-24T09:33:27.533284",
+      "timestamp": "2025-08-24T22:15:17.312053"
+    },
+    {
+      "pid": 2472,
+      "name": "PlugInLibrarySer",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:27.534589",
+      "timestamp": "2025-08-24T22:15:17.312130"
+    },
+    {
+      "pid": 2478,
+      "name": "diskimages-helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10271072387695312,
+      "create_time": "2025-08-24T09:33:27.879526",
+      "timestamp": "2025-08-24T22:15:17.312201"
+    },
+    {
+      "pid": 2489,
+      "name": "Obsidian",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.3407478332519531,
+      "create_time": "2025-08-24T09:33:28.420856",
+      "timestamp": "2025-08-24T22:15:17.312267"
+    },
+    {
+      "pid": 2490,
+      "name": "PlugInLibraryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.010204315185546875,
+      "create_time": "2025-08-24T09:33:28.634648",
+      "timestamp": "2025-08-24T22:15:17.312335"
+    },
+    {
+      "pid": 2501,
+      "name": "PlugInLibraryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.010204315185546875,
+      "create_time": "2025-08-24T09:33:29.608803",
+      "timestamp": "2025-08-24T22:15:17.312405"
+    },
+    {
+      "pid": 2517,
+      "name": "JANDI",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.5529403686523438,
+      "create_time": "2025-08-24T09:33:30.284014",
+      "timestamp": "2025-08-24T22:15:17.312466"
+    },
+    {
+      "pid": 2547,
+      "name": "chrome_crashpad_handler",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01983642578125,
+      "create_time": "2025-08-24T09:33:37.978446",
+      "timestamp": "2025-08-24T22:15:17.312539"
+    },
+    {
+      "pid": 2548,
+      "name": "Tabby Helper (GPU)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.35381317138671875,
+      "create_time": "2025-08-24T09:33:38.243588",
+      "timestamp": "2025-08-24T22:15:17.312613"
+    },
+    {
+      "pid": 2549,
+      "name": "Tabby Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.16107559204101562,
+      "create_time": "2025-08-24T09:33:38.253647",
+      "timestamp": "2025-08-24T22:15:17.312669"
+    },
+    {
+      "pid": 2552,
+      "name": "PlugInLibrarySer",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:33:38.559319",
+      "timestamp": "2025-08-24T22:15:17.312736"
+    },
+    {
+      "pid": 2553,
+      "name": "com.apple.SiriTTSService.TrialProxy",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02460479736328125,
+      "create_time": "2025-08-24T09:33:39.668925",
+      "timestamp": "2025-08-24T22:15:17.312810"
+    },
+    {
+      "pid": 2559,
+      "name": "CursorUIViewService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.16956329345703125,
+      "create_time": "2025-08-24T09:33:40.512137",
+      "timestamp": "2025-08-24T22:15:17.312876"
+    },
+    {
+      "pid": 2560,
+      "name": "ssh-agent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.006771087646484375,
+      "create_time": "2025-08-24T09:33:40.705769",
+      "timestamp": "2025-08-24T22:15:17.312931"
+    },
+    {
+      "pid": 2561,
+      "name": "Obsidian Helper (GPU)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10499954223632812,
+      "create_time": "2025-08-24T09:33:40.996151",
+      "timestamp": "2025-08-24T22:15:17.313006"
+    },
+    {
+      "pid": 2562,
+      "name": "Obsidian Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09527206420898438,
+      "create_time": "2025-08-24T09:33:41.005776",
+      "timestamp": "2025-08-24T22:15:17.313079"
+    },
+    {
+      "pid": 2569,
+      "name": "VTEncoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0629425048828125,
+      "create_time": "2025-08-24T09:33:42.298092",
+      "timestamp": "2025-08-24T22:15:17.313153"
+    },
+    {
+      "pid": 2606,
+      "name": "Discord",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.7192611694335938,
+      "create_time": "2025-08-24T09:33:48.383866",
+      "timestamp": "2025-08-24T22:15:17.313217"
+    },
+    {
+      "pid": 2615,
+      "name": "chrome_crashpad_handler",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.019550323486328125,
+      "create_time": "2025-08-24T09:33:49.015997",
+      "timestamp": "2025-08-24T22:15:17.313290"
+    },
+    {
+      "pid": 2616,
+      "name": "Discord Helper (GPU)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.4689216613769531,
+      "create_time": "2025-08-24T09:33:49.064513",
+      "timestamp": "2025-08-24T22:15:17.313366"
+    },
+    {
+      "pid": 2618,
+      "name": "Discord Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.2651214599609375,
+      "create_time": "2025-08-24T09:33:49.071574",
+      "timestamp": "2025-08-24T22:15:17.313422"
+    },
+    {
+      "pid": 2625,
+      "name": "VTEncoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0629425048828125,
+      "create_time": "2025-08-24T09:33:49.433860",
+      "timestamp": "2025-08-24T22:15:17.313493"
+    },
+    {
+      "pid": 2628,
+      "name": "JANDI Helper (GPU)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.39157867431640625,
+      "create_time": "2025-08-24T09:33:49.673405",
+      "timestamp": "2025-08-24T22:15:17.313567"
+    },
+    {
+      "pid": 2630,
+      "name": "JANDI Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.13704299926757812,
+      "create_time": "2025-08-24T09:33:49.814491",
+      "timestamp": "2025-08-24T22:15:17.313625"
+    },
+    {
+      "pid": 2631,
+      "name": "VTDecoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02593994140625,
+      "create_time": "2025-08-24T09:33:49.855182",
+      "timestamp": "2025-08-24T22:15:17.313697"
+    },
+    {
+      "pid": 2632,
+      "name": "JANDI Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.15888214111328125,
+      "create_time": "2025-08-24T09:33:49.857110",
+      "timestamp": "2025-08-24T22:15:17.313772"
+    },
+    {
+      "pid": 2633,
+      "name": "JANDI Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.17642974853515625,
+      "create_time": "2025-08-24T09:33:49.867323",
+      "timestamp": "2025-08-24T22:15:17.313849"
+    },
+    {
+      "pid": 2634,
+      "name": "JANDI Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.5576362609863281,
+      "create_time": "2025-08-24T09:33:49.875976",
+      "timestamp": "2025-08-24T22:15:17.313922"
+    },
+    {
+      "pid": 2635,
+      "name": "JANDI Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.19140243530273438,
+      "create_time": "2025-08-24T09:33:49.887456",
+      "timestamp": "2025-08-24T22:15:17.314000"
+    },
+    {
+      "pid": 2641,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02193450927734375,
+      "create_time": "2025-08-24T09:33:50.536928",
+      "timestamp": "2025-08-24T22:15:17.314074"
+    },
+    {
+      "pid": 2645,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.019168853759765625,
+      "create_time": "2025-08-24T09:33:50.825887",
+      "timestamp": "2025-08-24T22:15:17.314144"
+    },
+    {
+      "pid": 2675,
+      "name": "Discord Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 2.5656700134277344,
+      "create_time": "2025-08-24T09:33:56.302809",
+      "timestamp": "2025-08-24T22:15:17.314236"
+    },
+    {
+      "pid": 2700,
+      "name": "universalAccessAuthWarn",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.18749237060546875,
+      "create_time": "2025-08-24T09:33:59.787505",
+      "timestamp": "2025-08-24T22:15:17.314307"
+    },
+    {
+      "pid": 2701,
+      "name": "Discord Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.17681121826171875,
+      "create_time": "2025-08-24T09:33:59.914994",
+      "timestamp": "2025-08-24T22:15:17.314363"
+    },
+    {
+      "pid": 2702,
+      "name": "Discord Helper (Plugin)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.21953582763671875,
+      "create_time": "2025-08-24T09:33:59.915688",
+      "timestamp": "2025-08-24T22:15:17.314440"
+    },
+    {
+      "pid": 2703,
+      "name": "remotemanagement",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:34:00.217454",
+      "timestamp": "2025-08-24T22:15:17.314505"
+    },
+    {
+      "pid": 2704,
+      "name": "SecuritySubscrib",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:34:00.414524",
+      "timestamp": "2025-08-24T22:15:17.314568"
+    },
+    {
+      "pid": 2705,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:34:00.454007",
+      "timestamp": "2025-08-24T22:15:17.314625"
+    },
+    {
+      "pid": 2706,
+      "name": "InteractiveLegac",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:34:00.639786",
+      "timestamp": "2025-08-24T22:15:17.314687"
+    },
+    {
+      "pid": 2707,
+      "name": "ScreenSharingSub",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:34:00.711189",
+      "timestamp": "2025-08-24T22:15:17.314748"
+    },
+    {
+      "pid": 2710,
+      "name": "LegacyProfilesSu",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:34:01.053814",
+      "timestamp": "2025-08-24T22:15:17.314808"
+    },
+    {
+      "pid": 2711,
+      "name": "PasscodeSettings",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:34:01.140186",
+      "timestamp": "2025-08-24T22:15:17.314869"
+    },
+    {
+      "pid": 2712,
+      "name": "DiskManagementSu",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:34:01.217339",
+      "timestamp": "2025-08-24T22:15:17.314929"
+    },
+    {
+      "pid": 2713,
+      "name": "com.apple.SiriTTSService.TrialProxy",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02460479736328125,
+      "create_time": "2025-08-24T09:34:01.239090",
+      "timestamp": "2025-08-24T22:15:17.314994"
+    },
+    {
+      "pid": 2714,
+      "name": "SoftwareUpdateSu",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:34:01.285342",
+      "timestamp": "2025-08-24T22:15:17.315055"
+    },
+    {
+      "pid": 2715,
+      "name": "ManagementTestSu",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:34:01.393651",
+      "timestamp": "2025-08-24T22:15:17.315115"
+    },
+    {
+      "pid": 2717,
+      "name": "ManagedConfigura",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:34:01.644429",
+      "timestamp": "2025-08-24T22:15:17.315175"
+    },
+    {
+      "pid": 2718,
+      "name": "com.apple.audio.SandboxHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014019012451171875,
+      "create_time": "2025-08-24T09:34:01.749895",
+      "timestamp": "2025-08-24T22:15:17.315247"
+    },
+    {
+      "pid": 2736,
+      "name": "fudHelperAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0091552734375,
+      "create_time": "2025-08-24T09:34:05.704634",
+      "timestamp": "2025-08-24T22:15:17.315300"
+    },
+    {
+      "pid": 2753,
+      "name": "KIM_Extension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10995864868164062,
+      "create_time": "2025-08-24T09:35:35.390855",
+      "timestamp": "2025-08-24T22:15:17.315362"
+    },
+    {
+      "pid": 2754,
+      "name": "AppleSpell",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.3314018249511719,
+      "create_time": "2025-08-24T09:35:35.655527",
+      "timestamp": "2025-08-24T22:15:17.315418"
+    },
+    {
+      "pid": 2755,
+      "name": "keyboardservicesd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.052356719970703125,
+      "create_time": "2025-08-24T09:35:35.764979",
+      "timestamp": "2025-08-24T22:15:17.315487"
+    },
+    {
+      "pid": 2762,
+      "name": "naturallanguaged",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06084442138671875,
+      "create_time": "2025-08-24T09:35:44.708720",
+      "timestamp": "2025-08-24T22:15:17.315552"
+    },
+    {
+      "pid": 2765,
+      "name": "OSDUIHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.122833251953125,
+      "create_time": "2025-08-24T09:36:06.179535",
+      "timestamp": "2025-08-24T22:15:17.315609"
+    },
+    {
+      "pid": 2772,
+      "name": "geoanalyticsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07047653198242188,
+      "create_time": "2025-08-24T09:36:46.092532",
+      "timestamp": "2025-08-24T22:15:17.315660"
+    },
+    {
+      "pid": 2773,
+      "name": "locationaccessstored",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0400543212890625,
+      "create_time": "2025-08-24T09:36:46.094469",
+      "timestamp": "2025-08-24T22:15:17.315729"
+    },
+    {
+      "pid": 2774,
+      "name": "adprivacyd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08249282836914062,
+      "create_time": "2025-08-24T09:36:46.196035",
+      "timestamp": "2025-08-24T22:15:17.315796"
+    },
+    {
+      "pid": 2775,
+      "name": "feedbackd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.046443939208984375,
+      "create_time": "2025-08-24T09:36:46.198703",
+      "timestamp": "2025-08-24T22:15:17.315847"
+    },
+    {
+      "pid": 2777,
+      "name": "AquaAppearanceHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0980377197265625,
+      "create_time": "2025-08-24T09:37:38.610674",
+      "timestamp": "2025-08-24T22:15:17.315912"
+    },
+    {
+      "pid": 2778,
+      "name": "assistant_service",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.14715194702148438,
+      "create_time": "2025-08-24T09:37:46.412755",
+      "timestamp": "2025-08-24T22:15:17.316018"
+    },
+    {
+      "pid": 2786,
+      "name": "diagnosticextensionsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.041961669921875,
+      "create_time": "2025-08-24T09:41:30.391648",
+      "timestamp": "2025-08-24T22:15:17.316084"
+    },
+    {
+      "pid": 2789,
+      "name": "inputanalyticsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0576019287109375,
+      "create_time": "2025-08-24T09:41:40.804868",
+      "timestamp": "2025-08-24T22:15:17.316149"
+    },
+    {
+      "pid": 2791,
+      "name": "AuthenticationServicesAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10156631469726562,
+      "create_time": "2025-08-24T09:41:41.220084",
+      "timestamp": "2025-08-24T22:15:17.316215"
+    },
+    {
+      "pid": 2793,
+      "name": "SAExtensionOrchestrator",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10232925415039062,
+      "create_time": "2025-08-24T09:42:17.905752",
+      "timestamp": "2025-08-24T22:15:17.316280"
+    },
+    {
+      "pid": 2794,
+      "name": "extensionkitservice",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.028133392333984375,
+      "create_time": "2025-08-24T09:42:18.292637",
+      "timestamp": "2025-08-24T22:15:17.316343"
+    },
+    {
+      "pid": 2795,
+      "name": "IFTelemetrySELFIngestor",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.056743621826171875,
+      "create_time": "2025-08-24T09:42:18.352766",
+      "timestamp": "2025-08-24T22:15:17.316408"
+    },
+    {
+      "pid": 2796,
+      "name": "IFTranscriptSELFIngestor",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07162094116210938,
+      "create_time": "2025-08-24T09:42:18.536555",
+      "timestamp": "2025-08-24T22:15:17.316473"
+    },
+    {
+      "pid": 2797,
+      "name": "BiomeSELFIngestor",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06103515625,
+      "create_time": "2025-08-24T09:42:18.705658",
+      "timestamp": "2025-08-24T22:15:17.316536"
+    },
+    {
+      "pid": 2798,
+      "name": "GMSSELFIngestor",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06456375122070312,
+      "create_time": "2025-08-24T09:42:18.898524",
+      "timestamp": "2025-08-24T22:15:17.316600"
+    },
+    {
+      "pid": 2804,
+      "name": "VTDecoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.031185150146484375,
+      "create_time": "2025-08-24T09:44:52.495451",
+      "timestamp": "2025-08-24T22:15:17.316665"
+    },
+    {
+      "pid": 2855,
+      "name": "weatherd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.062084197998046875,
+      "create_time": "2025-08-24T09:52:19.261779",
+      "timestamp": "2025-08-24T22:15:17.316715"
+    },
+    {
+      "pid": 2879,
+      "name": "MTLCompilerServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:58:31.141152",
+      "timestamp": "2025-08-24T22:15:17.316784"
+    },
+    {
+      "pid": 2880,
+      "name": "MTLCompilerServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T09:58:31.141897",
+      "timestamp": "2025-08-24T22:15:17.316844"
+    },
+    {
+      "pid": 2883,
+      "name": "coreautha",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11243820190429688,
+      "create_time": "2025-08-24T09:58:31.304087",
+      "timestamp": "2025-08-24T22:15:17.316895"
+    },
+    {
+      "pid": 2958,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.020122528076171875,
+      "create_time": "2025-08-24T10:18:53.504128",
+      "timestamp": "2025-08-24T22:15:17.316960"
+    },
+    {
+      "pid": 2963,
+      "name": "com.apple.SiriTTSService.TrialProxy",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.040435791015625,
+      "create_time": "2025-08-24T10:19:23.802970",
+      "timestamp": "2025-08-24T22:15:17.317024"
+    },
+    {
+      "pid": 3004,
+      "name": "peopled",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08974075317382812,
+      "create_time": "2025-08-24T10:34:08.788126",
+      "timestamp": "2025-08-24T22:15:17.317079"
+    },
+    {
+      "pid": 3005,
+      "name": "proactived",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11157989501953125,
+      "create_time": "2025-08-24T10:34:08.788707",
+      "timestamp": "2025-08-24T22:15:17.317128"
+    },
+    {
+      "pid": 3200,
+      "name": "XProtect",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T12:55:18.188213",
+      "timestamp": "2025-08-24T22:15:17.317182"
+    },
+    {
+      "pid": 3202,
+      "name": "XProtect",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01430511474609375,
+      "create_time": "2025-08-24T12:55:34.672699",
+      "timestamp": "2025-08-24T22:15:17.317232"
+    },
+    {
+      "pid": 3212,
+      "name": "ospredictiond",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T13:04:53.102493",
+      "timestamp": "2025-08-24T22:15:17.317285"
+    },
+    {
+      "pid": 3260,
+      "name": "Claude Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 4.965400695800781,
+      "create_time": "2025-08-24T13:40:59.598620",
+      "timestamp": "2025-08-24T22:15:17.317360"
+    },
+    {
+      "pid": 3273,
+      "name": "Claude Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.4207611083984375,
+      "create_time": "2025-08-24T13:41:01.848264",
+      "timestamp": "2025-08-24T22:15:17.317431"
+    },
+    {
+      "pid": 3293,
+      "name": "DockHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.182342529296875,
+      "create_time": "2025-08-24T13:41:08.663874",
+      "timestamp": "2025-08-24T22:15:17.317483"
+    },
+    {
+      "pid": 3312,
+      "name": "Google Chrome Helper (Plugin)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.22115707397460938,
+      "create_time": "2025-08-24T13:41:40.278783",
+      "timestamp": "2025-08-24T22:15:17.317555"
+    },
+    {
+      "pid": 3467,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02079010009765625,
+      "create_time": "2025-08-24T14:16:05.892718",
+      "timestamp": "2025-08-24T22:15:17.317621"
+    },
+    {
+      "pid": 3468,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.020122528076171875,
+      "create_time": "2025-08-24T14:16:06.001390",
+      "timestamp": "2025-08-24T22:15:17.317685"
+    },
+    {
+      "pid": 3528,
+      "name": "WiFiCloudAssetsX",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T14:22:22.921159",
+      "timestamp": "2025-08-24T22:15:17.317747"
+    },
+    {
+      "pid": 3529,
+      "name": "com.apple.Ambien",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T14:22:23.228482",
+      "timestamp": "2025-08-24T22:15:17.317808"
+    },
+    {
+      "pid": 3530,
+      "name": "VTEncoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06971359252929688,
+      "create_time": "2025-08-24T14:22:23.332295",
+      "timestamp": "2025-08-24T22:15:17.317874"
+    },
+    {
+      "pid": 3531,
+      "name": "com.apple.ColorS",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T14:22:23.346780",
+      "timestamp": "2025-08-24T22:15:17.317935"
+    },
+    {
+      "pid": 3692,
+      "name": "PlugInLibraryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01049041748046875,
+      "create_time": "2025-08-24T14:52:08.277221",
+      "timestamp": "2025-08-24T22:15:17.318006"
+    },
+    {
+      "pid": 3724,
+      "name": "SpeechSynthesisServerXPC",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.013446807861328125,
+      "create_time": "2025-08-24T14:56:39.685114",
+      "timestamp": "2025-08-24T22:15:17.318073"
+    },
+    {
+      "pid": 3725,
+      "name": "AccessibilityVisualsAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.24166107177734375,
+      "create_time": "2025-08-24T14:56:39.839167",
+      "timestamp": "2025-08-24T22:15:17.318137"
+    },
+    {
+      "pid": 3726,
+      "name": "com.apple.SiriTTSService.TrialProxy",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02460479736328125,
+      "create_time": "2025-08-24T14:56:39.902691",
+      "timestamp": "2025-08-24T22:15:17.318202"
+    },
+    {
+      "pid": 3728,
+      "name": "WritingToolsViewService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.42572021484375,
+      "create_time": "2025-08-24T14:56:45.814240",
+      "timestamp": "2025-08-24T22:15:17.318267"
+    },
+    {
+      "pid": 3729,
+      "name": "MTLCompilerServi",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T14:56:54.536316",
+      "timestamp": "2025-08-24T22:15:17.318328"
+    },
+    {
+      "pid": 3730,
+      "name": "PrivateMLClientI",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T14:56:54.731402",
+      "timestamp": "2025-08-24T22:15:17.318390"
+    },
+    {
+      "pid": 3731,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.020122528076171875,
+      "create_time": "2025-08-24T14:56:55.986079",
+      "timestamp": "2025-08-24T22:15:17.318455"
+    },
+    {
+      "pid": 3732,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.020122528076171875,
+      "create_time": "2025-08-24T14:56:55.987586",
+      "timestamp": "2025-08-24T22:15:17.318523"
+    },
+    {
+      "pid": 3733,
+      "name": "privatecloudcomputed",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08449554443359375,
+      "create_time": "2025-08-24T14:56:56.590051",
+      "timestamp": "2025-08-24T22:15:17.318588"
+    },
+    {
+      "pid": 3734,
+      "name": "CloudTelemetryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07524490356445312,
+      "create_time": "2025-08-24T14:56:56.810085",
+      "timestamp": "2025-08-24T22:15:17.318653"
+    },
+    {
+      "pid": 3735,
+      "name": "BlackPowderInfer",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T14:57:02.126700",
+      "timestamp": "2025-08-24T22:15:17.318715"
+    },
+    {
+      "pid": 3860,
+      "name": "LinkedNotesUIService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.13370513916015625,
+      "create_time": "2025-08-24T15:28:23.379204",
+      "timestamp": "2025-08-24T22:15:17.318781"
+    },
+    {
+      "pid": 4215,
+      "name": "managedcorespotlightd",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.1332511901855469,
+      "create_time": "2025-08-24T15:33:17.266284",
+      "timestamp": "2025-08-24T22:15:17.318847"
+    },
+    {
+      "pid": 4216,
+      "name": "extensionkitservice",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.040531158447265625,
+      "create_time": "2025-08-24T15:33:17.467732",
+      "timestamp": "2025-08-24T22:15:17.318912"
+    },
+    {
+      "pid": 4224,
+      "name": "PackageThumbnailExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.046062469482421875,
+      "create_time": "2025-08-24T15:33:17.499150",
+      "timestamp": "2025-08-24T22:15:17.318977"
+    },
+    {
+      "pid": 4231,
+      "name": "TextThumbnailExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.11091232299804688,
+      "create_time": "2025-08-24T15:33:18.322383",
+      "timestamp": "2025-08-24T22:15:17.319042"
+    },
+    {
+      "pid": 4232,
+      "name": "ContactThumbnailExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.035381317138671875,
+      "create_time": "2025-08-24T15:33:18.937733",
+      "timestamp": "2025-08-24T22:15:17.319112"
+    },
+    {
+      "pid": 4234,
+      "name": "ImageThumbnailExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.04825592041015625,
+      "create_time": "2025-08-24T15:33:28.379662",
+      "timestamp": "2025-08-24T22:15:17.319180"
+    },
+    {
+      "pid": 4235,
+      "name": "VTDecoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02593994140625,
+      "create_time": "2025-08-24T15:33:28.487502",
+      "timestamp": "2025-08-24T22:15:17.319247"
+    },
+    {
+      "pid": 4238,
+      "name": "CGPDFService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.028324127197265625,
+      "create_time": "2025-08-24T15:34:09.536566",
+      "timestamp": "2025-08-24T22:15:17.319299"
+    },
+    {
+      "pid": 4246,
+      "name": "mdwrite",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01373291015625,
+      "create_time": "2025-08-24T15:34:23.227956",
+      "timestamp": "2025-08-24T22:15:17.319350"
+    },
+    {
+      "pid": 4249,
+      "name": "diskimagesiod",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T15:34:24.300823",
+      "timestamp": "2025-08-24T22:15:17.319404"
+    },
+    {
+      "pid": 4262,
+      "name": "Notion",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.8081436157226562,
+      "create_time": "2025-08-24T15:34:26.112982",
+      "timestamp": "2025-08-24T22:15:17.319467"
+    },
+    {
+      "pid": 4264,
+      "name": "Notion Helper (GPU)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.2803802490234375,
+      "create_time": "2025-08-24T15:34:32.714957",
+      "timestamp": "2025-08-24T22:15:17.319542"
+    },
+    {
+      "pid": 4265,
+      "name": "Notion Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.2635955810546875,
+      "create_time": "2025-08-24T15:34:32.720925",
+      "timestamp": "2025-08-24T22:15:17.319602"
+    },
+    {
+      "pid": 4266,
+      "name": "Notion Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.30727386474609375,
+      "create_time": "2025-08-24T15:34:32.883598",
+      "timestamp": "2025-08-24T22:15:17.319657"
+    },
+    {
+      "pid": 4267,
+      "name": "Notion Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.33473968505859375,
+      "create_time": "2025-08-24T15:34:32.990503",
+      "timestamp": "2025-08-24T22:15:17.319733"
+    },
+    {
+      "pid": 4268,
+      "name": "Notion Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.1567115783691406,
+      "create_time": "2025-08-24T15:34:33.003323",
+      "timestamp": "2025-08-24T22:15:17.319815"
+    },
+    {
+      "pid": 4269,
+      "name": "Notion Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.2395858764648438,
+      "create_time": "2025-08-24T15:34:33.187446",
+      "timestamp": "2025-08-24T22:15:17.319902"
+    },
+    {
+      "pid": 4270,
+      "name": "Notion Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.29087066650390625,
+      "create_time": "2025-08-24T15:34:33.205924",
+      "timestamp": "2025-08-24T22:15:17.319983"
+    },
+    {
+      "pid": 4271,
+      "name": "Notion Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.4910697937011719,
+      "create_time": "2025-08-24T15:34:33.208775",
+      "timestamp": "2025-08-24T22:15:17.320071"
+    },
+    {
+      "pid": 4281,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09212493896484375,
+      "create_time": "2025-08-24T15:34:33.819201",
+      "timestamp": "2025-08-24T22:15:17.320136"
+    },
+    {
+      "pid": 4282,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.020122528076171875,
+      "create_time": "2025-08-24T15:34:33.824616",
+      "timestamp": "2025-08-24T22:15:17.320208"
+    },
+    {
+      "pid": 4283,
+      "name": "Notion Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.5815505981445312,
+      "create_time": "2025-08-24T15:34:42.748571",
+      "timestamp": "2025-08-24T22:15:17.320287"
+    },
+    {
+      "pid": 4296,
+      "name": "Notes",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.4050254821777344,
+      "create_time": "2025-08-24T15:36:19.834120",
+      "timestamp": "2025-08-24T22:15:17.320339"
+    },
+    {
+      "pid": 4297,
+      "name": "localspeechrecognition",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.040340423583984375,
+      "create_time": "2025-08-24T15:36:19.933865",
+      "timestamp": "2025-08-24T22:15:17.320404"
+    },
+    {
+      "pid": 4301,
+      "name": "com.apple.LinkPresentation.LinkSnapshotGeneratorService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.12111663818359375,
+      "create_time": "2025-08-24T15:36:23.605234",
+      "timestamp": "2025-08-24T22:15:17.320466"
+    },
+    {
+      "pid": 4355,
+      "name": "Claude Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.3251075744628906,
+      "create_time": "2025-08-24T15:51:26.194657",
+      "timestamp": "2025-08-24T22:15:17.320537"
+    },
+    {
+      "pid": 4408,
+      "name": "Claude Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.13675689697265625,
+      "create_time": "2025-08-24T15:57:05.212768",
+      "timestamp": "2025-08-24T22:15:17.320595"
+    },
+    {
+      "pid": 4409,
+      "name": "VTEncoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0640869140625,
+      "create_time": "2025-08-24T15:57:05.231186",
+      "timestamp": "2025-08-24T22:15:17.320664"
+    },
+    {
+      "pid": 4410,
+      "name": "com.apple.audio.SandboxHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014019012451171875,
+      "create_time": "2025-08-24T15:57:05.357797",
+      "timestamp": "2025-08-24T22:15:17.320728"
+    },
+    {
+      "pid": 4621,
+      "name": "remindd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09613037109375,
+      "create_time": "2025-08-24T17:07:53.729528",
+      "timestamp": "2025-08-24T22:15:17.320784"
+    },
+    {
+      "pid": 4649,
+      "name": "CoreSpeechXPC",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T17:08:58.971881",
+      "timestamp": "2025-08-24T22:15:17.320838"
+    },
+    {
+      "pid": 4653,
+      "name": "UserNotificationCenter",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.24652481079101562,
+      "create_time": "2025-08-24T17:09:15.662538",
+      "timestamp": "2025-08-24T22:15:17.320942"
+    },
+    {
+      "pid": 4654,
+      "name": "SidecarDisplayAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.04940032958984375,
+      "create_time": "2025-08-24T17:09:20.075885",
+      "timestamp": "2025-08-24T22:15:17.321014"
+    },
+    {
+      "pid": 4769,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0209808349609375,
+      "create_time": "2025-08-24T17:26:03.347157",
+      "timestamp": "2025-08-24T22:15:17.321090"
+    },
+    {
+      "pid": 4866,
+      "name": "netbiosd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T17:52:39.341739",
+      "timestamp": "2025-08-24T22:15:17.321144"
+    },
+    {
+      "pid": 4876,
+      "name": "node",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.054073333740234375,
+      "create_time": "2025-08-24T17:52:40.675410",
+      "timestamp": "2025-08-24T22:15:17.321199"
+    },
+    {
+      "pid": 4877,
+      "name": "Claude Helper (Plugin)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.3138542175292969,
+      "create_time": "2025-08-24T17:52:40.680965",
+      "timestamp": "2025-08-24T22:15:17.321272"
+    },
+    {
+      "pid": 4892,
+      "name": "node",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10051727294921875,
+      "create_time": "2025-08-24T17:52:41.694119",
+      "timestamp": "2025-08-24T22:15:17.321330"
+    },
+    {
+      "pid": 4894,
+      "name": "Claude Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.3489494323730469,
+      "create_time": "2025-08-24T17:52:42.740118",
+      "timestamp": "2025-08-24T22:15:17.321399"
+    },
+    {
+      "pid": 4927,
+      "name": "EscrowSecurityAlert",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.052356719970703125,
+      "create_time": "2025-08-24T19:38:08.053748",
+      "timestamp": "2025-08-24T22:15:17.321462"
+    },
+    {
+      "pid": 4936,
+      "name": "com.apple.geod",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:44:08.016060",
+      "timestamp": "2025-08-24T22:15:17.321525"
+    },
+    {
+      "pid": 4937,
+      "name": "secinitd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:44:08.057804",
+      "timestamp": "2025-08-24T22:15:17.321582"
+    },
+    {
+      "pid": 4938,
+      "name": "PowerChime",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.118255615234375,
+      "create_time": "2025-08-24T19:44:08.117921",
+      "timestamp": "2025-08-24T22:15:17.321644"
+    },
+    {
+      "pid": 4939,
+      "name": "cfprefsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:44:08.294193",
+      "timestamp": "2025-08-24T22:15:17.321698"
+    },
+    {
+      "pid": 4940,
+      "name": "trustd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:44:08.364881",
+      "timestamp": "2025-08-24T22:15:17.321752"
+    },
+    {
+      "pid": 4941,
+      "name": "containermanager",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:44:08.666073",
+      "timestamp": "2025-08-24T22:15:17.321812"
+    },
+    {
+      "pid": 4950,
+      "name": "devicecheckd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.041484832763671875,
+      "create_time": "2025-08-24T19:44:27.067134",
+      "timestamp": "2025-08-24T22:15:17.321867"
+    },
+    {
+      "pid": 4951,
+      "name": "mlhostd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.061798095703125,
+      "create_time": "2025-08-24T19:44:27.068773",
+      "timestamp": "2025-08-24T22:15:17.321923"
+    },
+    {
+      "pid": 4952,
+      "name": "extensionkitservice",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.028514862060546875,
+      "create_time": "2025-08-24T19:44:27.275124",
+      "timestamp": "2025-08-24T22:15:17.322002"
+    },
+    {
+      "pid": 4966,
+      "name": "avatarsd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10995864868164062,
+      "create_time": "2025-08-24T19:44:28.115216",
+      "timestamp": "2025-08-24T22:15:17.322055"
+    },
+    {
+      "pid": 4967,
+      "name": "PasswordBreachAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.04405975341796875,
+      "create_time": "2025-08-24T19:44:28.117358",
+      "timestamp": "2025-08-24T22:15:17.322143"
+    },
+    {
+      "pid": 4982,
+      "name": "SafariBookmarksSyncAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.08478164672851562,
+      "create_time": "2025-08-24T19:44:32.200557",
+      "timestamp": "2025-08-24T22:15:17.322209"
+    },
+    {
+      "pid": 4985,
+      "name": "ASPCarryLog",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:44:32.205140",
+      "timestamp": "2025-08-24T22:15:17.322264"
+    },
+    {
+      "pid": 4986,
+      "name": "PerfPowerTelemet",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:44:32.789073",
+      "timestamp": "2025-08-24T22:15:17.322332"
+    },
+    {
+      "pid": 4991,
+      "name": "mmaintenanced",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:44:40.550698",
+      "timestamp": "2025-08-24T22:15:17.322428"
+    },
+    {
+      "pid": 4992,
+      "name": "betaenrollmentagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.028324127197265625,
+      "create_time": "2025-08-24T19:44:40.552102",
+      "timestamp": "2025-08-24T22:15:17.322498"
+    },
+    {
+      "pid": 4993,
+      "name": "betaenrollmentd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:44:40.611636",
+      "timestamp": "2025-08-24T22:15:17.322563"
+    },
+    {
+      "pid": 4996,
+      "name": "XProtectUpdateSe",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:44:42.341446",
+      "timestamp": "2025-08-24T22:15:17.322626"
+    },
+    {
+      "pid": 5004,
+      "name": "powerdatad",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:44:45.349821",
+      "timestamp": "2025-08-24T22:15:17.322681"
+    },
+    {
+      "pid": 5005,
+      "name": "tzd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:44:45.350377",
+      "timestamp": "2025-08-24T22:15:17.322736"
+    },
+    {
+      "pid": 5007,
+      "name": "analyticsagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.057220458984375,
+      "create_time": "2025-08-24T19:44:45.708008",
+      "timestamp": "2025-08-24T22:15:17.322786"
+    },
+    {
+      "pid": 5009,
+      "name": "AMPLibraryAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10957717895507812,
+      "create_time": "2025-08-24T19:44:46.210599",
+      "timestamp": "2025-08-24T22:15:17.322851"
+    },
+    {
+      "pid": 5011,
+      "name": "storeaccountd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.048542022705078125,
+      "create_time": "2025-08-24T19:44:46.593479",
+      "timestamp": "2025-08-24T22:15:17.322902"
+    },
+    {
+      "pid": 5013,
+      "name": "OfficeThumbnailExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.039768218994140625,
+      "create_time": "2025-08-24T19:44:48.408913",
+      "timestamp": "2025-08-24T22:15:17.322967"
+    },
+    {
+      "pid": 5014,
+      "name": "WebThumbnailExtension",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.1781463623046875,
+      "create_time": "2025-08-24T19:44:48.530277",
+      "timestamp": "2025-08-24T22:15:17.323034"
+    },
+    {
+      "pid": 5015,
+      "name": "com.apple.WebKit.GPU",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07562637329101562,
+      "create_time": "2025-08-24T19:44:48.682487",
+      "timestamp": "2025-08-24T22:15:17.323105"
+    },
+    {
+      "pid": 5017,
+      "name": "com.apple.audio.SandboxHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014019012451171875,
+      "create_time": "2025-08-24T19:44:48.719699",
+      "timestamp": "2025-08-24T22:15:17.323168"
+    },
+    {
+      "pid": 5022,
+      "name": "CloudTelemetryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.031375885009765625,
+      "create_time": "2025-08-24T19:44:51.707521",
+      "timestamp": "2025-08-24T22:15:17.323234"
+    },
+    {
+      "pid": 5033,
+      "name": "backgroundassets.user",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.034809112548828125,
+      "create_time": "2025-08-24T19:44:56.540148",
+      "timestamp": "2025-08-24T22:15:17.323304"
+    },
+    {
+      "pid": 5039,
+      "name": "nbagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.2353668212890625,
+      "create_time": "2025-08-24T19:45:11.124675",
+      "timestamp": "2025-08-24T22:15:17.323358"
+    },
+    {
+      "pid": 5041,
+      "name": "nbstated",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:45:11.824964",
+      "timestamp": "2025-08-24T22:15:17.323413"
+    },
+    {
+      "pid": 5042,
+      "name": "proactiveeventtrackerd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0335693359375,
+      "create_time": "2025-08-24T19:45:12.448576",
+      "timestamp": "2025-08-24T22:15:17.323483"
+    },
+    {
+      "pid": 5043,
+      "name": "RemoteManagementAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0392913818359375,
+      "create_time": "2025-08-24T19:45:12.450983",
+      "timestamp": "2025-08-24T22:15:17.323548"
+    },
+    {
+      "pid": 5044,
+      "name": "SafariConfigurationSubscriber",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.035381317138671875,
+      "create_time": "2025-08-24T19:45:12.568617",
+      "timestamp": "2025-08-24T22:15:17.323615"
+    },
+    {
+      "pid": 5046,
+      "name": "SecuritySubscriber",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02498626708984375,
+      "create_time": "2025-08-24T19:45:12.685889",
+      "timestamp": "2025-08-24T22:15:17.323682"
+    },
+    {
+      "pid": 5047,
+      "name": "InteractiveLegacyProfilesSubscriber",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0247955322265625,
+      "create_time": "2025-08-24T19:45:12.815667",
+      "timestamp": "2025-08-24T22:15:17.323750"
+    },
+    {
+      "pid": 5048,
+      "name": "ScreenSharingSubscriber",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.03566741943359375,
+      "create_time": "2025-08-24T19:45:12.935449",
+      "timestamp": "2025-08-24T22:15:17.323815"
+    },
+    {
+      "pid": 5052,
+      "name": "LegacyProfilesSubscriber",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02460479736328125,
+      "create_time": "2025-08-24T19:45:13.223802",
+      "timestamp": "2025-08-24T22:15:17.323880"
+    },
+    {
+      "pid": 5053,
+      "name": "PasscodeSettingsSubscriber",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.024700164794921875,
+      "create_time": "2025-08-24T19:45:13.306530",
+      "timestamp": "2025-08-24T22:15:17.323944"
+    },
+    {
+      "pid": 5054,
+      "name": "AccountSubscriber",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.04367828369140625,
+      "create_time": "2025-08-24T19:45:13.399099",
+      "timestamp": "2025-08-24T22:15:17.324012"
+    },
+    {
+      "pid": 5055,
+      "name": "ManagementTestSubscriber",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.024700164794921875,
+      "create_time": "2025-08-24T19:45:13.555301",
+      "timestamp": "2025-08-24T22:15:17.324077"
+    },
+    {
+      "pid": 5056,
+      "name": "ASConfigurationSubscriber",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.037097930908203125,
+      "create_time": "2025-08-24T19:45:13.653385",
+      "timestamp": "2025-08-24T22:15:17.324147"
+    },
+    {
+      "pid": 5057,
+      "name": "ManagedSettingsSubscriber",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.026798248291015625,
+      "create_time": "2025-08-24T19:45:13.800844",
+      "timestamp": "2025-08-24T22:15:17.324214"
+    },
+    {
+      "pid": 5059,
+      "name": "microstackshot",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:45:16.336140",
+      "timestamp": "2025-08-24T22:15:17.324269"
+    },
+    {
+      "pid": 5060,
+      "name": "EAUpdaterService",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:45:17.924225",
+      "timestamp": "2025-08-24T22:15:17.324334"
+    },
+    {
+      "pid": 5061,
+      "name": "GameControllerCo",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:45:23.199686",
+      "timestamp": "2025-08-24T22:15:17.324399"
+    },
+    {
+      "pid": 5063,
+      "name": "sysdiagnosed",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:45:39.723583",
+      "timestamp": "2025-08-24T22:15:17.324454"
+    },
+    {
+      "pid": 5098,
+      "name": "media-indexer",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.054454803466796875,
+      "create_time": "2025-08-24T19:46:11.186066",
+      "timestamp": "2025-08-24T22:15:17.324515"
+    },
+    {
+      "pid": 5104,
+      "name": "PodcastContentService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.0286102294921875,
+      "create_time": "2025-08-24T19:46:11.712364",
+      "timestamp": "2025-08-24T22:15:17.324589"
+    },
+    {
+      "pid": 5105,
+      "name": "com.apple.BKAgentService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.041294097900390625,
+      "create_time": "2025-08-24T19:46:11.816467",
+      "timestamp": "2025-08-24T22:15:17.324658"
+    },
+    {
+      "pid": 5109,
+      "name": "AMPArtworkAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.036334991455078125,
+      "create_time": "2025-08-24T19:46:12.181471",
+      "timestamp": "2025-08-24T22:15:17.324727"
+    },
+    {
+      "pid": 5118,
+      "name": "mdsync",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:46:20.742057",
+      "timestamp": "2025-08-24T22:15:17.324783"
+    },
+    {
+      "pid": 5208,
+      "name": "translationd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.06418228149414062,
+      "create_time": "2025-08-24T19:51:15.778786",
+      "timestamp": "2025-08-24T22:15:17.324836"
+    },
+    {
+      "pid": 5226,
+      "name": "griddatad",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:56:55.383396",
+      "timestamp": "2025-08-24T22:15:17.324898"
+    },
+    {
+      "pid": 5244,
+      "name": "dprivacyd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.025177001953125,
+      "create_time": "2025-08-24T19:56:56.253090",
+      "timestamp": "2025-08-24T22:15:17.324950"
+    },
+    {
+      "pid": 5245,
+      "name": "cfprefsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:56:56.297121",
+      "timestamp": "2025-08-24T22:15:17.325003"
+    },
+    {
+      "pid": 5246,
+      "name": "cfprefsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:56:56.302038",
+      "timestamp": "2025-08-24T22:15:17.325058"
+    },
+    {
+      "pid": 5250,
+      "name": "cfprefsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:56:56.595903",
+      "timestamp": "2025-08-24T22:15:17.325114"
+    },
+    {
+      "pid": 5259,
+      "name": "cfprefsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:56:58.176547",
+      "timestamp": "2025-08-24T22:15:17.325171"
+    },
+    {
+      "pid": 5260,
+      "name": "metrickitd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.014972686767578125,
+      "create_time": "2025-08-24T19:56:58.203923",
+      "timestamp": "2025-08-24T22:15:17.325222"
+    },
+    {
+      "pid": 5261,
+      "name": "com.apple.siri.embeddedspeech",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.039768218994140625,
+      "create_time": "2025-08-24T19:56:59.246022",
+      "timestamp": "2025-08-24T22:15:17.325289"
+    },
+    {
+      "pid": 5268,
+      "name": "cfprefsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:57:14.684778",
+      "timestamp": "2025-08-24T22:15:17.325343"
+    },
+    {
+      "pid": 5269,
+      "name": "cfprefsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:57:14.686795",
+      "timestamp": "2025-08-24T22:15:17.325397"
+    },
+    {
+      "pid": 5271,
+      "name": "dprivacyd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:57:31.255159",
+      "timestamp": "2025-08-24T22:15:17.325450"
+    },
+    {
+      "pid": 5273,
+      "name": "IMAutomaticHistoryDeletionAgent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.060749053955078125,
+      "create_time": "2025-08-24T19:57:31.258896",
+      "timestamp": "2025-08-24T22:15:17.325590"
+    },
+    {
+      "pid": 5282,
+      "name": "ANEStorageMainta",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:58:04.473453",
+      "timestamp": "2025-08-24T22:15:17.325677"
+    },
+    {
+      "pid": 5283,
+      "name": "ANEStorageMainta",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:58:04.474298",
+      "timestamp": "2025-08-24T22:15:17.325838"
+    },
+    {
+      "pid": 5285,
+      "name": "distnoted",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:58:04.511006",
+      "timestamp": "2025-08-24T22:15:17.325900"
+    },
+    {
+      "pid": 5286,
+      "name": "cfprefsd",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T19:58:04.598667",
+      "timestamp": "2025-08-24T22:15:17.325957"
+    },
+    {
+      "pid": 5288,
+      "name": "contactsdonationagent",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09937286376953125,
+      "create_time": "2025-08-24T19:58:14.871251",
+      "timestamp": "2025-08-24T22:15:17.326027"
+    },
+    {
+      "pid": 5354,
+      "name": "PerfPowerService",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T20:02:06.349936",
+      "timestamp": "2025-08-24T22:15:17.326088"
+    },
+    {
+      "pid": 5532,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.09279251098632812,
+      "create_time": "2025-08-24T20:21:53.905383",
+      "timestamp": "2025-08-24T22:15:17.326151"
+    },
+    {
+      "pid": 5603,
+      "name": "FPCKService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.044155120849609375,
+      "create_time": "2025-08-24T20:30:49.070088",
+      "timestamp": "2025-08-24T22:15:17.326200"
+    },
+    {
+      "pid": 5608,
+      "name": "ReportSystemMemo",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T20:32:33.424918",
+      "timestamp": "2025-08-24T22:15:17.326265"
+    },
+    {
+      "pid": 5618,
+      "name": "mlruntimed",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.04520416259765625,
+      "create_time": "2025-08-24T20:33:23.236179",
+      "timestamp": "2025-08-24T22:15:17.326324"
+    },
+    {
+      "pid": 5644,
+      "name": "IntelligencePlatformComputeService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10309219360351562,
+      "create_time": "2025-08-24T20:35:49.323230",
+      "timestamp": "2025-08-24T22:15:17.326414"
+    },
+    {
+      "pid": 5696,
+      "name": "spotlightknowledged",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.4029273986816406,
+      "create_time": "2025-08-24T20:39:56.896826",
+      "timestamp": "2025-08-24T22:15:17.326500"
+    },
+    {
+      "pid": 5738,
+      "name": "mediaanalysisd-access",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.026702880859375,
+      "create_time": "2025-08-24T20:42:59.253622",
+      "timestamp": "2025-08-24T22:15:17.326579"
+    },
+    {
+      "pid": 5771,
+      "name": "PlugInLibraryService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01049041748046875,
+      "create_time": "2025-08-24T20:45:16.828246",
+      "timestamp": "2025-08-24T22:15:17.326652"
+    },
+    {
+      "pid": 5772,
+      "name": "com.apple.photos.ImageConversionService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.055789947509765625,
+      "create_time": "2025-08-24T20:45:16.873665",
+      "timestamp": "2025-08-24T22:15:17.326714"
+    },
+    {
+      "pid": 5778,
+      "name": "VTDecoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.030231475830078125,
+      "create_time": "2025-08-24T20:45:19.602306",
+      "timestamp": "2025-08-24T22:15:17.326782"
+    },
+    {
+      "pid": 6149,
+      "name": "Tabby Helper (Renderer)",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.0648727416992188,
+      "create_time": "2025-08-24T21:30:23.884476",
+      "timestamp": "2025-08-24T22:15:17.326864"
+    },
+    {
+      "pid": 6504,
+      "name": "bash",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.01735687255859375,
+      "create_time": "2025-08-24T21:30:33.644266",
+      "timestamp": "2025-08-24T22:15:17.326913"
+    },
+    {
+      "pid": 6869,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.02155303955078125,
+      "create_time": "2025-08-24T21:43:30.155266",
+      "timestamp": "2025-08-24T22:15:17.326983"
+    },
+    {
+      "pid": 7338,
+      "name": "login",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T21:47:13.992646",
+      "timestamp": "2025-08-24T22:15:17.327036"
+    },
+    {
+      "pid": 7339,
+      "name": "zsh",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.00896453857421875,
+      "create_time": "2025-08-24T21:47:14.024644",
+      "timestamp": "2025-08-24T22:15:17.327089"
+    },
+    {
+      "pid": 7862,
+      "name": "AppStoreService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.10662078857421875,
+      "create_time": "2025-08-24T21:52:08.451731",
+      "timestamp": "2025-08-24T22:15:17.327155"
+    },
+    {
+      "pid": 7870,
+      "name": "VTDecoderXPCService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.041103363037109375,
+      "create_time": "2025-08-24T21:52:40.337791",
+      "timestamp": "2025-08-24T22:15:17.327225"
+    },
+    {
+      "pid": 7872,
+      "name": "KakaoTalk",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.4181137084960938,
+      "create_time": "2025-08-24T21:53:12.117738",
+      "timestamp": "2025-08-24T22:15:17.327278"
+    },
+    {
+      "pid": 7874,
+      "name": "com.apple.SafariPlatformSupport.Helper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.18310546875,
+      "create_time": "2025-08-24T21:53:12.847357",
+      "timestamp": "2025-08-24T22:15:17.327345"
+    },
+    {
+      "pid": 7876,
+      "name": "com.apple.WebKit.Networking",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.054454803466796875,
+      "create_time": "2025-08-24T21:53:17.608065",
+      "timestamp": "2025-08-24T22:15:17.327411"
+    },
+    {
+      "pid": 7911,
+      "name": "MTLCompilerService",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.07228851318359375,
+      "create_time": "2025-08-24T21:56:12.237123",
+      "timestamp": "2025-08-24T22:15:17.327477"
+    },
+    {
+      "pid": 7926,
+      "name": "intelligenceflowd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.14171600341796875,
+      "create_time": "2025-08-24T21:58:27.454990",
+      "timestamp": "2025-08-24T22:15:17.327544"
+    },
+    {
+      "pid": 7927,
+      "name": "TGOnDeviceInfere",
+      "cpu_percent": null,
+      "memory_percent": null,
+      "create_time": "2025-08-24T21:58:27.501299",
+      "timestamp": "2025-08-24T22:15:17.327606"
+    },
+    {
+      "pid": 7928,
+      "name": "com.apple.audio.SandboxHelper",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.020694732666015625,
+      "create_time": "2025-08-24T21:58:27.676642",
+      "timestamp": "2025-08-24T22:15:17.327669"
+    },
+    {
+      "pid": 7929,
+      "name": "intelligencecontextd",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.16660690307617188,
+      "create_time": "2025-08-24T21:58:27.770786",
+      "timestamp": "2025-08-24T22:15:17.327735"
+    },
+    {
+      "pid": 8026,
+      "name": "mdworker_shared",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.12798309326171875,
+      "create_time": "2025-08-24T22:12:05.998986",
+      "timestamp": "2025-08-24T22:15:17.327802"
+    },
+    {
+      "pid": 8038,
+      "name": "mdworker_shared",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.170135498046875,
+      "create_time": "2025-08-24T22:12:07.674470",
+      "timestamp": "2025-08-24T22:15:17.327868"
+    },
+    {
+      "pid": 8069,
+      "name": "mdworker_shared",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.13885498046875,
+      "create_time": "2025-08-24T22:14:56.963417",
+      "timestamp": "2025-08-24T22:15:17.327936"
+    },
+    {
+      "pid": 8075,
+      "name": "python3.9",
+      "cpu_percent": 0.0,
+      "memory_percent": 0.2349853515625,
+      "create_time": "2025-08-24T22:15:17.055885",
+      "timestamp": "2025-08-24T22:15:17.327995"
+    }
+  ],
+  "app_history": [
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "timestamp": "2025-08-24T22:15:17.328160",
+      "duration_minutes": 5,
+      "is_active": true,
+      "window_title": null
+    },
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "timestamp": "2025-08-24T22:10:17.328160",
+      "duration_minutes": 5,
+      "is_active": true,
+      "window_title": null
+    },
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "timestamp": "2025-08-24T22:05:17.328160",
+      "duration_minutes": 5,
+      "is_active": true,
+      "window_title": null
+    },
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "timestamp": "2025-08-24T22:00:17.328160",
+      "duration_minutes": 5,
+      "is_active": true,
+      "window_title": null
+    },
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "timestamp": "2025-08-24T21:55:17.328160",
+      "duration_minutes": 5,
+      "is_active": true,
+      "window_title": null
+    },
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "timestamp": "2025-08-24T21:50:17.328160",
+      "duration_minutes": 5,
+      "is_active": true,
+      "window_title": null
+    },
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "timestamp": "2025-08-24T21:45:17.328160",
+      "duration_minutes": 5,
+      "is_active": true,
+      "window_title": null
+    },
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "timestamp": "2025-08-24T21:40:17.328160",
+      "duration_minutes": 5,
+      "is_active": true,
+      "window_title": null
+    },
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "timestamp": "2025-08-24T21:35:17.328160",
+      "duration_minutes": 5,
+      "is_active": true,
+      "window_title": null
+    },
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "timestamp": "2025-08-24T21:30:17.328160",
+      "duration_minutes": 5,
+      "is_active": true,
+      "window_title": null
+    },
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "timestamp": "2025-08-24T21:25:17.328160",
+      "duration_minutes": 5,
+      "is_active": true,
+      "window_title": null
+    },
+    {
+      "bundle_id": "org.tabby",
+      "app_name": "Tabby",
+      "timestamp": "2025-08-24T21:20:17.328160",
+      "duration_minutes": 5,
+      "is_active": true,
+      "window_title": null
+    }
+  ],
+  "usage_stats": {
+    "daily_app_launches": {
+      "Google Chrome": 1,
+      "Spotify": 1,
+      "Claude": 1,
+      "활성 상태 보기": 1,
+      "GitHub Desktop": 1,
+      "터미널": 1,
+      "Mail": 1,
+      "Tabby": 1,
+      "Obsidian": 1,
+      "JANDI": 1,
+      "Discord": 1,
+      "Notion": 1,
+      "메모": 1,
+      "카카오톡": 1
+    },
+    "total_usage_time": {
+      "Google Chrome": 1303.06,
+      "Spotify": 1303.06,
+      "Claude": 1303.06,
+      "활성 상태 보기": 1303.06,
+      "GitHub Desktop": 1303.06,
+      "터미널": 1303.06,
+      "Mail": 1302.91,
+      "Tabby": 1301.84,
+      "Obsidian": 1301.82,
+      "JANDI": 1301.79,
+      "Discord": 1301.49,
+      "Notion": 940.86,
+      "메모": 938.97,
+      "카카오톡": 562.09
+    },
+    "most_used_apps": [
+      [
+        "Google Chrome",
+        1303.06
+      ],
+      [
+        "Spotify",
+        1303.06
+      ],
+      [
+        "Claude",
+        1303.06
+      ],
+      [
+        "활성 상태 보기",
+        1303.06
+      ],
+      [
+        "GitHub Desktop",
+        1303.06
+      ],
+      [
+        "터미널",
+        1303.06
+      ],
+      [
+        "Mail",
+        1302.91
+      ],
+      [
+        "Tabby",
+        1301.84
+      ],
+      [
+        "Obsidian",
+        1301.82
+      ],
+      [
+        "JANDI",
+        1301.79
+      ]
+    ],
+    "collection_timestamp": "2025-08-24T22:15:17.328682"
+  }
+}

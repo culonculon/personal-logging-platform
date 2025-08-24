@@ -1,0 +1,254 @@
+{
+  "collection_info": {
+    "timestamp": "2025-08-24T22:15:17.266166",
+    "collector": "AppCollector",
+    "platform": "macOS",
+    "version": "1.0.0"
+  },
+  "summary": {
+    "total_running_apps": 15,
+    "total_processes": 788,
+    "total_history_records": 12,
+    "analysis_timestamp": "2025-08-24T22:15:17.335994"
+  },
+  "category_analysis": {
+    "running_apps": {
+      "category_breakdown": {
+        "browser": [
+          {
+            "app_name": "Google Chrome",
+            "bundle_id": "com.google.Chrome",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 1250
+          }
+        ],
+        "entertainment": [
+          {
+            "app_name": "Spotify",
+            "bundle_id": "com.spotify.client",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 1253
+          }
+        ],
+        "productivity": [
+          {
+            "app_name": "Claude",
+            "bundle_id": "com.anthropic.claudefordesktop",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 1255
+          },
+          {
+            "app_name": "Obsidian",
+            "bundle_id": "md.obsidian",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 2489
+          },
+          {
+            "app_name": "Notion",
+            "bundle_id": "notion.id",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 4262
+          }
+        ],
+        "system": [
+          {
+            "app_name": "활성 상태 보기",
+            "bundle_id": "com.apple.ActivityMonitor",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 1256
+          },
+          {
+            "app_name": "Finder",
+            "bundle_id": "com.apple.finder",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 1261
+          }
+        ],
+        "developer": [
+          {
+            "app_name": "GitHub Desktop",
+            "bundle_id": "com.github.GitHubClient",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 1257
+          },
+          {
+            "app_name": "터미널",
+            "bundle_id": "com.apple.Terminal",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 1258
+          },
+          {
+            "app_name": "Tabby",
+            "bundle_id": "org.tabby",
+            "is_active": true,
+            "is_frontmost": true,
+            "pid": 2468
+          }
+        ],
+        "other": [
+          {
+            "app_name": "Mail",
+            "bundle_id": "com.apple.mail",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 1952
+          },
+          {
+            "app_name": "메모",
+            "bundle_id": "com.apple.Notes",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 4296
+          }
+        ],
+        "communication": [
+          {
+            "app_name": "JANDI",
+            "bundle_id": "com.jandi.osx.JANDI",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 2517
+          },
+          {
+            "app_name": "Discord",
+            "bundle_id": "com.hnc.Discord",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 2606
+          },
+          {
+            "app_name": "카카오톡",
+            "bundle_id": "com.kakao.KakaoTalkMac",
+            "is_active": false,
+            "is_frontmost": false,
+            "pid": 7872
+          }
+        ]
+      },
+      "category_counts": {
+        "browser": 1,
+        "entertainment": 1,
+        "productivity": 3,
+        "system": 2,
+        "developer": 3,
+        "other": 2,
+        "communication": 3
+      },
+      "total_apps": 15,
+      "active_categories": 7
+    },
+    "usage_patterns": {
+      "category_usage_minutes": {
+        "developer": 60.0
+      },
+      "category_frequency": {
+        "developer": 12
+      },
+      "hourly_patterns": {
+        "22": {
+          "developer": 20.0
+        },
+        "21": {
+          "developer": 40.0
+        }
+      },
+      "top_categories": [
+        [
+          "developer",
+          60.0
+        ]
+      ]
+    },
+    "productivity_score": {
+      "current_productivity_score": 66.7,
+      "historical_productivity_score": 100.0,
+      "overall_score": 83.3,
+      "total_usage_minutes": 60,
+      "productivity_weights": {
+        "developer": 1.0,
+        "productivity": 0.9,
+        "communication": 0.7,
+        "browser": 0.5,
+        "entertainment": 0.1,
+        "gaming": 0.0,
+        "system": 0.3,
+        "other": 0.5
+      }
+    }
+  },
+  "top_apps": {
+    "most_used": [
+      [
+        "Google Chrome",
+        1303.06
+      ],
+      [
+        "Spotify",
+        1303.06
+      ],
+      [
+        "Claude",
+        1303.06
+      ],
+      [
+        "활성 상태 보기",
+        1303.06
+      ],
+      [
+        "GitHub Desktop",
+        1303.06
+      ]
+    ],
+    "currently_running": [
+      {
+        "name": "Google Chrome",
+        "category": "browser"
+      },
+      {
+        "name": "Spotify",
+        "category": "entertainment"
+      },
+      {
+        "name": "Claude",
+        "category": "productivity"
+      },
+      {
+        "name": "활성 상태 보기",
+        "category": "system"
+      },
+      {
+        "name": "GitHub Desktop",
+        "category": "developer"
+      },
+      {
+        "name": "터미널",
+        "category": "developer"
+      },
+      {
+        "name": "Finder",
+        "category": "system"
+      },
+      {
+        "name": "Mail",
+        "category": "other"
+      },
+      {
+        "name": "Tabby",
+        "category": "developer"
+      },
+      {
+        "name": "Obsidian",
+        "category": "productivity"
+      }
+    ]
+  }
+}
